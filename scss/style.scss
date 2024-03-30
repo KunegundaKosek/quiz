@@ -1,0 +1,147 @@
+@import '_mixins.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    //   height: 100vh;
+    font-size: 16px;
+    background: rgb(114, 109, 205);
+    background: rgb(30, 21, 194);
+    background: linear-gradient(
+        90deg,
+        rgba(30, 21, 194, 1) 0%,
+        rgba(9, 9, 121, 1) 32%,
+        rgba(47, 21, 238, 1) 100%
+    );
+    font-family: 'Roboto Condensed', sans-serif;
+
+    color: white;
+    .main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        //     justify-content: start;
+        width: 80%;
+        margin: auto;
+        //   border: 2px solid black;
+        margin-top: 30px;
+        border-radius: 30px;
+        text-align: center;
+        min-height: 80vh;
+
+        @media (max-width: 375px) {
+            width: 98%;
+        }
+
+        &__timer {
+            position: fixed;
+            top: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            padding-top: 200px;
+            padding-bottom: 30px;
+            font-size: 3rem;
+
+            @media(max-width: 275px) {
+                  font-size: 1rem;
+                  padding-top: 50px;
+            }
+        }
+
+        .buttonStart {
+            @include button(200px, 0, 0);
+
+            cursor: pointer;
+            transition: 0.2s;
+            font-family: Arial, Helvetica, sans-serif;
+
+            &:hover {
+                background-color: rgb(19, 5, 19);
+            }
+
+            @media(max-width: 375px) {
+                  // font-size: 1rem;
+                  height: 50px;
+                  width: 50%;
+            }
+        }
+
+        &__answerNumber {
+            padding: 20px;
+            border-top: 3px solid black;
+            width: 100%;
+            text-transform: uppercase;
+            font-size: 1.5rem;
+
+            &:nth-child(1) {
+                //     border: none;
+            }
+        }
+
+        .button {
+            @include button(50%, 10px, 20px);
+
+            @media (max-width: 375px) {
+                width: 98%;
+                margin: 10px;
+                height: 40px;
+                padding: 0;
+            }
+        }
+
+        &__buttonEnd {
+            @include button(25%, 0, 20px);
+            background-color: rgb(26, 26, 231);
+            @media (max-width: 375px) {
+                width: 50%;
+            }
+        }
+
+        &__scoreText {
+            @media (max-width: 375px) {
+                font-size: 1rem;
+            }
+        }
+
+        &__goodList {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            li {
+                background-color: rgba($color: #008000, $alpha: 1);
+                margin: 20px;
+                padding: 15px;
+                list-style-type: none;
+                @media (max-width: 375px) {
+                    font-size: 0.8rem;
+                    margin: 5px;
+                    padding: 5px;
+                }
+            }
+        }
+
+        &__errorList {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            li {
+                background-color: rgba($color: rgb(243, 40, 40), $alpha: 1);
+                margin: 20px;
+                padding: 15px;
+                list-style-type: none;
+                @media (max-width: 375px) {
+                    font-size: 0.8rem;
+                    margin: 5px;
+                    padding: 5px;
+                }
+            }
+        }
+    }
+}

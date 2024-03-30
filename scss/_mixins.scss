@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+@mixin button($width, $padding, $marign) {
+      height: 50px;
+      border-radius: 15px;
+      background-color: rgb(101, 63, 226);
+      border: 2px solid purple;
+      cursor: pointer;
+      font-family: "Roboto Condensed", sans-serif;
+      color: white;
+
+      width: $width;
+      padding: $padding;
+      margin: $marign;
+}
