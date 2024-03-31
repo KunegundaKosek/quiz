@@ -10,7 +10,7 @@ const removeButton = () => {
     answer1.remove();
     answer2.remove();
     answer3.remove();
-    console.log('xd')
+    console.log('xd');
 }
 
 answer1.addEventListener('click', () => removeButton());
