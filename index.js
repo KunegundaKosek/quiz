@@ -1,4 +1,4 @@
-import { answers } from './answers.js';
+import { answers } from './answers1.js';
 import Timer from './timer.js';
 
 const buttonStart = document.querySelector('#start');

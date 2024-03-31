@@ -88,6 +88,7 @@ body .main .button {
   width: 50%;
   padding: 10px;
   margin: 20px;
+  height: auto;
 }
 @media (max-width: 375px) {
   body .main .button {

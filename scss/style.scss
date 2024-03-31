@@ -82,13 +82,11 @@ body {
             text-transform: uppercase;
             font-size: 1.5rem;
 
-            &:nth-child(1) {
-                //     border: none;
-            }
         }
 
         .button {
             @include button(50%, 10px, 20px);
+            height: auto;
 
             @media (max-width: 375px) {
                 width: 98%;
