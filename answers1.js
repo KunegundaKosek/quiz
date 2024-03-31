@@ -229,7 +229,7 @@ export const answers = [
       buttonIdA: 'title-6-a',
       buttonIdB: 'title-6-b',
       buttonIdC: 'title-6-c',
-      buttonIdC: 'title-6-d',
+      buttonIdD: 'title-6-d',
       correctAnswer: 'title-6-d',
     },
 
@@ -268,7 +268,7 @@ export const answers = [
       buttonIdA: 'title-7-a',
       buttonIdB: 'title-7-b',
       buttonIdC: 'title-7-c',
-      buttonIdC: 'title-7-d',
+      buttonIdD: 'title-7-d',
       correctAnswer: 'title-7-b',
     },
 
@@ -303,7 +303,7 @@ export const answers = [
       buttonIdA: 'title-8-a',
       buttonIdB: 'title-8-b',
       buttonIdC: 'title-8-c',
-      buttonIdC: 'title-8-d',
+      buttonIdD: 'title-8-d',
       correctAnswer: 'title-8-c',
     },
 
@@ -380,7 +380,7 @@ export const answers = [
       buttonIdA: 'title-9-a',
       buttonIdB: 'title-9-b',
       buttonIdC: 'title-9-c',
-      buttonIdC: 'title-9-d',
+      buttonIdD: 'title-9-d',
       correctAnswer: 'title-9-a',
     },
 
@@ -432,7 +432,7 @@ export const answers = [
       buttonIdA: 'title-10-a',
       buttonIdB: 'title-10-b',
       buttonIdC: 'title-10-c',
-      buttonIdC: 'title-10-d',
+      buttonIdD: 'title-10-d',
       correctAnswer: 'title-10-b',
     },
 
@@ -459,7 +459,7 @@ export const answers = [
       buttonIdA: 'title-11-a',
       buttonIdB: 'title-11-b',
       buttonIdC: 'title-11-c',
-      buttonIdC: 'title-11-d',
+      buttonIdD: 'title-11-d',
       correctAnswer: 'title-11-c',
     },
 
