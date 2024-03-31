@@ -1,6 +1,6 @@
 // ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO
 
-const answer2 = [
+export const answer2 = [
     {
       id: 0,
       title: `1. Do pojazdu Policji uczestnik ruchu może być wpuszczony tylko w razie konieczności `,
@@ -75,8 +75,9 @@ const answer2 = [
       buttonIdA: 'title-0-a',
       buttonIdB: 'title-0-b',
       buttonIdC: 'title-0-c',
-      buttonIdC: 'title-0-d',
+      buttonIdD: 'title-0-d',
       correctAnswer: 'title-0-d',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
@@ -155,8 +156,9 @@ const answer2 = [
       buttonIdA: 'title-1-a',
       buttonIdB: 'title-1-b',
       buttonIdC: 'title-1-c',
-      buttonIdC: 'title-1-d',
+      buttonIdD: 'title-1-d',
       correctAnswer: 'title-1-b',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
@@ -207,8 +209,9 @@ const answer2 = [
       buttonIdA: 'title-2-a',
       buttonIdB: 'title-2-b',
       buttonIdC: 'title-2-c',
-      buttonIdC: 'title-2-d',
+      buttonIdD: 'title-2-d',
       correctAnswer: 'title-2-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
@@ -235,8 +238,9 @@ const answer2 = [
       buttonIdA: 'title-3-a',
       buttonIdB: 'title-3-b',
       buttonIdC: 'title-3-c',
-      buttonIdC: 'title-3-d',
+      buttonIdD: 'title-3-d',
       correctAnswer: 'title-3-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
@@ -290,133 +294,452 @@ const answer2 = [
       buttonIdA: 'title-4-a',
       buttonIdB: 'title-4-b',
       buttonIdC: 'title-4-c',
-      buttonIdC: 'title-4-d',
+      buttonIdD: 'title-4-d',
       correctAnswer: 'title-4-d',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 5,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `6. Policjant nieumundurowany NIE może`,
+      a: `§ 2
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze zabudowanym.`,
+      b: `§ 2
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze niezabudowanym.`,
+      c: `§ 2
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem na obszarze zabudowanym i niezabudowanym`,
+      d: `§ 3
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze zabudowanym.`,
       buttonIdA: 'title-5-a',
       buttonIdB: 'title-5-b',
       buttonIdC: 'title-5-c',
-      buttonIdC: 'title-5-d',
+      buttonIdD: 'title-5-d',
       correctAnswer: 'title-5-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 6,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `7. Policjant po zatrzymaniu pojazdu podaje kierującemu `,
+      c: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz
+      przyczynę zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego
+      uczestnika ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi
+      ruchu odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w
+      szczególności dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten
+      dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.
+      […]`,
+      b: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu imię i nazwisko oraz
+      przyczynę zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego
+      uczestnika ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi
+      ruchu odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w
+      szczególności dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten
+      dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.
+      […]`,
+      a: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz
+      przyczynę zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową bez wezwania;
+      2) policjant nieumundurowany okazuje legitymację służbową na żądanie kontrolowanego uczstnika ruchu.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi
+      ruchu odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w
+      szczególności dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten
+      dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.
+      […]`,
+      d: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz
+      przyczynę zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego
+      uczestnika ruchu;
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi
+      ruchu odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w
+      szczególności dotyczących jego imienia i nazwiska oraz nazwy organu, który wydał ten
+      dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      […]`,
       buttonIdA: 'title-6-a',
       buttonIdB: 'title-6-b',
       buttonIdC: 'title-6-c',
-      buttonIdC: 'title-6-d',
-      correctAnswer: 'title-6-a',
+      buttonIdD: 'title-6-d',
+      correctAnswer: 'title-6-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 7,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `8. Podczas prowadzonych przez umundurowanych policjantów działań kontrolnych,
+      polegających na poddaniu jak największej liczby kierujących badaniu w celu ustalenia w
+      organizmie zawartości alkoholu policjant poprzestaje na podaniu `,
+      b: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu
+      […]`,
+      a: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu
+      […]`,
+      c: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu
+      […]`,
+      d: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu`,
       buttonIdA: 'title-7-a',
       buttonIdB: 'title-7-b',
       buttonIdC: 'title-7-c',
-      buttonIdC: 'title-7-d',
-      correctAnswer: 'title-7-a',
+      buttonIdD: 'title-7-d',
+      correctAnswer: 'title-7-b',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 8,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `9. Po zatrzymaniu pojazdu w związku z podanym sygnałem do zatrzymania przez
+      kontrolującego, kierujący tym pojazdem powinien trzymać ręce na kierownicy oraz na
+      polecenie policjanta`,
+      c: `§ 24
+      1. W przypadku podania przez kontrolującego polecenia lub sygnału do zatrzymania pojazdu
+      kierujący tym pojazdem:
+      1) zatrzymuje pojazd;
+      2) trzyma ręce na kierownicy;
+      3) na polecenie kontrolującego:
+      a) wyłącza silnik pojazdu,
+      b) włącza światła awaryjne,
+      c) umożliwia mu dokonanie identyfikacji pojazdu, w szczególności przez udostępnienie komory
+      silnika oraz innych miejsc w pojeździe.
+      2. Kierujący pojazdem lub pasażer pojazdu mogą wysiadać z kontrolowanego pojazdu za
+      zezwoleniem kontrolującego. `,
+      a: `§ 24
+      1. W przypadku podania przez kontrolującego polecenia lub sygnału do zatrzymania pojazdu
+      kierujący tym pojazdem:
+      1) zatrzymuje pojazd;
+      2) trzyma ręce na kierownicy;
+      3) na polecenie kontrolującego:
+      a) wyłącza silnik pojazdu,
+      b) włącza światła awaryjne,
+      2. Kierujący pojazdem lub pasażer pojazdu mogą wysiadać z kontrolowanego pojazdu za
+      zezwoleniem kontrolującego. `,
+      b: `§ 24
+      1. W przypadku podania przez kontrolującego polecenia lub sygnału do zatrzymania pojazdu
+      kierujący tym pojazdem:
+      1) zatrzymuje pojazd;
+      2) trzyma ręce na kierownicy;
+      3) na polecenie kontrolującego:
+      a) wyłącza silnik pojazdu,
+      b) włącza światła awaryjne,
+      c) umożliwia mu dokonanie identyfikacji pojazdu, w szczególności przez udostępnienie komory
+      silnika oraz innych miejsc w pojeździe.
+      2. Kierujący pojazdem lub pasażer pojazdu nie mogą wysiadać z kontrolowanego pojazdu `,
+      d: `§ 24
+      1. W przypadku podania przez kontrolującego polecenia lub sygnału do zatrzymania pojazdu
+      kierujący tym pojazdem:
+      1) zatrzymuje pojazd;
+      2) trzyma ręce na kierownicy;
+      3) na polecenie kontrolującego:
+      a) włącza światła awaryjne,
+      b) umożliwia mu dokonanie identyfikacji pojazdu, w szczególności przez udostępnienie komory
+      silnika oraz innych miejsc w pojeździe.
+      2. Kierujący pojazdem lub pasażer pojazdu mogą wysiadać z kontrolowanego pojazdu za
+      zezwoleniem kontrolującego. `,
       buttonIdA: 'title-8-a',
       buttonIdB: 'title-8-b',
       buttonIdC: 'title-8-c',
-      buttonIdC: 'title-8-d',
-      correctAnswer: 'title-8-a',
+      buttonIdD: 'title-8-d',
+      correctAnswer: 'title-8-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 9,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `10. Umundurowany policjant, po zatrzymaniu kierującego pojazdem do kontroli drogowej
+      zobowiązany jest podać kierującemu stopień, imię i nazwisko oraz`,
+      a: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;`,
+      b: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;`,
+      c: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;`,
+      d: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową bez wezwania`,
       buttonIdA: 'title-9-a',
       buttonIdB: 'title-9-b',
       buttonIdC: 'title-9-c',
-      buttonIdC: 'title-9-d',
+      buttonIdD: 'title-9-d',
       correctAnswer: 'title-9-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 10,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `11. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to
+      zabronione, kierujący pojazdem Policji przed przystąpieniem do kontroli włącza `,
+      c: `§ 3
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza niebieskie światło błyskowe.`,
+      a: `§ 3
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza niebieskie światło błyskowe.`,
+      b: `§ 3
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza światła awaryjne.`,
+      d: `§ 3
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza niebieskie światło błyskowe oraz światła awaryjne.`,
       buttonIdA: 'title-10-a',
       buttonIdB: 'title-10-b',
       buttonIdC: 'title-10-c',
-      buttonIdC: 'title-10-d',
-      correctAnswer: 'title-10-a',
+      buttonIdD: 'title-10-d',
+      correctAnswer: 'title-10-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 11,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `12. W wyniku działań pościgowych policjant zatrzymał do kontroli samochód marki Fiat.
+      Kierujący pojazdem zarzucił policjantowi, że ten działał nieprawidłowo ponieważ nie
+      przedstawił się. W tej sytuacji `,
+      b: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi ruchu
+      odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w szczególności
+      dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.`,
+
+      a: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową bez wezwania;
+      2) policjant nieumundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika ruchu.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi ruchu
+      odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w szczególności
+      dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.`,
+      c: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu stopień, imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi ruchu
+      odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w szczególności
+      dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.`,
+      d: `§ 4
+      1. Policjant, po zatrzymaniu pojazdu, podaje kierującemu imię i nazwisko oraz przyczynę
+      zatrzymania, a ponadto:
+      1) policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika
+      ruchu;
+      2) policjant nieumundurowany okazuje legitymację służbową bez wezwania.
+      2. Legitymację służbową okazuje się w sposób umożliwiający kontrolowanemu uczestnikowi ruchu
+      odczytanie i zanotowanie danych pozwalających na identyfikację policjanta, w szczególności
+      dotyczących jego stopnia, imienia i nazwiska oraz nazwy organu, który wydał ten dokument.
+      3. Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika
+      pojazdu.
+      4. Przepisu ust. 1 nie stosuje się w razie zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa;
+      3) jeżeli zachodzi uzasadnione podejrzenie, że znajdują się w nim osoby, które popełniły
+      przestępstwo.`,
       buttonIdA: 'title-12-a',
       buttonIdB: 'title-12-b',
       buttonIdC: 'title-12-c',
-      buttonIdC: 'title-12-d',
-      correctAnswer: 'title-12-a',
+      buttonIdD: 'title-12-d',
+      correctAnswer: 'title-12-b',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 12,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `13. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem`,
+      a: `§ 2
+      1. Policjant umundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności - latarką ze
+      światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub
+      światłem czerwonym.
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze zabudowanym.
+      3. Policjant nieumundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności - latarką ze światłem
+      czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem
+      czerwonym.`,
+      b: `§ 2
+      1. Policjant umundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności - latarką ze
+      światłem niebieskim albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub
+      światłem niebieskim.
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze zabudowanym.
+      3. Policjant nieumundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności - latarką ze światłem
+      niebieskim albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem
+      niebieskim.`,
+      c: `§ 2
+      1. Policjant umundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności - latarką ze
+      światłem czerwonym lib niebieskim albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub
+      światłem czerwonym lub niebieskim.
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze zabudowanym.
+      3. Policjant nieumundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności - latarką ze światłem
+      czerwonym lub niebieskim albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem
+      czerwonym lub niebieskim.`,
+      d: `§ 2
+      1. Policjant umundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności - latarką ze
+      światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub
+      światłem czerwonym.
+      2. Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie
+      na obszarze niezabudowanym.
+      3. Policjant nieumundurowany w warunkach dostatecznej widoczności podaje sygnały tarczą do
+      zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności - latarką ze światłem
+      czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem
+      czerwonym.`,
       buttonIdA: 'title-12-a',
       buttonIdB: 'title-12-b',
       buttonIdC: 'title-12-c',
-      buttonIdC: 'title-12-d',
+      buttonIdD: 'title-12-d',
       correctAnswer: 'title-12-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 
     {
       id: 13,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `14. Policjant zatrzymał pojazd Policji w miejscu zabronionym poza obszarem zabudowanym w
+      celu przeprowadzenia czynności kontrolnych. W tej sytuacji policjant postąpił `,
+      d: `§ 3.
+      1. Policjant zatrzymuje pojazd do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu
+      ruchu.
+      2. W celu dojazdu do miejsca, o którym mowa w ust. 1, policjant może wydać kontrolowanemu
+      uczestnikowi ruchu polecenie jazdy za pojazdem Policji.
+      3. Przepisu ust. 1 nie stosuje się w razie konieczności zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego zachodzi uzasadnione podejrzenie, iż może on zagrażać bezpieczeństwu ruchu
+      drogowego ze względu na swój stan techniczny lub zachowanie się kierującego.
+      4. Pojazd Policji powinien być, w miarę możliwości, ustawiony za zatrzymanym pojazdem, jeżeli
+      polecenie do zatrzymania zostało podane z poruszającego się pojazdu Policji.
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza niebieskie światło błyskowe.`,
+      a: `§ 3.
+      1. Policjant zatrzymuje pojazd do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu
+      ruchu.
+      2. W celu dojazdu do miejsca, o którym mowa w ust. 1, policjant może wydać kontrolowanemu
+      uczestnikowi ruchu polecenie jazdy za pojazdem Policji.
+      3. Przepisu ust. 1 nie stosuje się w razie konieczności zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego zachodzi uzasadnione podejrzenie, iż może on zagrażać bezpieczeństwu ruchu
+      drogowego ze względu na swój stan techniczny lub zachowanie się kierującego.
+      4. Pojazd Policji powinien być, w miarę możliwości, ustawiony za zatrzymanym pojazdem, jeżeli
+      polecenie do zatrzymania zostało podane z poruszającego się pojazdu Policji.
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza światła awaryjne`,
+      b: `§ 3.
+      1. Policjant zatrzymuje pojazd do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu
+      ruchu.
+      2. W celu dojazdu do miejsca, o którym mowa w ust. 1, policjant może wydać kontrolowanemu
+      uczestnikowi ruchu polecenie jazdy za pojazdem Policji.
+      3. Przepisu ust. 1 nie stosuje się w razie konieczności zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego zachodzi uzasadnione podejrzenie, iż może on zagrażać bezpieczeństwu ruchu
+      drogowego ze względu na swój stan techniczny.
+      4. Pojazd Policji powinien być, w miarę możliwości, ustawiony za zatrzymanym pojazdem, jeżeli
+      polecenie do zatrzymania zostało podane z poruszającego się pojazdu Policji.
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza niebieskie światło błyskowe.`,
+      c: `§ 3.
+      1. Policjant zatrzymuje pojazd do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu
+      ruchu.
+      2. W celu dojazdu do miejsca, o którym mowa w ust. 1, policjant może wydać kontrolowanemu
+      uczestnikowi ruchu polecenie jazdy za pojazdem Policji.
+      3. Przepisu ust. 1 nie stosuje się w razie konieczności zatrzymania pojazdu:
+      1) w wyniku prowadzonych działań pościgowych;
+      2) co do którego zachodzi uzasadnione podejrzenie, iż może on zagrażać bezpieczeństwu ruchu
+      drogowego ze względu na swój stan techniczny lub zachowanie się kierującego.
+      4. Pojazd Policji powinien być, w miarę możliwości, ustawiony za zatrzymanym pojazdem, jeżeli
+      polecenie do zatrzymania zostało podane z poruszającego się pojazdu Policji.
+      5. W przypadku zatrzymania pojazdu na jezdni lub poboczu, w miejscu gdzie jest to zabronione,
+      kierujący pojazdem Policji przed przystąpieniem do kontroli włącza czerwone światło błyskowe.`,
       buttonIdA: 'title-13-a',
       buttonIdB: 'title-13-b',
       buttonIdC: 'title-13-c',
-      buttonIdC: 'title-13-d',
-      correctAnswer: 'title-13-a',
+      buttonIdD: 'title-13-d',
+      correctAnswer: 'title-13-d',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE KONTROLI RUCHU DROGOWEGO',
     },
 ]

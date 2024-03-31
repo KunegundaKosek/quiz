@@ -41,7 +41,6 @@ body {
   padding: 20px;
 }
 .main h1 {
-  padding-top: 200px;
   padding-bottom: 30px;
   font-size: 3rem;
 }
@@ -51,7 +50,7 @@ body {
     padding-top: 50px;
   }
 }
-.main .buttonStart {
+.main__buttonStart {
   height: 50px;
   border-radius: 15px;
   background-color: rgb(101, 63, 226);
@@ -65,14 +64,18 @@ body {
   cursor: pointer;
   transition: 0.2s;
   font-family: Arial, Helvetica, sans-serif;
+  width: 40%;
+  height: auto;
+  padding: 20px;
+  margin: 5px;
 }
-.main .buttonStart:hover {
+.main__buttonStart:hover {
   background-color: rgb(19, 5, 19);
 }
 @media (max-width: 400px) {
-  .main .buttonStart {
-    height: 50px;
-    width: 50%;
+  .main__buttonStart {
+    height: auto;
+    width: 98%;
   }
 }
 .main__answerNumber {
