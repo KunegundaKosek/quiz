@@ -4,19 +4,19 @@ export const answers = [
     {
         id: 0,
         title: '1. W podstawowym rozkładzie czasu służby, po 8 godzinach służby policjantowi udziela się po zakończeniu służby w danym dniu czasu wolnego nie krótszego niż',
-        a: `§4
+        a: `</br>§4 </br>
             4. W zmianowym rozkładzie czasu służby, o którym mowa w ust. 1, po 8 godzinach służby
             policjantowi udziela się co najmniej 11 godzin czasu wolnego, a jeżeli pełnił on służbę w porze
             nocnej - co najmniej 14 godzin czasu wolnego. Po pięciu kolejnych służbach pełnionych w porze nocnej policjantowi udziela się co najmniej 48 godzin czasu wolnego.`,
-        b: `§5
+        b: `</br>§5 </br>
         5. W zmianowym rozkładzie czasu służby, o którym mowa w ust. 3, po 8 godzinach służby
         policjantowi udziela się co najmniej 12 godzin czasu wolnego, a jeżeli pełnił on służbę w porze
         nocnej - co najmniej 11 godzin czasu wolnego. Po pięciu kolejnych służbach pełnionych w porze nocnej policjantowi udziela się co najmniej 48 godzin czasu wolnego.`,
-        c: `§6
+        c: `</br>§6 </br>
         8. W zmianowym rozkładzie czasu służby, o którym mowa w ust. 7, po 10 godzinach służby
         policjantowi udziela się co najmniej 12 godzin czasu wolnego, a jeżeli pełnił on służbę w porze
         nocnej - co najmniej 16 godzin czasu wolnego. Po pięciu kolejnych służbach pełnionych w porze nocnej policjantowi udziela się co najmniej 24 godzin czasu wolnego.`,
-        d: `§4
+        d: `</br>§4 </br>
         5. W zmianowym rozkładzie czasu służby, o którym mowa w ust. 1, po 8 godzinach służby
         policjantowi udziela się co najmniej 12 godzin czasu wolnego, a jeżeli pełnił on służbę w porze
         nocnej - co najmniej 14 godzin czasu wolnego. Po pięciu kolejnych służbach pełnionych w porze nocnej policjantowi udziela się co najmniej 48 godzin czasu wolnego.`,
@@ -32,22 +32,22 @@ export const answers = [
         id: 1,
         title: `2. Policjant może pełnić dyżur domowy (na polecenie przełożonego właściwego do spraw
             osobowych) nieprzekraczający `,
-        c: `§ 14
+        c: `</br>§ 14</br>
         1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
         organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
         potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
         zakończeniu służby pełnionej w porze nocnej.`,
-        b: `§ 15
+        b: `</br>§ 15</br>
         1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
         organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
         potrzeby służby. Do pełnienia dyżuru domowego można wyznaczyć policjanta bezpośrednio po
         zakończeniu służby pełnionej w porze nocnej.`,
-        a: `§ 16
+        a: `</br>§ 16</br>
         5. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
         organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
         potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
         zakończeniu służby pełnionej w porze nocnej.`,
-        d: `§ 14
+        d: `</br>§ 14</br>
         1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
         organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
         potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
@@ -64,19 +64,19 @@ export const answers = [
         id: 2,
         title: `3. Czas na przygotowanie się policjanta do służby, w tym pobranie uzbrojenia i wyposażenia
         nie powinien przekraczać `,
-        d: `§ 11
+        d: `</br>§ 11</br>
         Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
         zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
         ten nie powinien być dłuższy niż 30 minut.`,
-        b: `§ 11
+        b: `</br>§ 11</br>
         Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
         zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, nie wlicza się do czasu służby. Czas
         ten nie powinien być dłuższy niż 20 minut.`,
-        c: `§ 11
+        c: `</br>§ 11</br>
         Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
         zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
         ten nie powinien być dłuższy niż 20 minut.`,
-        a: `§ 11
+        a: `</br>§ 11</br>
         Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
         zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, nie wlicza się do czasu służby. Czas
         ten nie powinien być dłuższy niż 30 minut.`,
@@ -92,22 +92,22 @@ export const answers = [
       id: 3,
       title: `4. W podstawowym rozkładzie czasu służby policjantowi udziela się po zakończeniu służby
       w danym dniu czasu wolnego nie krótszego niż `,
-      c: `§ 5
+      c: `</br>§ 5</br>
       2a. 10 W podstawowym rozkładzie czasu służby policjantowi udziela się po zakończeniu służby w
       danym dniu czasu wolnego nie krótszego niż 11 godzin. W każdym tygodniu policjantowi udziela się
       czasu wolnego nie krótszego niż 35 godzin, obejmującego czas wolny po zakończeniu służby. W
       przypadkach:`,
-      a: `§ 5
+      a: `</br>§ 5</br>
       2a. 10 W podstawowym rozkładzie czasu służby policjantowi udziela się po zakończeniu służby w
       danym dniu czasu wolnego nie krótszego niż 12 godzin. W każdym tygodniu policjantowi udziela się
       czasu wolnego nie krótszego niż 30 godzin, obejmującego czas wolny po zakończeniu służby. W
       przypadkach:`,
-      b: `§ 5
+      b: `</br>§ 5</br>
       2a. 10 W podstawowym rozkładzie czasu służby policjantowi udziela się po zakończeniu służby w
       danym dniu czasu wolnego nie krótszego niż 11 godzin. W każdym tygodniu policjantowi udziela się
       czasu wolnego nie krótszego niż 40 godzin, obejmującego czas wolny po zakończeniu służby. W
       przypadkach:`,
-      d: `§ 5
+      d: `</br>§ 5</br>
       2a. 10 W podstawowym rozkładzie czasu służby policjantowi udziela się po zakończeniu służby w
       danym dniu czasu wolnego nie krótszego niż 12 godzin. W każdym tygodniu policjantowi udziela się
       czasu wolnego nie krótszego niż 48 godzin, obejmującego czas wolny po zakończeniu służby. W
@@ -123,29 +123,29 @@ export const answers = [
     {
       id: 4,
       title: `5. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po`,
-      a: `§ 4.
+      a: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala przełożony właściwy w sprawach osobowych.`,
-      b: `§ 4.
+      b: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 10 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala przełożony właściwy w sprawach osobowych.`,
-      c: `§ 4.
+      c: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala przełożony właściwy w sprawach osobowych.`,
-      d: `§ 4.
+      d: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 12 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala przełożony właściwy w sprawach osobowych.`,
       buttonIdA: 'title-4-a',
       buttonIdB: 'title-4-b',
@@ -159,27 +159,27 @@ export const answers = [
       id: 5,
       title: `6. Do czasu służby trwającej 8 godzin w normalnych warunkach atmosferycznych wlicza się
       czas przerwy, który wynosi`,
-      a: `§ 4
+      a: `</br>§ 4</br>
       7. Do czasu służby trwającej 8 godzin wlicza się 20 minut przerwy, a do służby trwającej 12 godzin
-      wlicza się 45 minut przerwy, z zastrzeżeniem ust. 8.
+      wlicza się 45 minut przerwy, z zastrzeżeniem ust. 8.</br>
       8. Policjantowi pełniącemu służbę w niekorzystnych warunkach atmosferycznych czas przerw
       można przedłużyć do 45 minut w służbie trwającej 8 godzin oraz do 60 minut w służbie trwającej
       12 godzin. Czas przerw ustala policjant nadzorujący pełnienie służby`,
-      b: `§ 4
+      b: `</br>§ 4</br>
       7. Do czasu służby trwającej 12 godzin wlicza się 40 minut przerwy, a do służby trwającej 16 godzin
-      wlicza się 50 minut przerwy, z zastrzeżeniem ust. 8.
+      wlicza się 50 minut przerwy, z zastrzeżeniem ust. 8.</br>
       8. Policjantowi pełniącemu służbę w niekorzystnych warunkach atmosferycznych czas przerw
       można przedłużyć do 120 minut w służbie trwającej 12 godzin oraz do 140 minut w służbie trwającej
       16 godzin. Czas przerw ustala policjant nadzorujący pełnienie służby`,
-      c: `§ 4
+      c: `</br>§ 4</br>
       7. Do czasu służby trwającej 8 godzin wlicza się 30 minut przerwy, a do służby trwającej 12 godzin
-      wlicza się 40 minut przerwy, z zastrzeżeniem ust. 8.
+      wlicza się 40 minut przerwy, z zastrzeżeniem ust. 8.</br>
       8. Policjantowi pełniącemu służbę w niekorzystnych warunkach atmosferycznych czas przerw
       można przedłużyć do 45 minut w służbie trwającej 8 godzin oraz do 55 minut w służbie trwającej
       12 godzin. Czas przerw ustala policjant nadzorujący pełnienie służby`,
-      d: `§ 4
+      d: `</br>§ 4</br>
       7. Do czasu służby trwającej 8 godzin wlicza się 20 minut przerwy, a do służby trwającej 12 godzin
-      wlicza się 45 minut przerwy, z zastrzeżeniem ust. 8.
+      wlicza się 45 minut przerwy, z zastrzeżeniem ust. 8.</br>
       8. Policjantowi pełniącemu służbę w niekorzystnych warunkach atmosferycznych czas przerw
       można przedłużyć do 40 minut w służbie trwającej 8 godzin oraz do 60 minut w służbie trwającej
       12 godzin. Czas przerw ustala policjant nadzorujący pełnienie służby`,
@@ -195,41 +195,41 @@ export const answers = [
       id: 6,
       title: `7. Służba w niedzielę lub święta oraz w godzinach nadliczbowych zaliczanych do pory nocnej
       nie może być pełniona przez`,
-      d: `§ 16
+      d: `</br>§ 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią
       – bez ich zgody`,
-      b: `§ 16
+      b: `</br>§ 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
       rodziców lub opiekun,
       – bez ich zgody`,
-      c: `§ 16
+      c: `</br>§ 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta-kobietę karmiącą dziecko piersią
       – bez ich zgody`,
-      a: `§ 16
+      a: `</br>§ 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 38 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 38 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią
       – bez ich zgody`,
       buttonIdA: 'title-6-a',
@@ -244,32 +244,32 @@ export const answers = [
       id: 7,
       title: `8. Inne godziny rozpoczęcia i zakończenia służby niż określone w podstawowym rozkładzie
       czasu służby wprowadzić może`,
-      b: `§ 4.
+      b: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala
       przełożony właściwy w sprawach osobowych.`,
-      a: `§ 4.
+      a: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 3.
+      zastrzeżeniem ust. 3.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala
       przełożony właściwy w sprawach osobowych.`,
-      c: `§ 4.
+      c: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 2.
+      zastrzeżeniem ust. 2.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 16 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala
       przełożony właściwy w sprawach osobowych.`,
-      d: `§ 4.
+      d: `</br>§ 4.</br>
       1. Policjant w zmianowym rozkładzie czasu służby pełni służbę na zmiany trwające po 8 godzin, z
-      zastrzeżeniem ust. 7.
+      zastrzeżeniem ust. 7.</br>
       2. W szczególnie uzasadnionych przypadkach przełożony właściwy w sprawach osobowych może
-      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.
+      wprowadzić pełnienie służby na zmiany trwające po 12 godzin na dobę.</br>
       3. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala
       przełożony właściwy w sprawach osobowych.`,
       buttonIdA: 'title-7-a',
@@ -284,28 +284,28 @@ export const answers = [
       id: 8,
       title: `9. Ze służby w porze nocnej w godzinach od 22.00 do 6.00 oraz w niedzielę i święta zwalnia
       się policjanta `,
-      c: `§ 16.
+      c: `</br>§ 16.</br>
       Ze służby w porze nocnej w godzinach od 22:00 do 6:00 oraz w niedziele i święta zwalnia się
-      policjanta:
-      1) kobietę w ciąży,
+      policjanta:</br>
+      1) kobietę w ciąży,</br>
       2) będącego jedynym opiekunem dziecka w wieku do lat ośmiu lub osoby wymagającej stałej
       opieki.`,
-      a: `§ 16.
+      a: `</br>§ 16.</br>
       Ze służby w porze nocnej w godzinach od 21:00 do 5:00 oraz w niedziele i święta zwalnia się
-      policjanta:
-      1) kobietę w ciąży,
+      policjanta:</br>
+      1) kobietę w ciąży,</br>
       2) będącego jedynym opiekunem dziecka w wieku do lat dziesięciu lub osoby wymagającej stałej
       opieki.`,
-      b: `§ 16.
+      b: `</br>§ 16.</br>
       Ze służby w porze nocnej w godzinach od 22:00 do 5:00 oraz w niedziele i święta zwalnia się
-      policjanta:
-      1) kobietę w ciąży,
+      policjanta:</br>
+      1) kobietę w ciąży,</br>
       2) będącego jedynym opiekunem dziecka w wieku do lat ośmiu lub osoby wymagającej stałej
       opieki.`,
-      d: `§ 16.
+      d: `</br>§ 16.</br>
       Ze służby w porze nocnej w godzinach od 22:00 do 6:00 oraz w niedziele i święta zwalnia się
-      policjanta:
-      1) kobietę w ciąży,
+      policjanta:</br>
+      1) kobietę w ciąży,</br>
       2) będącego jedynym opiekunem dziecka w wieku do lat dziewięciu lub osoby wymagającej stałej
       opieki.`,
       buttonIdA: 'title-8-a',
@@ -319,70 +319,70 @@ export const answers = [
     {
       id: 9,
       title: `10. Policjant może pełnić dyżur domowy nie więcej niż`,
-      a: `§ 14
+      a: `</br>§ 14</br>
       1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
       organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
       potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
-      zakończeniu służby pełnionej w porze nocnej.
-      2. W czasie gdy policjant pełni dyżur domowy:
+      zakończeniu służby pełnionej w porze nocnej.</br>
+      2. W czasie gdy policjant pełni dyżur domowy:</br>
       1) przebywa on w miejscu zamieszkania lub innym miejscu, z którego może w krótkim czasie stawić
-      się w jednostce organizacyjnej Policji, w której pełni służbę,
+      się w jednostce organizacyjnej Policji, w której pełni służbę,</br>
       2) przełożony lub kierownik, o których mowa w ust. 1, albo wskazana przez nich osoba w każdej
-      chwili mają możliwość nawiązania kontaktu z tym policjantem.
+      chwili mają możliwość nawiązania kontaktu z tym policjantem.</br>
       3. Policjant może pełnić dyżur domowy nie więcej niż 4 razy w miesiącu, w tym nie więcej niż raz
       w niedzielę lub święto. Czas trwania jednego dyżuru nie może przekroczyć 24 godzin, a w dniu, w
       którym policjant pełni służbę - 16 godzin. Czas trwania wszystkich dyżurów w miesiącu nie może
-      przekroczyć łącznie 48 godzin.
+      przekroczyć łącznie 48 godzin.</br>
       4. Za czas dyżuru domowego nie udziela się czasu wolnego, chyba że policjant na polecenie
       przełożonego wykonywał w tym czasie czynności służbowe. Za czas wykonywania czynności
       służbowych udziela się czasu wolnego. Przepis § 9 stosuje się odpowiednio.`,
-      b: `§ 14
+      b: `</br>§ 14</br>
       1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
       organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
       potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
-      zakończeniu służby pełnionej w porze nocnej.
-      2. W czasie gdy policjant pełni dyżur domowy:
-      1) przebywa on w miejscu zamieszkania,
+      zakończeniu służby pełnionej w porze nocnej.</br>
+      2. W czasie gdy policjant pełni dyżur domowy:</br>
+      1) przebywa on w miejscu zamieszkania,</br>
       2) przełożony lub kierownik, o których mowa w ust. 1, albo wskazana przez nich osoba w każdej
-      chwili mają możliwość nawiązania kontaktu z tym policjantem.
+      chwili mają możliwość nawiązania kontaktu z tym policjantem.</br>
       3. Policjant może pełnić dyżur domowy nie więcej niż 5 razy w miesiącu, w tym nie więcej niż raz
       w niedzielę lub święto. Czas trwania jednego dyżuru nie może przekroczyć 24 godzin, a w dniu, w
       którym policjant pełni służbę - 16 godzin. Czas trwania wszystkich dyżurów w miesiącu nie może
-      przekroczyć łącznie 48 godzin.
+      przekroczyć łącznie 48 godzin.</br>
       4. Za czas dyżuru domowego nie udziela się czasu wolnego, chyba że policjant na polecenie
       przełożonego wykonywał w tym czasie czynności służbowe. Za czas wykonywania czynności
       służbowych udziela się czasu wolnego. Przepis § 9 stosuje się odpowiednio.`,
-      c: `§ 14
+      c: `</br>§ 14</br>
       1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
       organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
       potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
-      zakończeniu służby pełnionej w porze nocnej.
-      2. W czasie gdy policjant pełni dyżur domowy:
+      zakończeniu służby pełnionej w porze nocnej.</br>
+      2. W czasie gdy policjant pełni dyżur domowy:</br>
       1) przebywa on w miejscu zamieszkania lub innym miejscu, z którego może w krótkim czasie stawić
-      się w jednostce organizacyjnej Policji, w której pełni służbę,
+      się w jednostce organizacyjnej Policji, w której pełni służbę,</br>
       2) przełożony lub kierownik, o których mowa w ust. 1, albo wskazana przez nich osoba w każdej
-      chwili mają możliwość nawiązania kontaktu z tym policjantem.
+      chwili mają możliwość nawiązania kontaktu z tym policjantem.</br>
       3. Policjant może pełnić dyżur domowy nie więcej niż 3 razy w miesiącu, w tym nie więcej niż dwa razy
       w niedzielę lub święto. Czas trwania jednego dyżuru nie może przekroczyć 24 godzin, a w dniu, w
       którym policjant pełni służbę - 16 godzin. Czas trwania wszystkich dyżurów w miesiącu nie może
-      przekroczyć łącznie 48 godzin.
+      przekroczyć łącznie 48 godzin.</br>
       4. Za czas dyżuru domowego nie udziela się czasu wolnego, chyba że policjant na polecenie
       przełożonego wykonywał w tym czasie czynności służbowe. Za czas wykonywania czynności
       służbowych udziela się czasu wolnego. Przepis § 9 stosuje się odpowiednio.`,
-      d: `§ 14
+      d: `</br>§ 14</br>
       1. Przełożony właściwy w sprawach osobowych lub upoważniony przez niego kierownik komórki
       organizacyjnej może wyznaczyć policjanta do pełnienia dyżuru domowego, jeżeli wymagają tego
       potrzeby służby. Do pełnienia dyżuru domowego nie można wyznaczyć policjanta bezpośrednio po
-      zakończeniu służby pełnionej w porze nocnej.
-      2. W czasie gdy policjant pełni dyżur domowy:
+      zakończeniu służby pełnionej w porze nocnej.</br>
+      2. W czasie gdy policjant pełni dyżur domowy:</br>
       1) przebywa on w miejscu zamieszkania lub innym miejscu, z którego może w krótkim czasie stawić
-      się w jednostce organizacyjnej Policji, w której pełni służbę,
+      się w jednostce organizacyjnej Policji, w której pełni służbę,</br>
       2) przełożony lub kierownik, o których mowa w ust. 1, albo wskazana przez nich osoba w każdej
-      chwili mają możliwość nawiązania kontaktu z tym policjantem.
+      chwili mają możliwość nawiązania kontaktu z tym policjantem.</br>
       3. Policjant może pełnić dyżur domowy nie więcej niż 4 razy w miesiącu, w tym nie więcej niż raz
       w niedzielę lub święto. Czas trwania jednego dyżuru nie może przekroczyć 24 godzin, a w dniu, w
       którym policjant pełni służbę - 16 godzin. Czas trwania wszystkich dyżurów w miesiącu nie może
-      przekroczyć łącznie 72 godzin.
+      przekroczyć łącznie 72 godzin.</br>
       4. Za czas dyżuru domowego nie udziela się czasu wolnego, chyba że policjant na polecenie
       przełożonego wykonywał w tym czasie czynności służbowe. Za czas wykonywania czynności
       służbowych udziela się czasu wolnego. Przepis § 9 stosuje się odpowiednio.`,
@@ -399,45 +399,45 @@ export const answers = [
       title: `11. Policjantka po powrocie z urlopu macierzyńskiego zawiadomiła raportem swojego
       bezpośredniego przełożonego o tym, że nadal karmi piersią swoje dziecko. Za zgodą
       policjantki pełni ona służby w niedzielę w godzinach 22:00–06:00. Sytuacja ta`,
-      b: `Jest zgodna z przepisami.
-      § 16
+      b: `Jest zgodna z przepisami.</br>
+      § 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią – bez ich zgody`,
-      a: `Nie jest zgodna z przepisami.
-      § 16
+      a: `Nie jest zgodna z przepisami.</br>
+      § 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią – bez ich zgody`,
-      c: `Jest zgodna z przepisami.
-      § 16
+      c: `Jest zgodna z przepisami.</br>
+      § 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 9 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią – bez ich zgody`,
-      d: `Nie jest zgodna z przepisami.
-      § 16
+      d: `Nie jest zgodna z przepisami.</br>
+      § 16</br>
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.</br>
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
-      pełniona przez:
-      1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,
+      pełniona przez:</br>
+      1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,</br>
       2) policjanta opiekującego się dzieckiem do 9 lat, jeżeli z uprawnienia takiego nie korzysta drugie z
-      rodziców lub opiekun,
+      rodziców lub opiekun,</br>
       3) policjanta-kobietę karmiącą dziecko piersią – bez ich zgody`,
       buttonIdA: 'title-10-a',
       buttonIdB: 'title-10-b',
@@ -451,19 +451,19 @@ export const answers = [
       id: 11,
       title: `12. Policjantowi przysługuje czas na bezpośrednie przygotowanie do służby i jej zdanie, który
       wlicza się do czasu służby. Czas ten nie powinien być dłuższy niż`,
-      c: `§ 11
+      c: `</br>§ 11</br>
       Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
       zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
       ten nie powinien być dłuższy niż 30 minut.`,
-      a: `§ 11
+      a: `</br>§ 11</br>
       Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
       zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
       ten nie powinien być dłuższy niż 20 minut.`,
-      b: `§ 12
+      b: `</br>§ 12</br>
       Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
       zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
       ten nie powinien być dłuższy niż 30 minut.`,
-      d: `§ 12
+      d: `</br>§ 12</br>
       Czas na bezpośrednie przygotowanie do służby i jej zdanie, a w szczególności na przyjęcie lub
       zdanie dokumentacji z przebiegu służby, uzbrojenia i wyposażenia, wlicza się do czasu służby. Czas
       ten nie powinien być dłuższy niż 20 minut.`,

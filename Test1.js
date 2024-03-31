@@ -35,22 +35,22 @@ export default function Test1() {
             const correctAnswer = document.createElement('p');
 
             const button1 = document.createElement('button');
-            button1.textContent = `A: ${item.a}`;
+            button1.innerHTML = `A: ${item.a}`;
             button1.id = item.buttonIdA;
             button1.className = 'button';
 
             const button2 = document.createElement('button');
-            button2.textContent = `B: ${item.b}`;
+            button2.innerHTML = `B: ${item.b}`;
             button2.id = item.buttonIdB;
             button2.className = 'button';
 
             const button3 = document.createElement('button');
-            button3.textContent = `C: ${item.c}`;
+            button3.innerHTML = `C: ${item.c}`;
             button3.id = item.buttonIdC;
             button3.className = 'button';
 
             const button4 = document.createElement('button');
-            button4.textContent = `D: ${item.d}`;
+            button4.innerHTML = `D: ${item.d}`;
             button4.id = item.buttonIdD;
             button4.className = 'button';
 
