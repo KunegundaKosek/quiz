@@ -3,7 +3,7 @@
 export const answers = [
     {
         id: 0,
-        title: '1. W podstawowym rozkładzie czasu służby, po 8 godzinach służby policjantowi udziela siępo zakończeniu służby w danym dniu czasu wolnego nie krótszego niż',
+        title: '1. W podstawowym rozkładzie czasu służby, po 8 godzinach służby policjantowi udziela się po zakończeniu służby w danym dniu czasu wolnego nie krótszego niż',
         a: `§4
             4. W zmianowym rozkładzie czasu służby, o którym mowa w ust. 1, po 8 godzinach służby
             policjantowi udziela się co najmniej 11 godzin czasu wolnego, a jeżeli pełnił on służbę w porze
@@ -402,7 +402,7 @@ export const answers = [
       b: `Jest zgodna z przepisami.
       § 16
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjantakobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
       pełniona przez:
       1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
@@ -412,7 +412,7 @@ export const answers = [
       a: `Nie jest zgodna z przepisami.
       § 16
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjantakobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
       pełniona przez:
       1) policjanta będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
@@ -422,7 +422,7 @@ export const answers = [
       c: `Jest zgodna z przepisami.
       § 16
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjantakobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
       pełniona przez:
       1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,
@@ -432,7 +432,7 @@ export const answers = [
       d: `Nie jest zgodna z przepisami.
       § 16
       1. Służba w niedzielę lub święto, w godzinach zaliczanych do pory nocnej oraz w czasie
-      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjantakobietę w ciąży.
+      przekraczającym normę określoną w art. 33 ust. 2 ustawy nie może być pełniona przez policjanta-kobietę w ciąży.
       2. Służba w niedzielę lub święto oraz w godzinach zaliczanych do pory nocnej nie może być
       pełniona przez:
       1) policjanta będącego jedynym opiekunem dziecka do 9 lat lub osoby wymagającej stałej opieki,
