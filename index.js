@@ -27,6 +27,10 @@ buttonStart.addEventListener('click', () => {
         const answer = document.createElement('p');
         answer.textContent = item.title;
 
+        const category = document.createElement('i');
+        category.textContent = `Kategoria: ${(item.category).toLowerCase()}`;
+        category.className = 'main__category';
+
         const correctAnswer = document.createElement('p');
 
         const button1 = document.createElement('button');
@@ -154,6 +158,7 @@ buttonStart.addEventListener('click', () => {
 
         main.append(
             answerNumber,
+            category,
             answer,
             correctAnswer,
             button1,
@@ -177,11 +182,11 @@ buttonStart.addEventListener('click', () => {
         main.textContent = '';
 
         const scoreText = document.createElement('h2');
-        scoreText.textContent = `Liczba punktów: ${score} / 40`;
+        scoreText.textContent = `Liczba punktów: ${score} / 12`;
         scoreText.className = 'main__scoreText';
 
         const percent = document.createElement('p');
-        percent.textContent = `${(score / 40 * 100)}%`;
+        percent.textContent = `${(score / 12 * 100)}%`;
 
         const goodList = document.createElement('ul');
         goodList.textContent = 'Poprawne odpowiedzi: '

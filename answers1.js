@@ -25,6 +25,7 @@ export const answers = [
         buttonIdC: 'title-0-c',
         buttonIdD: 'title-0-d',
         correctAnswer: 'title-0-a',
+        category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -56,6 +57,7 @@ export const answers = [
         buttonIdC: 'title-1-c',
         buttonIdD: 'title-1-d',
         correctAnswer: 'title-1-c',
+        category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -83,6 +85,7 @@ export const answers = [
         buttonIdC: 'title-2-c',
         buttonIdD: 'title-2-d',
         correctAnswer: 'title-2-d',
+        category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -113,7 +116,8 @@ export const answers = [
       buttonIdB: 'title-3-b',
       buttonIdC: 'title-3-c',
       buttonIdD: 'title-3-d',
-      correctAnswer: 'title-3-c'
+      correctAnswer: 'title-3-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -148,6 +152,7 @@ export const answers = [
       buttonIdC: 'title-4-c',
       buttonIdC: 'title-4-d',
       correctAnswer: 'title-4-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -183,6 +188,7 @@ export const answers = [
       buttonIdC: 'title-5-c',
       buttonIdC: 'title-5-d',
       correctAnswer: 'title-5-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -231,6 +237,7 @@ export const answers = [
       buttonIdC: 'title-6-c',
       buttonIdD: 'title-6-d',
       correctAnswer: 'title-6-d',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -270,6 +277,7 @@ export const answers = [
       buttonIdC: 'title-7-c',
       buttonIdD: 'title-7-d',
       correctAnswer: 'title-7-b',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -305,6 +313,7 @@ export const answers = [
       buttonIdC: 'title-8-c',
       buttonIdD: 'title-8-d',
       correctAnswer: 'title-8-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -382,6 +391,7 @@ export const answers = [
       buttonIdC: 'title-9-c',
       buttonIdD: 'title-9-d',
       correctAnswer: 'title-9-a',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -434,6 +444,7 @@ export const answers = [
       buttonIdC: 'title-10-c',
       buttonIdD: 'title-10-d',
       correctAnswer: 'title-10-b',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     {
@@ -461,6 +472,7 @@ export const answers = [
       buttonIdC: 'title-11-c',
       buttonIdD: 'title-11-d',
       correctAnswer: 'title-11-c',
+      category: 'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE ROZKŁADU CZASU SŁUŻBY POLICJANTÓW',
     },
 
     // {

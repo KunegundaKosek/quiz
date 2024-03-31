@@ -84,6 +84,13 @@ body {
 
         }
 
+        &__category {
+            padding-bottom: 20px;
+            font-size: .9rem;
+            font-weight: 600;
+            letter-spacing: 1.2px;
+        }
+
         .button {
             @include button(50%, 10px, 20px);
             height: auto;
