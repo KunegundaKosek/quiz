@@ -490,16 +490,16 @@ export const answers = [
     // },
 
     // {
-    //   id: 13,
+    //   id: 1,
     //   title: ``,
     //   a: ``,
     //   b: ``,
     //   c: ``,
     //   d: ``,
-    //   buttonIdA: 'title-13-a',
-    //   buttonIdB: 'title-13-b',
-    //   buttonIdC: 'title-13-c',
-    //   buttonIdC: 'title-13-d',
-    //   correctAnswer: 'title-13-a',
+    //   buttonIdA: 'title-1-a',
+    //   buttonIdB: 'title-1-b',
+    //   buttonIdC: 'title-1-c',
+    //   buttonIdD: 'title-1-d',
+    //   correctAnswer: 'title-1-a',
     // },
 ];
