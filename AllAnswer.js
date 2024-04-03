@@ -1,8 +1,8 @@
-import { answers } from './answers1.js';
+import { allAnswer } from './all-answer.js';
 import Timer from './timer.js';
 
-export default function Test1() {
-    const answer1 = document.querySelector('#answer1');
+export default function AllAnswers() {
+    const answer = document.querySelector('#answers');
     const h1 = document.querySelector('h1');
     const main = document.querySelector('.main');
 
@@ -10,17 +10,16 @@ export default function Test1() {
 
     const goodAnswers = [];
     const errorAnswers = [];
-    // counter.style.display = 'none';
 
-    answer1.addEventListener('click', () => {
+    answer.addEventListener('click', () => {
         Timer();
         counter.style.display = 'fixed';
         h1.remove();
-        answer1.remove();
+        answer.remove();
 
         let score = 0;
 
-        answers.forEach((item) => {
+        allAnswer.forEach((item) => {
             const answerNumber = document.createElement('p');
             answerNumber.className = 'main__answerNumber';
             answerNumber.textContent = `Pytanie ${item.id + 1}`;
@@ -84,7 +83,7 @@ export default function Test1() {
                     errorAnswers.push(answer.textContent);
                     console.log(item.correctAnswer[5]);
 
-                    console.error('tu!1')
+                    console.error('tu!1');
                 }
 
                 button1.disabled = true;
@@ -108,8 +107,7 @@ export default function Test1() {
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
 
-                    console.error('tu!2')
-
+                    console.error('tu!2');
                 }
 
                 button1.disabled = true;
@@ -131,8 +129,7 @@ export default function Test1() {
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
 
-                    console.error('tu!3')
-
+                    console.error('tu!3');
                 }
 
                 button1.disabled = true;
@@ -154,8 +151,7 @@ export default function Test1() {
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
 
-                    console.error('tu!4')
-
+                    console.error('tu!4');
                 }
 
                 button1.disabled = true;

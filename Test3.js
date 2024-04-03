@@ -66,7 +66,7 @@ export default function Test3() {
                 } else {
                     button1.style.backgroundColor = 'red';
                     correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer
-                        .at(-1)
+                        .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
                 }
@@ -89,7 +89,7 @@ export default function Test3() {
                 } else {
                     button2.style.backgroundColor = 'red';
                     correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer
-                        .at(-1)
+                        .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
                 }
@@ -110,7 +110,7 @@ export default function Test3() {
                 } else {
                     button3.style.backgroundColor = 'red';
                     correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer
-                        .at(-1)
+                        .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
                 }
@@ -131,7 +131,7 @@ export default function Test3() {
                 } else {
                     button4.style.backgroundColor = 'red';
                     correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer
-                        .at(-1)
+                        .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
                 }
