@@ -1,8 +1,8 @@
-import { allAnswer } from './all-answer.js';
+import { answer7 } from './answers7.js';
 import Timer from './timer.js';
 
-export default function AllAnswers() {
-    const answer = document.querySelector('#answers');
+export default function Test7() {
+    const buttonAnswer7 = document.querySelector('#answer7');
     const h1 = document.querySelector('h1');
     const main = document.querySelector('.main');
 
@@ -10,16 +10,17 @@ export default function AllAnswers() {
 
     const goodAnswers = [];
     const errorAnswers = [];
+    // counter.style.display = 'none';
 
-    answer.addEventListener('click', () => {
+    buttonAnswer7.addEventListener('click', () => {
         Timer();
         counter.style.display = 'fixed';
         h1.remove();
-        answer.remove();
+        buttonAnswer7.remove();
 
         let score = 0;
 
-        allAnswer.forEach((item) => {
+        answer7.forEach((item) => {
             const answerNumber = document.createElement('p');
             answerNumber.className = 'main__answerNumber';
             answerNumber.textContent = `Pytanie ${item.id + 1}`;
@@ -28,7 +29,7 @@ export default function AllAnswers() {
             answer.textContent = item.title;
 
             const category = document.createElement('i');
-            category.textContent = `Kategoria: ${item.category}`;
+            category.textContent = `Kategoria: ${item.category.toLowerCase()}`;
             category.className = 'main__category';
 
             const correctAnswer = document.createElement('p');
@@ -45,6 +46,7 @@ export default function AllAnswers() {
             const button2 = document.createElement('button');
             if (item.b === '') {
                 button2.className = 'hidden';
+                console.log('XDDDDDDDDDDDDDDDDDDD');
             } else {
                 button2.innerHTML = `B: ${item.b}`;
                 button2.id = item.buttonIdB;
@@ -79,11 +81,10 @@ export default function AllAnswers() {
                     return score;
                 } else {
                     button1.style.backgroundColor = 'red';
-                    correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer[6]}`;
+                    correctAnswer.textContent = `Poprawna odpowiedź to: ${item.correctAnswer
+                        .at(-9)
+                        .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
-                    console.log(item.correctAnswer[5]);
-
-                    console.error('tu!1');
                 }
 
                 button1.disabled = true;
@@ -106,8 +107,6 @@ export default function AllAnswers() {
                         .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
-
-                    console.error('tu!2');
                 }
 
                 button1.disabled = true;
@@ -128,8 +127,6 @@ export default function AllAnswers() {
                         .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
-
-                    console.error('tu!3');
                 }
 
                 button1.disabled = true;
@@ -150,8 +147,6 @@ export default function AllAnswers() {
                         .at(-9)
                         .toUpperCase()}`;
                     errorAnswers.push(answer.textContent);
-
-                    console.error('tu!4');
                 }
 
                 button1.disabled = true;
@@ -183,11 +178,11 @@ export default function AllAnswers() {
             main.textContent = '';
 
             const scoreText = document.createElement('h2');
-            scoreText.textContent = `Liczba punktów: ${score} / 12`;
+            scoreText.textContent = `Liczba punktów: ${score} / 11`;
             scoreText.className = 'main__scoreText';
 
             const percent = document.createElement('p');
-            percent.textContent = `${((score / 12) * 100).toFixed(2)}%`;
+            percent.textContent = `${((score / 11) * 100).toFixed(2)}%`;
 
             const goodList = document.createElement('ul');
             goodList.textContent = 'Poprawne odpowiedzi: ';
