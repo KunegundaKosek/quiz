@@ -285,57 +285,170 @@ export const answer9 = [
 
   {
       id: 7,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `10. Zwolnienie od zajęć służbowych w wymiarze 2 dni w ciągu roku kalendarzowego
+      przysługuje policjantowi wychowującemu przynajmniej jedno dziecko w wieku do lat`,
+      a: `</br>§ 8</br>
+      Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 15 lat przysługuje w ciągu
+      roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
+      b: `</br>§ 8</br>
+      Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu
+      roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 3 dni. `,
+      c: `</br>§ 8</br>
+      Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu
+      roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
+      d: `</br>§ 8</br>
+      Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 12 lat przysługuje w ciągu
+      roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
       buttonIdA: 'title-7-a-answer9',
       buttonIdB: 'title-7-b-answer9',
       buttonIdC: 'title-7-c-answer9',
       buttonIdD: 'title-7-d-answer9',
-      correctAnswer: 'title-7-a-answer9',
+      correctAnswer: 'title-7-c-answer9',
       category:
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
   {
       id: 8,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `11. Policjant jest obowiązany niezwłocznie poinformować w pisemnym raporcie drogą
+      służbową przełożonego właściwego w sprawach osobowych o`,
+      a: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 9 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
+      8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
+      b: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
+      c: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 14 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
+      8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
+
+      d: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
+      8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
       buttonIdA: 'title-8-a-answer9',
       buttonIdB: 'title-8-b-answer9',
       buttonIdC: 'title-8-c-answer9',
       buttonIdD: 'title-8-d-answer9',
-      correctAnswer: 'title-8-a-answer9',
+      correctAnswer: 'title-8-d-answer9',
       category:
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
   {
       id: 9,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
+      title: `12. Policjant informuje drogą służbową przełożonego właściwego w sprawach osobowych
+      m.in. o zmianie stanu cywilnego sporządzając pisemny `,
+      a: `</br>§ 2</br>
+      1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
+      określonych w odrębnych przepisach.</br>
+      2. Bezpośredni przełożony przesyła w terminie 14 dni wyższemu przełożonemu wniosek w sprawie
+      osobowej wraz z opinią dotyczącą sposobu jej załatwienia, jeżeli nie jest właściwy do załatwienia
+      tej sprawy.</br>
+      3. Jeżeli policjant składa osobiście pisemny wniosek w sprawie osobowej, przyjmujący wniosek
+      potwierdza jego otrzymanie, umieszczając na oryginale i na kopii datę jego otrzymania oraz
+      czytelny podpis.</br>
+      4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
+      30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
+
+      b: `</br>§ 2</br>
+      1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
+      określonych w odrębnych przepisach.</br>
+      2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
+      osobowej wraz z opinią dotyczącą sposobu jej załatwienia, jeżeli nie jest właściwy do załatwienia
+      tej sprawy.</br>
+      3. Jeżeli policjant składa osobiście pisemny wniosek w sprawie osobowej, przyjmujący wniosek
+      potwierdza jego otrzymanie, umieszczając na oryginale i na kopii datę jego otrzymania oraz
+      czytelny podpis.</br>
+      4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
+      30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
+      c: `</br>§ 2</br>
+      1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
+      określonych w odrębnych przepisach.</br>
+      2. Bezpośredni przełożony przesyła w terminie 14 dni wyższemu przełożonemu wniosek w sprawie
+      osobowej wraz z opinią dotyczącą sposobu jej załatwienia, jeżeli nie jest właściwy do załatwienia
+      tej sprawy.</br>
+      3. Jeżeli policjant składa osobiście pisemny wniosek w sprawie osobowej, przyjmujący wniosek
+      potwierdza jego otrzymanie, umieszczając na oryginale i na kopii datę jego otrzymania.</br>
+      4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
+      30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
+      d: `</br>§ 2</br>
+      1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
+      określonych w odrębnych przepisach.</br>
+      2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
+      osobowej wraz z opinią dotyczącą sposobu jej załatwienia, jeżeli nie jest właściwy do załatwienia
+      tej sprawy.</br>
+      3. Jeżeli policjant składa osobiście pisemny wniosek w sprawie osobowej, przyjmujący wniosek
+      potwierdza jego otrzymanie, umieszczając na oryginale i na kopii datę jego otrzymania oraz
+      czytelny podpis.</br>
+      4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
+      14 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
       buttonIdA: 'title-9-a-answer9',
       buttonIdB: 'title-9-b-answer9',
       buttonIdC: 'title-9-c-answer9',
       buttonIdD: 'title-9-d-answer9',
-      correctAnswer: 'title-9-a-answer9',
+      correctAnswer: 'title-9-b-answer9',
       category:
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
   {
       id: 10,
-      title: ``,
-      a: ``,
-      b: ``,
+      title: `13. Tryb zwracania się policjanta w sprawie osobowej lub innej sprawie wynikającej ze
+      stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
+      pośrednictwem bezpośredniego przełożonego to `,
+      a: `</br>§ 1</br>
+      Użyte w rozporządzeniu określenia oznaczają:</br>
+      7) droga służbowa - tryb zwracania się policjanta w sprawie osobowej lub innej sprawie
+      wynikającej ze stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
+      pośrednictwem bezpośredniego przełożonego;`,
+      b: `</br>§ 1</br>
+      Użyte w rozporządzeniu określenia oznaczają:</br>
+      7) droga służbowa - tryb zwracania się policjanta w sprawie osobowej lub innej sprawie
+      wynikającej ze stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
+      pośrednictwem policjanta wyższego stopnia;`,
       c: ``,
       d: ``,
       buttonIdA: 'title-10-a-answer9',
@@ -349,9 +462,17 @@ export const answer9 = [
 
   {
       id: 11,
-      title: ``,
-      a: ``,
-      b: ``,
+      title: `14. Policjant przed rozpoczęciem urlopu wypoczynkowego jest obowiązany pisemnie
+      zawiadomić o przewidywanym miejscu pobytu i sposobie nawiązania kontaktu podczas
+      urlopu `,
+      a: `</br>§ 11</br>
+      Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego jest obowiązany pisemnie
+      zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
+      nawiązania z nim kontaktu podczas urlopu.`,
+      b: `</br>§ 11</br>
+      Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego nie jest obowiązany pisemnie
+      zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
+      nawiązania z nim kontaktu podczas urlopu.`,
       c: ``,
       d: ``,
       buttonIdA: 'title-11-a-answer9',
@@ -365,41 +486,100 @@ export const answer9 = [
 
   {
       id: 12,
-      title: ``,
-      a: ``,
-      b: ``,
+      title: `15. Policjant po zawarciu związku małżeńskiego jest obowiązany poinformować o tym fakcie
+      przełożonego właściwego w sprawach osobowych niezwłocznie, jednakże nie później niż
+      w terminie `,
+      a: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 14 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
+      8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
+      b: `</br>§ 13</br>
+      Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
+      zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
+      sprawach osobowych o:</br>
+      1) zmianie lub ustaleniu pisowni nazwiska lub imienia;</br>
+      2) zmianie stanu cywilnego;</br>
+      3) wszczęciu i zakończeniu postępowania karnego lub postępowania karnego skarbowego
+      przeciwko niemu, małżonkowi lub dzieciom pozostającym na jego utrzymaniu;</br>
+      4) ukaraniu za wykroczenie;</br>
+      5) utracie uprawnienia lub prawa wykonywania zawodu lub czynności, które pozostają w
+      bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
+      6) zmianie adresu miejsca zamieszkania;</br>
+      7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
+      8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
       c: ``,
       d: ``,
       buttonIdA: 'title-12-a-answer9',
       buttonIdB: 'title-12-b-answer9',
       buttonIdC: 'title-12-c-answer9',
       buttonIdD: 'title-12-d-answer9',
-      correctAnswer: 'title-12-a-answer9',
+      correctAnswer: 'title-12-b-answer9',
       category:
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
   {
       id: 13,
-      title: ``,
-      a: ``,
-      b: ``,
+      title: `16. Sierżant Jan N. nie mógł przyjechać na służbę, więc poinformował swojego przełożonego
+      wysyłając do niego list. Zachowanie policjanta było`,
+      a: `</br>§ 15</br>
+      1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
+      do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
+      przewidywany czas trwania nieobecności.</br>
+      2. W razie niestawienia się do służby lub spóźnienia z innej przyczyny niż określona w ust.1,
+      policjant jest obowiązany poinformować bezpośredniego przełożonego najpóźniej następnego dnia o
+      przyczynie nieobecności w służbie i przewidywanym czasie jej trwania lub przyczynie spóźnienia.</br>
+      3. W razie zaistnienia przyczyny uniemożliwiającej dopełnienie obowiązku, o którym mowa w ust.2,
+      policjant jest obowiązany poinformować o przyczynie nieobecności w służbie i przewidywanym
+      czasie jej trwania lub przyczynie spóźnienia niezwłocznie po ustaniu tej przyczyny.</br>
+      <u>4. W przypadkach, o których mowa w ust.1–3, policjant jest obowiązany poinformować
+      bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
+      łączności lub drogą pocztową. Za datę przekazania informacji drogą pocztową uważa się datę
+      stempla pocztowego.</u>`,
+      b: `</br>§ 15</br>
+      1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
+      do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
+      przewidywany czas trwania nieobecności.</br>
+      2. W razie niestawienia się do służby lub spóźnienia z innej przyczyny niż określona w ust.1,
+      policjant jest obowiązany poinformować bezpośredniego przełożonego tego samego dnia o
+      przyczynie nieobecności w służbie i przewidywanym czasie jej trwania lub przyczynie spóźnienia.</br>
+      3. W razie zaistnienia przyczyny uniemożliwiającej dopełnienie obowiązku, o którym mowa w ust.2,
+      policjant jest obowiązany poinformować o przyczynie nieobecności w służbie i przewidywanym
+      czasie jej trwania lub przyczynie spóźnienia niezwłocznie po ustaniu tej przyczyny.</br>
+      <u>4. W przypadkach, o których mowa w ust.1–3, policjant jest obowiązany poinformować
+      bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
+      łączności lub drogą pocztową. Za datę przekazania informacji drogą pocztową uważa się datę
+      stempla pocztowego.</u>`,
       c: ``,
       d: ``,
       buttonIdA: 'title-13-a-answer9',
       buttonIdB: 'title-13-b-answer9',
       buttonIdC: 'title-13-c-answer9',
       buttonIdD: 'title-13-d-answer9',
-      correctAnswer: 'title-13-a-answer9',
+      correctAnswer: 'title-13-b-answer9',
       category:
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
   {
       id: 14,
-      title: ``,
-      a: ``,
-      b: ``,
+      title: `17. Ustanie stosunku służbowego to rozwiązanie stosunku służbowego w związku`,
+      a: `</br>§ 1</br>
+      8) ustanie stosunku służbowego - rozwiązanie stosunku służbowego w związku ze zwolnieniem
+      policjanta ze służby lub jego śmiercią.`,
+      b: `</br>§ 1</br>
+      8) ustanie stosunku służbowego - rozwiązanie stosunku służbowego w związku ze zwolnieniem
+      policjanta ze służby.`,
       c: ``,
       d: ``,
       buttonIdA: 'title-14-a-answer9',
@@ -411,51 +591,20 @@ export const answer9 = [
           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
   },
 
-  {
-      id: 15,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-15-a-answer9',
-      buttonIdB: 'title-15-b-answer9',
-      buttonIdC: 'title-15-c-answer9',
-      buttonIdD: 'title-15-d-answer9',
-      correctAnswer: 'title-15-a-answer9',
-      category:
-          'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-  },
+//   {
+//       id: 15,
+//       title: ``,
+//       a: ``,
+//       b: ``,
+//       c: ``,
+//       d: ``,
+//       buttonIdA: 'title-15-a-answer9',
+//       buttonIdB: 'title-15-b-answer9',
+//       buttonIdC: 'title-15-c-answer9',
+//       buttonIdD: 'title-15-d-answer9',
+//       correctAnswer: 'title-15-a-answer9',
+//       category:
+//           'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+//   },
 
-  {
-      id: 16,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-16-a-answer9',
-      buttonIdB: 'title-16-b-answer9',
-      buttonIdC: 'title-16-c-answer9',
-      buttonIdD: 'title-16-d-answer9',
-      correctAnswer: 'title-16-a-answer9',
-      category:
-          'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-  },
-
-  {
-      id: 17,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-17-a-answer9',
-      buttonIdB: 'title-17-b-answer9',
-      buttonIdC: 'title-17-c-answer9',
-      buttonIdD: 'title-17-d-answer9',
-      correctAnswer: 'title-17-a-answer9',
-      category:
-          'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-  },
 ];

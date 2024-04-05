@@ -1,8 +1,8 @@
-import { answer9 } from './answers9.js';
+import { answer11 } from './answers11.js';
 import Timer from './timer.js';
 
-export default function Test9() {
-    const buttonAnswer9 = document.querySelector('#answer9');
+export default function Test11() {
+    const buttonAnswer11 = document.querySelector('#answer11');
     const h1 = document.querySelector('h1');
     const main = document.querySelector('.main');
 
@@ -11,15 +11,15 @@ export default function Test9() {
     const goodAnswers = [];
     const errorAnswers = [];
 
-    buttonAnswer9.addEventListener('click', () => {
+    buttonAnswer11.addEventListener('click', () => {
         Timer();
         counter.style.display = 'fixed';
         h1.remove();
-        buttonAnswer9.remove();
+        buttonAnswer11.remove();
 
         let score = 0;
 
-        answer9.forEach((item) => {
+        answer11.forEach((item) => {
             const answerNumber = document.createElement('p');
             answerNumber.className = 'main__answerNumber';
             answerNumber.textContent = `Pytanie ${item.id + 1}`;
@@ -177,11 +177,11 @@ export default function Test9() {
             main.textContent = '';
 
             const scoreText = document.createElement('h2');
-            scoreText.textContent = `Liczba punktów: ${score} / 15`;
+            scoreText.textContent = `Liczba punktów: ${score} / 14`;
             scoreText.className = 'main__scoreText';
 
             const percent = document.createElement('p');
-            percent.textContent = `${((score / 15) * 100).toFixed(2)}%`;
+            percent.textContent = `${((score / 14) * 100).toFixed(2)}%`;
 
             const goodList = document.createElement('ul');
             goodList.textContent = 'Poprawne odpowiedzi: ';
