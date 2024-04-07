@@ -2204,14 +2204,14 @@ export const allAnswer = [
     },
 
     {
-      id: 0,
-      title: `1. Załatwianie spraw służbowych polegające na przekazywaniu informacji lub dokumentów
+        id: 0,
+        title: `1. Załatwianie spraw służbowych polegające na przekazywaniu informacji lub dokumentów
       albo rzeczy przez podwładnych za pośrednictwem wszystkich kolejnych przełożonych, aż do
       tego, który jest uprawniony do rozstrzygnięcia sprawy, jak również przekazywanie rozkazów,
       poleceń lub wytycznych od przełożonego uprawnionego do ich wydania, przez kolejnych
       niższych przełożonych do podwładnego to `,
 
-      a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
       1) przełożony - policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
       podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
       innego policjanta lub pracownika Policji;</br>
@@ -2234,7 +2234,7 @@ export const allAnswer = [
       podporządkowania, a także wzajemnych uprawnień i obowiązków organów Policji oraz policjantów
       i pracowników Policji.`,
 
-      b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
       1) przełożony - policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
       podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
       innego policjanta lub pracownika Policji;</br>
@@ -2248,114 +2248,114 @@ export const allAnswer = [
       4) komórka organizacyjna - wyodrębniona struktura w rozumieniu przepisów regulujących
       szczegółowe zasady organizacji i zakres działania komend, komisariatów i innych jednostek
       organizacyjnych Policji;</br>`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-0-a-answer7',
-      buttonIdB: 'title-0-b-answer7',
-      buttonIdC: 'title-0-c-answer7',
-      buttonIdD: 'title-0-d-answer7',
-      correctAnswer: 'title-0-a-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-0-a-answer7',
+        buttonIdB: 'title-0-b-answer7',
+        buttonIdC: 'title-0-c-answer7',
+        buttonIdD: 'title-0-d-answer7',
+        correctAnswer: 'title-0-a-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 1,
-      title: `2. Droga służbowa to`,
-      a: `</br>§ 1.</br>
+    {
+        id: 1,
+        title: `2. Droga służbowa to`,
+        a: `</br>§ 1.</br>
       5) droga służbowa – sposób załatwiania spraw służbowych, polegający na przekazywaniu informacji
       lub dokumentów albo rzeczy przez podwładnych za pośrednictwem wszystkich kolejnych
       przełożonych aż do tego, który nie jest uprawniony do rozstrzygnięcia sprawy, jak również
       przekazywanie rozkazów, poleceń lub wytycznych od przełożonego uprawnionego do ich wydania,
       przez kolejnych niższych przełożonych do podwładnego;`,
-      b: `</br>§ 1.</br>
+        b: `</br>§ 1.</br>
       5) droga służbowa – sposób załatwiania spraw służbowych, polegający na przekazywaniu informacji
       lub dokumentów albo rzeczy przez podwładnych za pośrednictwem wszystkich kolejnych
       przełożonych aż do tego, który jest uprawniony do rozstrzygnięcia sprawy, jak również
       przekazywanie rozkazów, poleceń lub wytycznych od przełożonego uprawnionego do ich wydania,
       przez kolejnych niższych przełożonych do podwładnego;`,
-      c: `</br>§ 1.</br>
+        c: `</br>§ 1.</br>
       5) droga służbowa – sposób załatwiania spraw służbowych, polegający na przekazywaniu informacji
       lub dokumentów albo rzeczy przez podwładnych za pośrednictwem wszystkich kolejnych
       przełożonych aż do tego, który jest uprawniony do rozstrzygnięcia sprawy, jak również
       przekazywanie rozkazów, poleceń lub wytycznych od przełożonego uprawnionego do ich wydania,
       przez kolejnych wyższych przełożonych do podwładnego;`,
-      d: `</br>§ 1.</br>
+        d: `</br>§ 1.</br>
       5) droga służbowa – sposób załatwiania spraw osobistych, polegający na przekazywaniu informacji
       lub dokumentów albo rzeczy przez podwładnych za pośrednictwem wszystkich kolejnych
       przełożonych aż do tego, który jest uprawniony do rozstrzygnięcia sprawy, jak również
       przekazywanie rozkazów, poleceń lub wytycznych od przełożonego uprawnionego do ich wydania,
       przez kolejnych niższych przełożonych do podwładnego;`,
-      buttonIdA: 'title-1-a-answer7',
-      buttonIdB: 'title-1-b-answer7',
-      buttonIdC: 'title-1-c-answer7',
-      buttonIdD: 'title-1-d-answer7',
-      correctAnswer: 'title-1-b-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        buttonIdA: 'title-1-a-answer7',
+        buttonIdB: 'title-1-b-answer7',
+        buttonIdC: 'title-1-c-answer7',
+        buttonIdD: 'title-1-d-answer7',
+        correctAnswer: 'title-1-b-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 2,
-      title: `3. Organizacja hierarchiczna to`,
-      a: `</br>§ 1.</br>
+    {
+        id: 2,
+        title: `3. Organizacja hierarchiczna to`,
+        a: `</br>§ 1.</br>
     6) organizacja hierarchiczna – stan wewnętrznego zorganizowania Policji w systemie
     podporządkowania, a także wzajemnych uprawnień i obowiązków organów Policji oraz policjantów
     i pracowników Policji.`,
-      b: `</br>§ 1.</br>
+        b: `</br>§ 1.</br>
     6) organizacja hierarchiczna – stan zewnętrznego zorganizowania Policji w systemie
     podporządkowania, a także wzajemnych uprawnień i obowiązków organów Policji oraz policjantów
     i pracowników Policji.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-2-a-answer7',
-      buttonIdB: 'title-2-b-answer7',
-      buttonIdC: 'title-2-c-answer7',
-      buttonIdD: 'title-2-d-answer7',
-      correctAnswer: 'title-2-a-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-2-a-answer7',
+        buttonIdB: 'title-2-b-answer7',
+        buttonIdC: 'title-2-c-answer7',
+        buttonIdD: 'title-2-d-answer7',
+        correctAnswer: 'title-2-a-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 3,
-      title: `4. Policjanta uprawnionego z racji zajmowanego stanowiska albo na podstawie odrębnego
+    {
+        id: 3,
+        title: `4. Policjanta uprawnionego z racji zajmowanego stanowiska albo na podstawie odrębnego
     przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy innego policjanta
     określa się mianem `,
-      a: `</br>§ 1</br>
+        a: `</br>§ 1</br>
     Użyte w zarządzeniu określenia oznaczają:</br>
     1)przełożony – policjant uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta`,
-      b: `</br>§ 1</br>
+        b: `</br>§ 1</br>
     Użyte w zarządzeniu określenia oznaczają:</br>
     1)komendant – policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta lub pracownika Policji`,
-      c: `</br>§ 1</br>
+        c: `</br>§ 1</br>
     Użyte w zarządzeniu określenia oznaczają:</br>
     1)przełożony – policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta`,
-      d: `</br>§ 1</br>
+        d: `</br>§ 1</br>
     Użyte w zarządzeniu określenia oznaczają:</br>
     1)przełożony – policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta lub pracownika Policji`,
-      buttonIdA: 'title-3-a-answer7',
-      buttonIdB: 'title-3-b-answer7',
-      buttonIdC: 'title-3-c-answer7',
-      buttonIdD: 'title-3-d-answer7',
-      correctAnswer: 'title-3-d-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        buttonIdA: 'title-3-a-answer7',
+        buttonIdB: 'title-3-b-answer7',
+        buttonIdC: 'title-3-c-answer7',
+        buttonIdD: 'title-3-d-answer7',
+        correctAnswer: 'title-3-d-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 4,
-      title: `5. Termin organizacja hierarchiczna, użyty w zarządzeniu nr 30 Komendanta Głównego Policji z
+    {
+        id: 4,
+        title: `5. Termin organizacja hierarchiczna, użyty w zarządzeniu nr 30 Komendanta Głównego Policji z
     dnia 16 grudnia 2013 roku, oznacza`,
-      a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     6) organizacja hierarchiczna - stan zewnętrznego zorganizowania Policji w systemie
     podporządkowania, a także wzajemnych uprawnień i obowiązków organów Policji oraz policjantek
     i pracowników Policji.</br>
@@ -2376,7 +2376,7 @@ export const allAnswer = [
     3) ustalenia odpowiedzialności indywidualnej w przypadku naruszenia prawa, bezczynności
     pomimo obowiązku działania albo wykonania zadań służbowych w sposób wadliwy.`,
 
-      b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     6) organizacja hierarchiczna - stan wewnętrznego zorganizowania Policji w systemie
     podporządkowania, a także wzajemnych uprawnień i obowiązków organów Policji oraz policjantów
     i pracowników Policji.</br>
@@ -2394,106 +2394,106 @@ export const allAnswer = [
     2) zdolności struktur organizacyjnych Policji do działań uporządkowanych;</br>
     3) ustalenia odpowiedzialności indywidualnej w przypadku naruszenia prawa, bezczynności
     pomimo obowiązku działania albo wykonania zadań służbowych w sposób wadliwy.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-4-a-answer7',
-      buttonIdB: 'title-4-b-answer7',
-      buttonIdC: 'title-4-c-answer7',
-      buttonIdD: 'title-4-d-answer7',
-      correctAnswer: 'title-4-b-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-4-a-answer7',
+        buttonIdB: 'title-4-b-answer7',
+        buttonIdC: 'title-4-c-answer7',
+        buttonIdD: 'title-4-d-answer7',
+        correctAnswer: 'title-4-b-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 5,
-      title: `6. Komórka organizacyjna to `,
-      a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+    {
+        id: 5,
+        title: `6. Komórka organizacyjna to `,
+        a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     4) komórka organizacyjna - wyodrębniona struktura w rozumieniu przepisów regulujących
     szczegółowe zasady organizacji i zakres działania komend, komisariatów i innych jednostek
     organizacyjnych Policji;`,
-      b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     4) komórka organizacyjna - wyodrębniona struktura w rozumieniu przepisów regulujących
     szczegółowe zasady organizacji i zakres działania komend;`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-5-a-answer7',
-      buttonIdB: 'title-5-b-answer7',
-      buttonIdC: 'title-5-c-answer7',
-      buttonIdD: 'title-5-d-answer7',
-      correctAnswer: 'title-5-a-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-5-a-answer7',
+        buttonIdB: 'title-5-b-answer7',
+        buttonIdC: 'title-5-c-answer7',
+        buttonIdD: 'title-5-d-answer7',
+        correctAnswer: 'title-5-a-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 6,
-      title: `7. Termin przełożony, użyty w zarządzeniu nr 30 Komendanta Głównego Policji z dnia 16 grudnia
+    {
+        id: 6,
+        title: `7. Termin przełożony, użyty w zarządzeniu nr 30 Komendanta Głównego Policji z dnia 16 grudnia
     2013 roku, oznacza `,
-      a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        a: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     1) przełożony - policjant uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta;`,
-      b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
+        b: `</br>§ 1. Użyte w zarządzeniu określenia oznaczają:</br>
     1) przełożony - policjant lub pracownik Policji uprawniony z racji zajmowanego stanowiska albo na
     podstawie odrębnego przepisu lub upoważnienia do kierowania przebiegiem służby lub pracy
     innego policjanta lub pracownika Policji;`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-6-a-answer7',
-      buttonIdB: 'title-6-b-answer7',
-      buttonIdC: 'title-6-c-answer7',
-      buttonIdD: 'title-6-d-answer7',
-      correctAnswer: 'title-6-b-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-6-a-answer7',
+        buttonIdB: 'title-6-b-answer7',
+        buttonIdC: 'title-6-c-answer7',
+        buttonIdD: 'title-6-d-answer7',
+        correctAnswer: 'title-6-b-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 7,
-      title: `8. Do zachowania drogi służbowej obowiązani są`,
-      a: `</br>§4.</br>
+    {
+        id: 7,
+        title: `8. Do zachowania drogi służbowej obowiązani są`,
+        a: `</br>§4.</br>
     1. Policjanci i pracownicy Policji są obowiązani do zachowania drogi służbowej.</br>
     […]`,
-      b: `</br>§4.</br>
+        b: `</br>§4.</br>
     1. Policjanci i pracownicy Policji nie są obowiązani do zachowania drogi służbowej.</br>
     […]`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-7-a-answer7',
-      buttonIdB: 'title-7-b-answer7',
-      buttonIdC: 'title-7-c-answer7',
-      buttonIdD: 'title-7-d-answer7',
-      correctAnswer: 'title-7-a-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-7-a-answer7',
+        buttonIdB: 'title-7-b-answer7',
+        buttonIdC: 'title-7-c-answer7',
+        buttonIdD: 'title-7-d-answer7',
+        correctAnswer: 'title-7-a-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 8,
-      title: `9. Policjanci i pracownicy Policji są obowiązani do zachowania`,
-      a: `</br>§4.</br>
+    {
+        id: 8,
+        title: `9. Policjanci i pracownicy Policji są obowiązani do zachowania`,
+        a: `</br>§4.</br>
     1. Policjanci i pracownicy Policji nie są obowiązani do zachowania drogi służbowej.</br>
     […]`,
-      b: `</br>§4.</br>
+        b: `</br>§4.</br>
     1. Policjanci i pracownicy Policji są obowiązani do zachowania drogi służbowej.</br>
     […]`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-8-a-answer7',
-      buttonIdB: 'title-8-b-answer7',
-      buttonIdC: 'title-8-c-answer7',
-      buttonIdD: 'title-8-d-answer7',
-      correctAnswer: 'title-8-b-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-8-a-answer7',
+        buttonIdB: 'title-8-b-answer7',
+        buttonIdC: 'title-8-c-answer7',
+        buttonIdD: 'title-8-d-answer7',
+        correctAnswer: 'title-8-b-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 9,
-      title: `10. W celu ochrony praw i wolności obywatelskich stosowne polecenie jest zobowiązany wydać
+    {
+        id: 9,
+        title: `10. W celu ochrony praw i wolności obywatelskich stosowne polecenie jest zobowiązany wydać
     każdy policjant`,
-      a: `</br>§ 21</br>
+        a: `</br>§ 21</br>
     Każdy policjant starszy stopniem jest zobowiązany do wydania policjantowi młodszemu
     stopniem, chociażby nie był podwładnym, stosownego polecenia w celu:</br>
     1)przywrócenia zgodności z prawem wykonywanej czynności służbowej;</br>
@@ -2506,7 +2506,7 @@ export const allAnswer = [
     osobowych;</br>
     6)zapobieżenia naruszeniu zasad bezpieczeństwa służby;</br>
     7)niedopuszczenia do uszczerbku na majątku pozostającym w dyspozycji Policji.`,
-      b: `</br>§ 21</br>
+        b: `</br>§ 21</br>
     Każdy policjant starszy stopniem jest zobowiązany do wydania policjantowi młodszemu
     stopniem, chociażby nie był podwładnym, stosownego polecenia w celu:</br>
     1)przywrócenia zgodności z prawem wykonywanej czynności służbowej;</br>
@@ -2519,25 +2519,25 @@ export const allAnswer = [
     osobowych;</br>
     6)zapobieżenia naruszeniu zasad bezpieczeństwa służby;</br>
     7)dopuszczenia do uszczerbku na majątku pozostającym w dyspozycji Policji.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-9-a-answer7',
-      buttonIdB: 'title-9-b-answer7',
-      buttonIdC: 'title-9-c-answer7',
-      buttonIdD: 'title-9-d-answer7',
-      correctAnswer: 'title-9-a-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-9-a-answer7',
+        buttonIdB: 'title-9-b-answer7',
+        buttonIdC: 'title-9-c-answer7',
+        buttonIdD: 'title-9-d-answer7',
+        correctAnswer: 'title-9-a-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 10,
-      title: `11. Posterunkowy Wiesław Kąt zauważył, że kolega z patrolu post. Radosław Flisz, w zamian za
+    {
+        id: 10,
+        title: `11. Posterunkowy Wiesław Kąt zauważył, że kolega z patrolu post. Radosław Flisz, w zamian za
     odstąpienie od czynności służbowych, przyjął od legitymowanego przez nich młodego
     mężczyzny banknot w wysokości 100 zł. Post. Wiesław Kąt o sytuacji tej niezwłocznie
     poinformował Biuro Spraw Wewnętrznych Policji (BSWP). Obaj pełnią służbę w komendzie
     powiatowej Policji. Postępowanie post. Wiesława Kąta było`,
-      a: `</br>§ 4</br>
+        a: `</br>§ 4</br>
       1. Policjanci i pracownicy Policji są obowiązani do zachowania drogi służbowej.</br>
       2. Uzyskane przez pełniącego służbę policjanta lub świadczącego pracę pracownika Policji
       informacje, mogące w jego ocenie świadczyć o popełnieniu przez innego policjanta lub pracownika
@@ -2548,7 +2548,7 @@ export const allAnswer = [
       organowi Policji lub komórce organizacyjnej Biura Spraw Wewnętrznych Policji, zwanego dalej
       „BSWP".</br>
       […]`,
-      b: `</br>§ 4</br>
+        b: `</br>§ 4</br>
       1. Policjanci i pracownicy Policji są obowiązani do zachowania drogi służbowej.</br>
       2. Uzyskane przez pełniącego służbę policjanta lub świadczącego pracę pracownika Policji
       informacje, mogące w jego ocenie świadczyć o popełnieniu przez innego policjanta lub pracownika
@@ -2559,21 +2559,21 @@ export const allAnswer = [
       organowi Policji lub komórce organizacyjnej Biura Spraw Wewnętrznych Policji, zwanego dalej
       „BSWP".</br>
       […]`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-10-a-answer7',
-      buttonIdB: 'title-10-b-answer7',
-      buttonIdC: 'title-10-c-answer7',
-      buttonIdD: 'title-10-d-answer7',
-      correctAnswer: 'title-10-b-answer7',
-      category:
-          'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-10-a-answer7',
+        buttonIdB: 'title-10-b-answer7',
+        buttonIdC: 'title-10-c-answer7',
+        buttonIdD: 'title-10-d-answer7',
+        correctAnswer: 'title-10-b-answer7',
+        category:
+            'ZARZĄDZENIE NR 30 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE FUNKCJONOWANIA ORGANIZACJI HIERARCHICZNEJ W POLICJI',
+    },
 
-  {
-      id: 0,
-      title: `1. Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku`,
-      a: `</br>Art. 135.</br>
+    {
+        id: 0,
+        title: `1. Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku`,
+        a: `</br>Art. 135.</br>
       1. Policjant:</br>
       1) zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku:</br>
       a) uzasadnionego podejrzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w
@@ -2626,21 +2626,21 @@ export const allAnswer = [
       podejrzenia, że kierowca popełnił przestępstwo lub wykroczenie, za które może być orzeczony
       zakaz prowadzenia pojazdów.
       `,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-0-a-answer8',
-      buttonIdB: 'title-0-b-answer8',
-      buttonIdC: 'title-0-c-answer8',
-      buttonIdD: 'title-0-d-answer8',
-      correctAnswer: 'title-0-a-answer8',
-      category: 'USTAWA PRAWO O RUCHU DROGOWYM',
-  },
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-0-a-answer8',
+        buttonIdB: 'title-0-b-answer8',
+        buttonIdC: 'title-0-c-answer8',
+        buttonIdD: 'title-0-d-answer8',
+        correctAnswer: 'title-0-a-answer8',
+        category: 'USTAWA PRAWO O RUCHU DROGOWYM',
+    },
 
-  {
-      id: 0,
-      title: `1. Sprawy osobowe policjantów nie dotyczą`,
-      a: `</br>§ 3</br>
+    {
+        id: 0,
+        title: `1. Sprawy osobowe policjantów nie dotyczą`,
+        a: `</br>§ 3</br>
       1. Sprawy osobowe policjantów dotyczą w szczególności:</br>
       1) przyjęcia do służby w Policji oraz zwolnienia z tej służby;</br>
       2) mianowania, wyznaczenia lub powołania na stanowisko służbowe, zwolnienia lub odwołania z
@@ -2657,7 +2657,7 @@ export const allAnswer = [
       11) udzielania zezwolenia na podjęcie zajęcia zarobkowego poza służbą;</br>
       12) udzielania wyróżnień, przyznawania nagród motywacyjnych oraz wykonywania kar
       dyscyplinarnych.`,
-      b: `</br>§ 3</br>
+        b: `</br>§ 3</br>
       1. Sprawy osobowe policjantów dotyczą w szczególności:</br>
       1) przyjęcia do służby w Policji oraz zwolnienia z tej służby;</br>
       2) mianowania, wyznaczenia lub powołania na stanowisko służbowe, zwolnienia lub odwołania z
@@ -2676,22 +2676,22 @@ export const allAnswer = [
       13) ustalania prawa do nagrody rocznej;</br>
       14) udzielania wyróżnień, przyznawania nagród motywacyjnych oraz wykonywania kar
       dyscyplinarnych.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-0-a-answer9',
-      buttonIdB: 'title-0-b-answer9',
-      buttonIdC: 'title-0-c-answer9',
-      buttonIdD: 'title-0-d-answer9',
-      correctAnswer: 'title-0-b-answer9',
-      category:
-          'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-0-a-answer9',
+        buttonIdB: 'title-0-b-answer9',
+        buttonIdC: 'title-0-c-answer9',
+        buttonIdD: 'title-0-d-answer9',
+        correctAnswer: 'title-0-b-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-  {
-    id: 1,
-    title: `2. Policjant powinien rozliczyć się z otrzymanego wyposażenia oraz obowiązków służbowych
+    {
+        id: 1,
+        title: `2. Policjant powinien rozliczyć się z otrzymanego wyposażenia oraz obowiązków służbowych
     miedzy innymi w przypadku`,
-    a: `</br>§ 18</br>
+        a: `</br>§ 18</br>
     1. Policjant rozlicza się z otrzymanego wyposażenia oraz obowiązków służbowych w przypadkach:</br>
     1) zwolnienia ze służby;</br>
     2) przeniesienia do pełnienia służby w innej miejscowości lub innej jednostce organizacyjnej Policji;</br>
@@ -2700,7 +2700,7 @@ export const allAnswer = [
     5) zawieszenia w czynnościach służbowych;</br>
     6) udzielenia urlopu wychowawczego lub bezpłatnego;</br>
     7) innych niż wymienione w pkt 1-6, wynikających z potrzeb służby`,
-    b: `</br>§ 18</br>
+        b: `</br>§ 18</br>
     1. Policjant rozlicza się z otrzymanego wyposażenia oraz obowiązków służbowych w przypadkach:</br>
     1) zwolnienia ze służby;</br>
     2) przeniesienia do pełnienia służby w innej miejscowości lub innej jednostce organizacyjnej Policji;</br>
@@ -2708,7 +2708,7 @@ export const allAnswer = [
     4) oddelegowania do pełnienia zadań służbowych poza Policją;</br>
     5) zawieszenia w czynnościach służbowych;</br>
     6) innych niż wymienione w pkt 1-6, wynikających z potrzeb służby`,
-    c: `</br>§ 18</br>
+        c: `</br>§ 18</br>
     1. Policjant rozlicza się z otrzymanego wyposażenia oraz obowiązków służbowych w przypadkach:</br>
     1) zwolnienia ze służby;</br>
     2) przeniesienia do pełnienia służby w innej miejscowości lub innej jednostce organizacyjnej Policji;</br>
@@ -2717,7 +2717,7 @@ export const allAnswer = [
     5) zawieszenia w czynnościach służbowych;</br>
     6) udzielenia urlopu wychowawczego lub bezpłatnego;</br>
     7) innych niż wymienione w pkt 1-6, wynikających z potrzeb służby`,
-    d: `</br>§ 18</br>
+        d: `</br>§ 18</br>
     1. Policjant nie rozlicza się z otrzymanego wyposażenia oraz obowiązków służbowych w przypadkach:</br>
     1) zwolnienia ze służby;</br>
     2) przeniesienia do pełnienia służby w innej miejscowości lub innej jednostce organizacyjnej Policji;</br>
@@ -2726,21 +2726,21 @@ export const allAnswer = [
     5) zawieszenia w czynnościach służbowych;</br>
     6) udzielenia urlopu wychowawczego lub bezpłatnego;</br>
     7) innych niż wymienione w pkt 1-6, wynikających z potrzeb służby`,
-    buttonIdA: 'title-1-a-answer9',
-    buttonIdB: 'title-1-b-answer9',
-    buttonIdC: 'title-1-c-answer9',
-    buttonIdD: 'title-1-d-answer9',
-    correctAnswer: 'title-1-c-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        buttonIdA: 'title-1-a-answer9',
+        buttonIdB: 'title-1-b-answer9',
+        buttonIdC: 'title-1-c-answer9',
+        buttonIdD: 'title-1-d-answer9',
+        correctAnswer: 'title-1-c-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 2,
-    title: `3. Policjant jest obowiązany nie później niż w terminie 7 dni od zaistnienia zdarzenia,
+    {
+        id: 2,
+        title: `3. Policjant jest obowiązany nie później niż w terminie 7 dni od zaistnienia zdarzenia,
     poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych między innymi o `,
-    a: `</br>§ 13.</br>
+        a: `</br>§ 13.</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -2753,7 +2753,7 @@ export const allAnswer = [
     bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
     6) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     7) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    b: `</br>§ 13.</br>
+        b: `</br>§ 13.</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -2767,22 +2767,22 @@ export const allAnswer = [
     6) zmianie adresu miejsca zamieszkania;</br>
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-2-a-answer9',
-    buttonIdB: 'title-2-b-answer9',
-    buttonIdC: 'title-2-c-answer9',
-    buttonIdD: 'title-2-d-answer9',
-    correctAnswer: 'title-2-b-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-2-a-answer9',
+        buttonIdB: 'title-2-b-answer9',
+        buttonIdC: 'title-2-c-answer9',
+        buttonIdD: 'title-2-d-answer9',
+        correctAnswer: 'title-2-b-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 3,
-    title: `6. W razie braku możliwości stawienia się do służby można poinformować bezpośredniego
+    {
+        id: 3,
+        title: `6. W razie braku możliwości stawienia się do służby można poinformować bezpośredniego
     przełożonego drogą pocztową, przy czym za datę przekazania informacji uważa się datę`,
-    a: `</br>§ 15.</br>
+        a: `</br>§ 15.</br>
     1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
     do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
     przewidywany czas trwania nieobecności.</br>
@@ -2796,7 +2796,7 @@ export const allAnswer = [
     bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
     łączności lub drogą pocztową. <u>Za datę przekazania informacji drogą pocztową uważa się datę
     stempla pocztowego.</u>`,
-    b: `</br>§ 15.</br>
+        b: `</br>§ 15.</br>
     1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
     do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
     przewidywany czas trwania nieobecności.</br>
@@ -2810,22 +2810,22 @@ export const allAnswer = [
     bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
     łączności lub drogą pocztową.<u> Za datę przekazania informacji drogą pocztową uważa się datę
     na wniosku.</u>`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-3-a-answer9',
-    buttonIdB: 'title-3-b-answer9',
-    buttonIdC: 'title-3-c-answer9',
-    buttonIdD: 'title-3-d-answer9',
-    correctAnswer: 'title-3-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-3-a-answer9',
+        buttonIdB: 'title-3-b-answer9',
+        buttonIdC: 'title-3-c-answer9',
+        buttonIdD: 'title-3-d-answer9',
+        correctAnswer: 'title-3-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 4,
-    title: `7. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w
+    {
+        id: 4,
+        title: `7. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w
     terminie `,
-    a: `</br>§ 2.</br>
+        a: `</br>§ 2.</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
@@ -2837,7 +2837,7 @@ export const allAnswer = [
     <u>4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w
     terminie 30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.</u>`,
 
-    b: `</br>§ 2.</br>
+        b: `</br>§ 2.</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
@@ -2848,23 +2848,23 @@ export const allAnswer = [
     czytelny podpis.</br>
     <u>4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w
     terminie 14 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.</u>`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-4-a-answer9',
-    buttonIdB: 'title-4-b-answer9',
-    buttonIdC: 'title-4-c-answer9',
-    buttonIdD: 'title-4-d-answer9',
-    correctAnswer: 'title-4-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-4-a-answer9',
+        buttonIdB: 'title-4-b-answer9',
+        buttonIdC: 'title-4-c-answer9',
+        buttonIdD: 'title-4-d-answer9',
+        correctAnswer: 'title-4-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 5,
-    title: `8. Bezpośredni przełożony, jeśli nie jest właściwy do załatwienia sprawy, przesyła wyższemu
+    {
+        id: 5,
+        title: `8. Bezpośredni przełożony, jeśli nie jest właściwy do załatwienia sprawy, przesyła wyższemu
     przełożonemu wniosek w sprawie osobowej wraz z opinią dotyczącą sposobu jej
     załatwienia w terminie `,
-    a: `</br>§ 2.</br>
+        a: `</br>§ 2.</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     <u>2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w
@@ -2875,7 +2875,7 @@ export const allAnswer = [
     czytelny podpis.</br>
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
-    b: `</br>§ 2.</br>
+        b: `</br>§ 2.</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     <u>2. Bezpośredni przełożony przesyła w terminie 14 dni wyższemu przełożonemu wniosek w
@@ -2886,69 +2886,69 @@ export const allAnswer = [
     czytelny podpis.</br>
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-5-a-answer9',
-    buttonIdB: 'title-5-b-answer9',
-    buttonIdC: 'title-5-c-answer9',
-    buttonIdD: 'title-5-d-answer9',
-    correctAnswer: 'title-5-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-5-a-answer9',
+        buttonIdB: 'title-5-b-answer9',
+        buttonIdC: 'title-5-c-answer9',
+        buttonIdD: 'title-5-d-answer9',
+        correctAnswer: 'title-5-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 6,
-    title: `9. Przed rozpoczęciem urlopu wypoczynkowego i dodatkowego policjant zobowiązany jest`,
-    a: `</br>§ 11.</br>
+    {
+        id: 6,
+        title: `9. Przed rozpoczęciem urlopu wypoczynkowego i dodatkowego policjant zobowiązany jest`,
+        a: `</br>§ 11.</br>
     Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego jest obowiązany pisemnie
     zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
     nawiązania z nim kontaktu podczas urlopu.`,
-    b: `</br>§ 11.</br>
+        b: `</br>§ 11.</br>
     Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego nie jest obowiązany
     zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
     nawiązania z nim kontaktu podczas urlopu.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-6-a-answer9',
-    buttonIdB: 'title-6-b-answer9',
-    buttonIdC: 'title-6-c-answer9',
-    buttonIdD: 'title-6-d-answer9',
-    correctAnswer: 'title-6-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-6-a-answer9',
+        buttonIdB: 'title-6-b-answer9',
+        buttonIdC: 'title-6-c-answer9',
+        buttonIdD: 'title-6-d-answer9',
+        correctAnswer: 'title-6-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 7,
-    title: `10. Zwolnienie od zajęć służbowych w wymiarze 2 dni w ciągu roku kalendarzowego
+    {
+        id: 7,
+        title: `10. Zwolnienie od zajęć służbowych w wymiarze 2 dni w ciągu roku kalendarzowego
     przysługuje policjantowi wychowującemu przynajmniej jedno dziecko w wieku do lat`,
-    a: `</br>§ 8</br>
+        a: `</br>§ 8</br>
     Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 15 lat przysługuje w ciągu
     roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
-    b: `</br>§ 8</br>
+        b: `</br>§ 8</br>
     Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu
     roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 3 dni. `,
-    c: `</br>§ 8</br>
+        c: `</br>§ 8</br>
     Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu
     roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
-    d: `</br>§ 8</br>
+        d: `</br>§ 8</br>
     Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 12 lat przysługuje w ciągu
     roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni. `,
-    buttonIdA: 'title-7-a-answer9',
-    buttonIdB: 'title-7-b-answer9',
-    buttonIdC: 'title-7-c-answer9',
-    buttonIdD: 'title-7-d-answer9',
-    correctAnswer: 'title-7-c-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        buttonIdA: 'title-7-a-answer9',
+        buttonIdB: 'title-7-b-answer9',
+        buttonIdC: 'title-7-c-answer9',
+        buttonIdD: 'title-7-d-answer9',
+        correctAnswer: 'title-7-c-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 8,
-    title: `11. Policjant jest obowiązany niezwłocznie poinformować w pisemnym raporcie drogą
+    {
+        id: 8,
+        title: `11. Policjant jest obowiązany niezwłocznie poinformować w pisemnym raporcie drogą
     służbową przełożonego właściwego w sprawach osobowych o`,
-    a: `</br>§ 13</br>
+        a: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 9 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -2962,7 +2962,7 @@ export const allAnswer = [
     6) zmianie adresu miejsca zamieszkania;</br>
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    b: `</br>§ 13</br>
+        b: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -2975,7 +2975,7 @@ export const allAnswer = [
     bezpośrednim związku z zajmowanym stanowiskiem służbowym;</br>
     6) zmianie adresu miejsca zamieszkania;</br>
     7) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    c: `</br>§ 13</br>
+        c: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 14 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -2990,7 +2990,7 @@ export const allAnswer = [
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
 
-    d: `</br>§ 13</br>
+        d: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -3004,20 +3004,20 @@ export const allAnswer = [
     6) zmianie adresu miejsca zamieszkania;</br>
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    buttonIdA: 'title-8-a-answer9',
-    buttonIdB: 'title-8-b-answer9',
-    buttonIdC: 'title-8-c-answer9',
-    buttonIdD: 'title-8-d-answer9',
-    correctAnswer: 'title-8-d-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        buttonIdA: 'title-8-a-answer9',
+        buttonIdB: 'title-8-b-answer9',
+        buttonIdC: 'title-8-c-answer9',
+        buttonIdD: 'title-8-d-answer9',
+        correctAnswer: 'title-8-d-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 9,
-    title: `12. Policjant informuje drogą służbową przełożonego właściwego w sprawach osobowych
+    {
+        id: 9,
+        title: `12. Policjant informuje drogą służbową przełożonego właściwego w sprawach osobowych
     m.in. o zmianie stanu cywilnego sporządzając pisemny `,
-    a: `</br>§ 2</br>
+        a: `</br>§ 2</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 14 dni wyższemu przełożonemu wniosek w sprawie
@@ -3029,7 +3029,7 @@ export const allAnswer = [
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
 
-    b: `</br>§ 2</br>
+        b: `</br>§ 2</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
@@ -3040,7 +3040,7 @@ export const allAnswer = [
     czytelny podpis.</br>
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
-    c: `</br>§ 2</br>
+        c: `</br>§ 2</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 14 dni wyższemu przełożonemu wniosek w sprawie
@@ -3050,7 +3050,7 @@ export const allAnswer = [
     potwierdza jego otrzymanie, umieszczając na oryginale i na kopii datę jego otrzymania.</br>
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     30 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
-    d: `</br>§ 2</br>
+        d: `</br>§ 2</br>
     1. Policjant składa wniosek w sprawie osobowej drogą służbową, z wyjątkiem przypadków
     określonych w odrębnych przepisach.</br>
     2. Bezpośredni przełożony przesyła w terminie 7 dni wyższemu przełożonemu wniosek w sprawie
@@ -3061,71 +3061,71 @@ export const allAnswer = [
     czytelny podpis.</br>
     4. O sposobie załatwienia wniosku w sprawie osobowej należy zawiadomić policjanta w terminie
     14 dni od dnia jego złożenia, o ile odrębne przepisy nie stanowią inaczej.`,
-    buttonIdA: 'title-9-a-answer9',
-    buttonIdB: 'title-9-b-answer9',
-    buttonIdC: 'title-9-c-answer9',
-    buttonIdD: 'title-9-d-answer9',
-    correctAnswer: 'title-9-b-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        buttonIdA: 'title-9-a-answer9',
+        buttonIdB: 'title-9-b-answer9',
+        buttonIdC: 'title-9-c-answer9',
+        buttonIdD: 'title-9-d-answer9',
+        correctAnswer: 'title-9-b-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 10,
-    title: `13. Tryb zwracania się policjanta w sprawie osobowej lub innej sprawie wynikającej ze
+    {
+        id: 10,
+        title: `13. Tryb zwracania się policjanta w sprawie osobowej lub innej sprawie wynikającej ze
     stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
     pośrednictwem bezpośredniego przełożonego to `,
-    a: `</br>§ 1</br>
+        a: `</br>§ 1</br>
     Użyte w rozporządzeniu określenia oznaczają:</br>
     7) droga służbowa - tryb zwracania się policjanta w sprawie osobowej lub innej sprawie
     wynikającej ze stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
     pośrednictwem bezpośredniego przełożonego;`,
-    b: `</br>§ 1</br>
+        b: `</br>§ 1</br>
     Użyte w rozporządzeniu określenia oznaczają:</br>
     7) droga służbowa - tryb zwracania się policjanta w sprawie osobowej lub innej sprawie
     wynikającej ze stosunku służbowego do przełożonego uprawnionego do jej załatwienia za
     pośrednictwem policjanta wyższego stopnia;`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-10-a-answer9',
-    buttonIdB: 'title-10-b-answer9',
-    buttonIdC: 'title-10-c-answer9',
-    buttonIdD: 'title-10-d-answer9',
-    correctAnswer: 'title-10-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-10-a-answer9',
+        buttonIdB: 'title-10-b-answer9',
+        buttonIdC: 'title-10-c-answer9',
+        buttonIdD: 'title-10-d-answer9',
+        correctAnswer: 'title-10-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 11,
-    title: `14. Policjant przed rozpoczęciem urlopu wypoczynkowego jest obowiązany pisemnie
+    {
+        id: 11,
+        title: `14. Policjant przed rozpoczęciem urlopu wypoczynkowego jest obowiązany pisemnie
     zawiadomić o przewidywanym miejscu pobytu i sposobie nawiązania kontaktu podczas
     urlopu `,
-    a: `</br>§ 11</br>
+        a: `</br>§ 11</br>
     Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego jest obowiązany pisemnie
     zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
     nawiązania z nim kontaktu podczas urlopu.`,
-    b: `</br>§ 11</br>
+        b: `</br>§ 11</br>
     Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego nie jest obowiązany pisemnie
     zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie
     nawiązania z nim kontaktu podczas urlopu.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-11-a-answer9',
-    buttonIdB: 'title-11-b-answer9',
-    buttonIdC: 'title-11-c-answer9',
-    buttonIdD: 'title-11-d-answer9',
-    correctAnswer: 'title-11-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-11-a-answer9',
+        buttonIdB: 'title-11-b-answer9',
+        buttonIdC: 'title-11-c-answer9',
+        buttonIdD: 'title-11-d-answer9',
+        correctAnswer: 'title-11-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 12,
-    title: `15. Policjant po zawarciu związku małżeńskiego jest obowiązany poinformować o tym fakcie
+    {
+        id: 12,
+        title: `15. Policjant po zawarciu związku małżeńskiego jest obowiązany poinformować o tym fakcie
     przełożonego właściwego w sprawach osobowych niezwłocznie, jednakże nie później niż
     w terminie `,
-    a: `</br>§ 13</br>
+        a: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 14 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -3139,7 +3139,7 @@ export const allAnswer = [
     6) zmianie adresu miejsca zamieszkania;</br>
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    b: `</br>§ 13</br>
+        b: `</br>§ 13</br>
     Policjant jest obowiązany niezwłocznie, jednakże nie później niż w terminie 7 dni od zaistnienia
     zdarzenia, poinformować w pisemnym raporcie drogą służbową przełożonego właściwego w
     sprawach osobowych o:</br>
@@ -3153,22 +3153,22 @@ export const allAnswer = [
     6) zmianie adresu miejsca zamieszkania;</br>
     7) urodzeniu się dziecka, przysposobieniu dziecka lub przyjęciu dziecka na wychowanie;</br>
     8) innych przypadkach, jeżeli przepisy odrębne tak stanowią.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-12-a-answer9',
-    buttonIdB: 'title-12-b-answer9',
-    buttonIdC: 'title-12-c-answer9',
-    buttonIdD: 'title-12-d-answer9',
-    correctAnswer: 'title-12-b-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-12-a-answer9',
+        buttonIdB: 'title-12-b-answer9',
+        buttonIdC: 'title-12-c-answer9',
+        buttonIdD: 'title-12-d-answer9',
+        correctAnswer: 'title-12-b-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 13,
-    title: `16. Sierżant Jan N. nie mógł przyjechać na służbę, więc poinformował swojego przełożonego
+    {
+        id: 13,
+        title: `16. Sierżant Jan N. nie mógł przyjechać na służbę, więc poinformował swojego przełożonego
     wysyłając do niego list. Zachowanie policjanta było`,
-    a: `</br>§ 15</br>
+        a: `</br>§ 15</br>
     1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
     do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
     przewidywany czas trwania nieobecności.</br>
@@ -3182,7 +3182,7 @@ export const allAnswer = [
     bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
     łączności lub drogą pocztową. Za datę przekazania informacji drogą pocztową uważa się datę
     stempla pocztowego.</u>`,
-    b: `</br>§ 15</br>
+        b: `</br>§ 15</br>
     1. Policjant jest obowiązany uprzedzić bezpośredniego przełożonego o niemożności stawienia się
     do służby lub spóźnieniu z przyczyny z góry wiadomej lub możliwej do przewidzenia oraz określić
     przewidywany czas trwania nieobecności.</br>
@@ -3196,62 +3196,61 @@ export const allAnswer = [
     bezpośredniego przełożonego osobiście lub za pośrednictwem innej osoby, używając środka
     łączności lub drogą pocztową. Za datę przekazania informacji drogą pocztową uważa się datę
     stempla pocztowego.</u>`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-13-a-answer9',
-    buttonIdB: 'title-13-b-answer9',
-    buttonIdC: 'title-13-c-answer9',
-    buttonIdD: 'title-13-d-answer9',
-    correctAnswer: 'title-13-b-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-13-a-answer9',
+        buttonIdB: 'title-13-b-answer9',
+        buttonIdC: 'title-13-c-answer9',
+        buttonIdD: 'title-13-d-answer9',
+        correctAnswer: 'title-13-b-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-    id: 14,
-    title: `17. Ustanie stosunku służbowego to rozwiązanie stosunku służbowego w związku`,
-    a: `</br>§ 1</br>
+    {
+        id: 14,
+        title: `17. Ustanie stosunku służbowego to rozwiązanie stosunku służbowego w związku`,
+        a: `</br>§ 1</br>
     8) ustanie stosunku służbowego - rozwiązanie stosunku służbowego w związku ze zwolnieniem
     policjanta ze służby lub jego śmiercią.`,
-    b: `</br>§ 1</br>
+        b: `</br>§ 1</br>
     8) ustanie stosunku służbowego - rozwiązanie stosunku służbowego w związku ze zwolnieniem
     policjanta ze służby.`,
-    c: ``,
-    d: ``,
-    buttonIdA: 'title-14-a-answer9',
-    buttonIdB: 'title-14-b-answer9',
-    buttonIdC: 'title-14-c-answer9',
-    buttonIdD: 'title-14-d-answer9',
-    correctAnswer: 'title-14-a-answer9',
-    category:
-        'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
-},
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-14-a-answer9',
+        buttonIdB: 'title-14-b-answer9',
+        buttonIdC: 'title-14-c-answer9',
+        buttonIdD: 'title-14-d-answer9',
+        correctAnswer: 'title-14-a-answer9',
+        category:
+            'ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W SPRAWIE SZCZEGÓŁOWYCH PRAW I OBOWIĄZKÓW ORAZ PRZEBIEGU SŁUŻBY POLICJANTÓW',
+    },
 
-{
-      id: 0,
-      title: `1. Pora nocna, w jakiej można dokonać przeszukania pomieszczeń mieszkalnych `,
-      a: `</br>Art. 221 § 1.</br>
+    {
+        id: 0,
+        title: `1. Pora nocna, w jakiej można dokonać przeszukania pomieszczeń mieszkalnych `,
+        a: `</br>Art. 221 § 1.</br>
       Przeszukania zamieszkałych pomieszczeń można dokonać w porze nocnej tylko w wypadkach
       niecierpiących zwłoki; za porę nocną uważa się czas od godziny 23 do godziny 7.`,
-      b: `</br>Art. 221 § 1.</br>
+        b: `</br>Art. 221 § 1.</br>
       Przeszukania zamieszkałych pomieszczeń można dokonać w porze nocnej tylko w wypadkach
       niecierpiących zwłoki; za porę nocną uważa się czas od godziny 22 do godziny 6.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-0-a-answer9',
-      buttonIdB: 'title-0-b-answer9',
-      buttonIdC: 'title-0-c-answer9',
-      buttonIdD: 'title-0-d-answer9',
-      correctAnswer: 'title-0-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-0-a-answer9',
+        buttonIdB: 'title-0-b-answer9',
+        buttonIdC: 'title-0-c-answer9',
+        buttonIdD: 'title-0-d-answer9',
+        correctAnswer: 'title-0-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 1,
-      title: `2. Osobę zatrzymaną przez policję na podstawie art. 244 k.p.k., należy natychmiast zwolnić
+    {
+        id: 1,
+        title: `2. Osobę zatrzymaną przez policję na podstawie art. 244 k.p.k., należy natychmiast zwolnić
       w przypadku`,
-      a: `</br>Art. 248</br>
+        a: `</br>Art. 248</br>
       <u>§ 1. Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, a także jeżeli
       w ciągu 72 godzin od chwili zatrzymania przez uprawniony organ nie zostanie on przekazany do
       dyspozycji sądu wraz z wnioskiem o zastosowanie tymczasowego aresztowania; należy go także
@@ -3264,7 +3263,7 @@ export const allAnswer = [
       § 3. Ponowne zatrzymanie osoby podejrzanej na podstawie tych samych faktów i dowodów jest
       niedopuszczalne.`,
 
-      b: `</br>Art. 248</br>
+        b: `</br>Art. 248</br>
       <u>§ 1. Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, a także jeżeli
       w ciągu 48 godzin od chwili zatrzymania przez uprawniony organ nie zostanie on przekazany do
       dyspozycji sądu wraz z wnioskiem o zastosowanie tymczasowego aresztowania; należy go także
@@ -3276,22 +3275,21 @@ export const allAnswer = [
       tego postanowienia przez zatrzymanego nie jest możliwy.</br>
       § 3. Ponowne zatrzymanie osoby podejrzanej na podstawie tych samych faktów i dowodów jest
       niedopuszczalne.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer9',
-      buttonIdB: 'title-1-b-answer9',
-      buttonIdC: 'title-1-c-answer9',
-      buttonIdD: 'title-1-d-answer9',
-      correctAnswer: 'title-1-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-1-a-answer9',
+        buttonIdB: 'title-1-b-answer9',
+        buttonIdC: 'title-1-c-answer9',
+        buttonIdD: 'title-1-d-answer9',
+        correctAnswer: 'title-1-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 2,
-      title: `3. Zgodnie z art. 244 § 1 k.p.k. policja ma prawo zatrzymać osobę podejrzaną o popełnienie
+    {
+        id: 2,
+        title: `3. Zgodnie z art. 244 § 1 k.p.k. policja ma prawo zatrzymać osobę podejrzaną o popełnienie
       przestępstwa`,
-      a: `</br>Art. 244</br>
+        a: `</br>Art. 244</br>
       § 1. Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
@@ -3304,7 +3302,7 @@ export const allAnswer = [
       popełnione przy użyciu broni palnej, noża lub innego niebezpiecznego przedmiotu, a zachodzi
       obawa, że ponownie popełni ona przestępstwo z użyciem przemocy wobec osoby wspólnie
       zamieszkującej, zwłaszcza gdy popełnieniem takiego przestępstwa grozi.`,
-      b: `</br>Art. 244</br>
+        b: `</br>Art. 244</br>
       § 1. Policja nie ma prawa zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
@@ -3317,135 +3315,130 @@ export const allAnswer = [
       popełnione przy użyciu broni palnej, noża lub innego niebezpiecznego przedmiotu, a zachodzi
       obawa, że ponownie popełni ona przestępstwo z użyciem przemocy wobec osoby wspólnie
       zamieszkującej, zwłaszcza gdy popełnieniem takiego przestępstwa grozi.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-2-a-answer9',
-      buttonIdB: 'title-2-b-answer9',
-      buttonIdC: 'title-2-c-answer9',
-      buttonIdD: 'title-2-d-answer9',
-      correctAnswer: 'title-2-a-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-2-a-answer9',
+        buttonIdB: 'title-2-b-answer9',
+        buttonIdC: 'title-2-c-answer9',
+        buttonIdD: 'title-2-d-answer9',
+        correctAnswer: 'title-2-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 3,
-      title: `4. Zatrzymanemu przysługuje zażalenie na zasadność, legalność oraz prawidłowość
+    {
+        id: 3,
+        title: `4. Zatrzymanemu przysługuje zażalenie na zasadność, legalność oraz prawidłowość
       zatrzymania do `,
-      a: `</br>Art. 246 § 1</br>
+        a: `</br>Art. 246 § 1</br>
       Zatrzymanemu przysługuje zażalenie do sądu. W zażaleniu zatrzymany nie może się domagać zbadania
       zasadności, legalności oraz prawidłowości jego zatrzymania.`,
-      b: `</br>Art. 246 § 1</br>
+        b: `</br>Art. 246 § 1</br>
       Zatrzymanemu przysługuje zażalenie do sądu. W zażaleniu zatrzymany może się domagać zbadania
       zasadności, legalności oraz prawidłowości jego zatrzymania.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-3-a-answer9',
-      buttonIdB: 'title-3-b-answer9',
-      buttonIdC: 'title-3-c-answer9',
-      buttonIdD: 'title-3-d-answer9',
-      correctAnswer: 'title-3-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-3-a-answer9',
+        buttonIdB: 'title-3-b-answer9',
+        buttonIdC: 'title-3-c-answer9',
+        buttonIdD: 'title-3-d-answer9',
+        correctAnswer: 'title-3-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 4,
-      title: `5. Osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że popełniła ona
+    {
+        id: 4,
+        title: `5. Osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że popełniła ona
       przestępstwo, a zachodzi obawa ucieczki, ma prawo zatrzymać `,
-      a: `</br>Art. 244 § 1</br>
+        a: `</br>Art. 244 § 1</br>
       Policja nie ma prawa zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
       przeprowadzenia przeciwko tej osobie postępowania w trybie przyspieszonym.`,
-      b: `</br>Art. 244 § 1</br>
+        b: `</br>Art. 244 § 1</br>
       Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa albo istnieją przesłanki do
       przeprowadzenia przeciwko tej osobie postępowania w trybie przyspieszonym.`,
-      c: `</br>Art. 244 § 1</br>
+        c: `</br>Art. 244 § 1</br>
       Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
       przeprowadzenia przeciwko tej osobie postępowania w trybie przyspieszonym.`,
-      d: `</br>Art. 244 § 1</br>
+        d: `</br>Art. 244 § 1</br>
       Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, i nie zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
       przeprowadzenia przeciwko tej osobie postępowania w trybie przyspieszonym.`,
-      buttonIdA: 'title-4-a-answer9',
-      buttonIdB: 'title-4-b-answer9',
-      buttonIdC: 'title-4-c-answer9',
-      buttonIdD: 'title-4-d-answer9',
-      correctAnswer: 'title-4-c-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        buttonIdA: 'title-4-a-answer9',
+        buttonIdB: 'title-4-b-answer9',
+        buttonIdC: 'title-4-c-answer9',
+        buttonIdD: 'title-4-d-answer9',
+        correctAnswer: 'title-4-c-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 5,
-      title: `6. Sąd zarządza natychmiastowe zwolnienie zatrzymanego w razie uznania`,
-      a: `</br>Art. 246 § 3</br>
+    {
+        id: 5,
+        title: `6. Sąd zarządza natychmiastowe zwolnienie zatrzymanego w razie uznania`,
+        a: `</br>Art. 246 § 3</br>
       W razie uznania bezzasadności lub nielegalności zatrzymania sąd nie zarządza natychmiastowego
       zwolnienia zatrzymanego.`,
-      b: `</br>Art. 246 § 3</br>
+        b: `</br>Art. 246 § 3</br>
       W razie uznania bezzasadności lub legalności zatrzymania sąd zarządza natychmiastowe
       zwolnienie zatrzymanego.`,
-      c: `</br>Art. 246 § 3</br>
+        c: `</br>Art. 246 § 3</br>
       W razie uznania bezzasadności lub nielegalności zatrzymania sąd zarządza natychmiastowe
       zwolnienie zatrzymanego.`,
-      d: `</br>Art. 246 § 3</br>
+        d: `</br>Art. 246 § 3</br>
       W razie uznania bezzasadności lub legalności zatrzymania sąd zarządza natychmiastowe
       zwolnienie zatrzymanego.`,
-      buttonIdA: 'title-5-a-answer9',
-      buttonIdB: 'title-5-b-answer9',
-      buttonIdC: 'title-5-c-answer9',
-      buttonIdD: 'title-5-d-answer9',
-      correctAnswer: 'title-5-c-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        buttonIdA: 'title-5-a-answer9',
+        buttonIdB: 'title-5-b-answer9',
+        buttonIdC: 'title-5-c-answer9',
+        buttonIdD: 'title-5-d-answer9',
+        correctAnswer: 'title-5-c-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 6,
-      title: `7. Prawo do ujęcia na gorącym uczynku popełnienia przestępstwa przysługuje 
+    {
+        id: 6,
+        title: `7. Prawo do ujęcia na gorącym uczynku popełnienia przestępstwa przysługuje 
       `,
-      a: `</br>Art. 243</br>
+        a: `</br>Art. 243</br>
       § 1. Nie każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji. `,
 
-      b: `</br>Art. 243</br>
+        b: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą można oddać w ręce Policji. `,
 
-      c: `</br>Art. 243</br>
+        c: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub
       można ustalić jej tożsamość.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji. `,
 
-      d: `</br>Art. 243</br>
+        d: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji. `,
-      buttonIdA: 'title-6-a-answer9',
-      buttonIdB: 'title-6-b-answer9',
-      buttonIdC: 'title-6-c-answer9',
-      buttonIdD: 'title-6-d-answer9',
-      correctAnswer: 'title-6-d-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        buttonIdA: 'title-6-a-answer9',
+        buttonIdB: 'title-6-b-answer9',
+        buttonIdC: 'title-6-c-answer9',
+        buttonIdD: 'title-6-d-answer9',
+        correctAnswer: 'title-6-d-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 7,
-      title: `8. Zatrzymanemu przysługuje zażalenie do `,
-      a: `</br>Art. 246</br>
+    {
+        id: 7,
+        title: `8. Zatrzymanemu przysługuje zażalenie do `,
+        a: `</br>Art. 246</br>
       § 1. Zatrzymanemu przysługuje zażalenie do sądu. W zażaleniu zatrzymany może się domagać
       zbadania zasadności, legalności oraz prawidłowości jego zatrzymania.</br>
       § 2. Zażalenie przekazuje się niezwłocznie sądowi okręgowemu miejsca zatrzymania lub
@@ -3456,7 +3449,7 @@ export const allAnswer = [
       zawiadamia o tym prokuratora i organ przełożony nad organem, który dokonał zatrzymania.</br>
       § 5. W razie zbiegu zażaleń na zatrzymanie i tymczasowe aresztowanie można rozpoznać je łącznie. 
       `,
-      b: `</br>Art. 246</br>
+        b: `</br>Art. 246</br>
       § 1. Zatrzymanemu przysługuje zażalenie do sądu. W zażaleniu zatrzymany może się domagać
       zbadania zasadności, legalności oraz prawidłowości jego zatrzymania.</br>
       § 2. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania lub
@@ -3466,21 +3459,20 @@ export const allAnswer = [
       § 4. W wypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości zatrzymania sąd
       zawiadamia o tym prokuratora i organ przełożony nad organem, który dokonał zatrzymania.</br>
       § 5. W razie zbiegu zażaleń na zatrzymanie i tymczasowe aresztowanie można rozpoznać je łącznie. `,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-7-a-answer9',
-      buttonIdB: 'title-7-b-answer9',
-      buttonIdC: 'title-7-c-answer9',
-      buttonIdD: 'title-7-d-answer9',
-      correctAnswer: 'title-7-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-7-a-answer9',
+        buttonIdB: 'title-7-b-answer9',
+        buttonIdC: 'title-7-c-answer9',
+        buttonIdD: 'title-7-d-answer9',
+        correctAnswer: 'title-7-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 8,
-      title: `9. Zatrzymany przez Policję — w zażaleniu na zatrzymanie — NIE może kwestionować jego`,
-      a: `</br>Art. 246</br>
+    {
+        id: 8,
+        title: `9. Zatrzymany przez Policję — w zażaleniu na zatrzymanie — NIE może kwestionować jego`,
+        a: `</br>Art. 246</br>
       § 1. Zatrzymanemu nie przysługuje zażalenie do sądu. W zażaleniu zatrzymany może się domagać
       zbadania zasadności, legalności oraz prawidłowości jego zatrzymania.</br>
       § 2. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania lub
@@ -3491,7 +3483,7 @@ export const allAnswer = [
       zawiadamia o tym prokuratora i organ przełożony nad organem, który dokonał zatrzymania.</br>
       § 5. W razie zbiegu zażaleń na zatrzymanie i tymczasowe aresztowanie można rozpoznać je łącznie. `,
 
-      b: `</br>Art. 246</br>
+        b: `</br>Art. 246</br>
       § 1. Zatrzymanemu przysługuje zażalenie do sądu. W zażaleniu zatrzymany może się domagać
       zbadania zasadności, legalności oraz prawidłowości jego zatrzymania.</br>
       § 2. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania lub
@@ -3501,21 +3493,20 @@ export const allAnswer = [
       § 4. W wypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości zatrzymania sąd
       zawiadamia o tym prokuratora i organ przełożony nad organem, który dokonał zatrzymania.</br>
       § 5. W razie zbiegu zażaleń na zatrzymanie i tymczasowe aresztowanie można rozpoznać je łącznie.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-8-a-answer9',
-      buttonIdB: 'title-8-b-answer9',
-      buttonIdC: 'title-8-c-answer9',
-      buttonIdD: 'title-8-d-answer9',
-      correctAnswer: 'title-8-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-8-a-answer9',
+        buttonIdB: 'title-8-b-answer9',
+        buttonIdC: 'title-8-c-answer9',
+        buttonIdD: 'title-8-d-answer9',
+        correctAnswer: 'title-8-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 9,
-      title: `10. Do przesłanek zatrzymania osoby przez Policję NIE należy obawa`,
-      a: `</br>Art. 224</br>
+    {
+        id: 9,
+        title: `10. Do przesłanek zatrzymania osoby przez Policję NIE należy obawa`,
+        a: `</br>Art. 224</br>
       § 1. Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
@@ -3529,7 +3520,7 @@ export const allAnswer = [
       obawa, że ponownie popełni ona przestępstwo z użyciem przemocy wobec osoby wspólnie
       zamieszkującej, zwłaszcza gdy popełnieniem takiego przestępstwa grozi.
       `,
-      b: `</br>Art. 224</br>
+        b: `</br>Art. 224</br>
       § 1. Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że
       popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia
       śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do
@@ -3542,260 +3533,255 @@ export const allAnswer = [
       popełnione przy użyciu broni palnej, noża lub innego niebezpiecznego przedmiotu, a nie zachodzi
       obawa, że ponownie popełni ona przestępstwo z użyciem przemocy wobec osoby wspólnie
       zamieszkującej, zwłaszcza gdy popełnieniem takiego przestępstwa grozi.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-9-a-answer9',
-      buttonIdB: 'title-9-b-answer9',
-      buttonIdC: 'title-9-c-answer9',
-      buttonIdD: 'title-9-d-answer9',
-      correctAnswer: 'title-9-a-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-9-a-answer9',
+        buttonIdB: 'title-9-b-answer9',
+        buttonIdC: 'title-9-c-answer9',
+        buttonIdD: 'title-9-d-answer9',
+        correctAnswer: 'title-9-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 10,
-      title: `11. Pracownik ochrony sklepu spożywczego zauważył, że jeden z klientów usiłował wynieść
+    {
+        id: 10,
+        title: `11. Pracownik ochrony sklepu spożywczego zauważył, że jeden z klientów usiłował wynieść
       towar, za który nie zapłacił. Następnie umieścił go w pomieszczeniu ochrony i powiadomił
       Policję o zdarzeniu. W tym przypadku mamy do czynienia z`,
-      a: `</br>Art. 243</br>
+        a: `</br>Art. 243</br>
       § 1. Nie każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
-      b: `</br>Art. 243</br>
+        b: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji. `,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-10-a-answer9',
-      buttonIdB: 'title-10-b-answer9',
-      buttonIdC: 'title-10-c-answer9',
-      buttonIdD: 'title-10-d-answer9',
-      correctAnswer: 'title-10-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-10-a-answer9',
+        buttonIdB: 'title-10-b-answer9',
+        buttonIdC: 'title-10-c-answer9',
+        buttonIdD: 'title-10-d-answer9',
+        correctAnswer: 'title-10-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 11,
-      title: `12. Maksymalny czas pozbawienia wolności osoby w ramach ujęcia obywatelskiego `,
-      a: `</br>Art. 243</br>
+    {
+        id: 11,
+        title: `12. Maksymalny czas pozbawienia wolności osoby w ramach ujęcia obywatelskiego `,
+        a: `</br>Art. 243</br>
       § 1. Nie każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
-      b: `</br>Art. 243</br>
+        b: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
-      c: `</br>Art. 243</br>
+        c: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą nie trzeba oddać w ręce Policji.`,
-      d: ``,
-      buttonIdA: 'title-11-a-answer9',
-      buttonIdB: 'title-11-b-answer9',
-      buttonIdC: 'title-11-c-answer9',
-      buttonIdD: 'title-11-d-answer9',
-      correctAnswer: 'title-11-b-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        d: ``,
+        buttonIdA: 'title-11-a-answer9',
+        buttonIdB: 'title-11-b-answer9',
+        buttonIdC: 'title-11-c-answer9',
+        buttonIdD: 'title-11-d-answer9',
+        correctAnswer: 'title-11-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 12,
-      title: `13. Do przesłanek ujęcia obywatelskiego osoby należy obawa`,
-      a: `</br>Art. 243</br>
+    {
+        id: 12,
+        title: `13. Do przesłanek ujęcia obywatelskiego osoby należy obawa`,
+        a: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
-      b: `</br>Art. 243</br>
+        b: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą można oddać oddać w ręce Policji.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-12-a-answer9',
-      buttonIdB: 'title-12-b-answer9',
-      buttonIdC: 'title-12-c-answer9',
-      buttonIdD: 'title-12-d-answer9',
-      correctAnswer: 'title-12-a-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-12-a-answer9',
+        buttonIdB: 'title-12-b-answer9',
+        buttonIdC: 'title-12-c-answer9',
+        buttonIdD: 'title-12-d-answer9',
+        correctAnswer: 'title-12-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 13,
-      title: `14. Naoczny świadek przestępstwa rozboju, po bezpośrednim pościgu za sprawcą, dokonał
+    {
+        id: 13,
+        title: `14. Naoczny świadek przestępstwa rozboju, po bezpośrednim pościgu za sprawcą, dokonał
       jego ujęcia, po czym niezwłocznie oddał w ręce Policji. Zachowanie swoje uzasadnił
       faktem, że istniała obawa ukrycia się sprawcy. Postępowanie obywatela, który dokonał
       ujęcia było`,
-      a: `</br>Art. 243</br>
+        a: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji. `,
-      b: `</br>Art. 243</br>
+        b: `</br>Art. 243</br>
       § 1. Każdy ma prawo ująć osobę na gorącym uczynku przestępstwa lub w pościgu podjętym
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą można oddać w ręce Policji.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-13-a-answer9',
-      buttonIdB: 'title-13-b-answer9',
-      buttonIdC: 'title-13-c-answer9',
-      buttonIdD: 'title-13-d-answer9',
-      correctAnswer: 'title-13-a-answer9',
-      category:
-          'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-13-a-answer9',
+        buttonIdB: 'title-13-b-answer9',
+        buttonIdC: 'title-13-c-answer9',
+        buttonIdD: 'title-13-d-answer9',
+        correctAnswer: 'title-13-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA KARNEGO',
+    },
 
-  {
-      id: 0,
-      title: `1. Rodzaje mandatów karnych to `,
-      a: `</br>Art. 98</br>
+    {
+        id: 0,
+        title: `1. Rodzaje mandatów karnych to `,
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył; (gotówkowy)</br>
       2) kredytowanego, wydawanego ukaranemu za potwierdzeniem odbioru;</br>
       3) zaocznego.`,
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył; (bezgotówkowy)</br>
       2) kredytowanego, wydawanego ukaranemu za potwierdzeniem odbioru;</br>
       3) odroczonego.`,
-      c: `</br>Art. 98</br>
+        c: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył; (gotówkowy)</br>
       2) kredytowanego, wydawanego ukaranemu za potwierdzeniem odbioru;</br>
       3) zaocznego.`,
-      d: `</br>Art. 98</br>
+        d: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył; (gotówkowy)</br>
       2) kredytowanego, wydawanego ukaranemu bez potwierdzenia odbioru;</br>
       3) zaocznego.`,
-      buttonIdA: 'title-0-a-answer9',
-      buttonIdB: 'title-0-b-answer9',
-      buttonIdC: 'title-0-c-answer9',
-      buttonIdD: 'title-0-d-answer9',
-      correctAnswer: 'title-0-c-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-0-a-answer9',
+        buttonIdB: 'title-0-b-answer9',
+        buttonIdC: 'title-0-c-answer9',
+        buttonIdD: 'title-0-d-answer9',
+        correctAnswer: 'title-0-c-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 1,
-      title: `2. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
+    {
+        id: 1,
+        title: `2. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
       lub bezpośrednio potem, jeżeli `,
-      a: `</br>Art. 45</br>
+        a: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia przestępstwa lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) nie można ustalić jej tożsamości.`,
-      b: `</br>Art. 45</br>
+        b: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) można ustalić jej tożsamość.`,
-      c: `</br>Art. 45</br>
+        c: `</br>Art. 45</br>
       § 1. Policja nie ma prawa zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) nie można ustalić jej tożsamości.`,
-      d: `</br>Art. 45</br>
+        d: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) nie można ustalić jej tożsamości.`,
-      buttonIdA: 'title-1-a-answer9',
-      buttonIdB: 'title-1-b-answer9',
-      buttonIdC: 'title-1-c-answer9',
-      buttonIdD: 'title-1-d-answer9',
-      correctAnswer: 'title-1-d-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-1-a-answer9',
+        buttonIdB: 'title-1-b-answer9',
+        buttonIdC: 'title-1-c-answer9',
+        buttonIdD: 'title-1-d-answer9',
+        correctAnswer: 'title-1-d-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 2,
-      title: `3. Sprawca wykroczenia, który został zatrzymany przez Policję, ma prawo wnieść zażalenie w
+    {
+        id: 2,
+        title: `3. Sprawca wykroczenia, który został zatrzymany przez Policję, ma prawo wnieść zażalenie w
       celu zbadania zasadności i legalności tej czynności do `,
-      a: `</br>Art. 47</br>
+        a: `</br>Art. 47</br>
       § 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do prokuratora. W zażaleniu zatrzymany może
       domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.</br>
       § 2. 3 Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania, który
       również niezwłocznie je rozpoznaje.`,
 
-      b: `</br>Art. 47</br>
+        b: `</br>Art. 47</br>
       § 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
       domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.</br>
       § 2. 3 Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania, który
       również niezwłocznie je rozpoznaje.`,
 
-      c: `</br>Art. 47</br>
+        c: `</br>Art. 47</br>
       § 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany nie może
       domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.</br>
       § 2. 3 Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania, który
       również niezwłocznie je rozpoznaje.`,
-      d: `</br>Art. 47</br>
+        d: `</br>Art. 47</br>
       § 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
       domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.</br>
       § 2. 3 Zażalenie przekazuje się niezwłocznie sądowi okręgowemu miejsca zatrzymania, który
       również niezwłocznie je rozpoznaje.`,
-      buttonIdA: 'title-2-a-answer9',
-      buttonIdB: 'title-2-b-answer9',
-      buttonIdC: 'title-2-c-answer9',
-      buttonIdD: 'title-2-d-answer9',
-      correctAnswer: 'title-2-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-2-a-answer9',
+        buttonIdB: 'title-2-b-answer9',
+        buttonIdC: 'title-2-c-answer9',
+        buttonIdD: 'title-2-d-answer9',
+        correctAnswer: 'title-2-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 3,
-      title: `4. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
+    {
+        id: 3,
+        title: `4. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
       lub bezpośrednio potem `,
-      a: `</br>Art. 45</br>
+        a: `</br>Art. 45</br>
       § 1. Policja nie ma prawa zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) nie można ustalić jej tożsamości.`,
-      b: `</br>Art. 45</br>
+        b: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) można ustalić jej tożsamość.`,
 
-      c: `</br>Art. 45</br>
+        c: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
       2) nie można ustalić jej tożsamości.`,
 
-      d: `</br>Art. 45</br>
+        d: `</br>Art. 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>`,
-      buttonIdA: 'title-3-a-answer9',
-      buttonIdB: 'title-3-b-answer9',
-      buttonIdC: 'title-3-c-answer9',
-      buttonIdD: 'title-3-d-answer9',
-      correctAnswer: 'title-3-c-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-3-a-answer9',
+        buttonIdB: 'title-3-b-answer9',
+        buttonIdC: 'title-3-c-answer9',
+        buttonIdD: 'title-3-d-answer9',
+        correctAnswer: 'title-3-c-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 4,
-      title: `5. Prawomocny mandat karny podlega niezwłocznie uchyleniu jeżeli grzywnę nałożono `,
-      a: `</br>Art. 101</br>
+    {
+        id: 4,
+        title: `5. Prawomocny mandat karny podlega niezwłocznie uchyleniu jeżeli grzywnę nałożono `,
+        a: `</br>Art. 101</br>
       § 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli grzywnę nałożono za czyn
       niebędący czynem zabronionym jako wykroczenie albo na osobę, która popełniła czyn zabroniony
       przed ukończeniem 17 lat, albo gdy ustawa stanowi, że sprawca nie popełnia wykroczenia z
@@ -3804,7 +3790,7 @@ export const allAnswer = [
       terminie 7 dni od uprawomocnienia się mandatu lub na wniosek organu, którego funkcjonariusz
       nałożył grzywnę, albo z urzędu.`,
 
-      b: `</br>Art. 101</br>
+        b: `</br>Art. 101</br>
       § 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli grzywnę nałożono za czyn
       niebędący czynem zabronionym jako wykroczenie albo na osobę, która popełniła czyn zabroniony
       przed ukończeniem 16 lat, albo gdy ustawa stanowi, że sprawca nie popełnia wykroczenia z
@@ -3812,7 +3798,7 @@ export const allAnswer = [
       ukaranego, jego przedstawiciela ustawowego lub opiekuna prawnego złożony nie później niż w
       terminie 7 dni od uprawomocnienia się mandatu lub na wniosek organu, którego funkcjonariusz
       nałożył grzywnę, albo z urzędu.`,
-      c: `</br>Art. 101</br>
+        c: `</br>Art. 101</br>
       § 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli grzywnę nałożono za czyn
       niebędący czynem zabronionym jako wykroczenie albo na osobę, która popełniła czyn zabroniony
       przed ukończeniem 17 lat, albo gdy ustawa stanowi, że sprawca nie popełnia wykroczenia z
@@ -3820,7 +3806,7 @@ export const allAnswer = [
       ukaranego, jego przedstawiciela ustawowego lub opiekuna prawnego złożony nie później niż w
       terminie 14 dni od uprawomocnienia się mandatu lub na wniosek organu, którego funkcjonariusz
       nałożył grzywnę, albo z urzędu.`,
-      d: `</br>Art. 101</br>
+        d: `</br>Art. 101</br>
       § 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli grzywnę nałożono za czyn
       niebędący czynem zabronionym jako wykroczenie albo na osobę, która popełniła czyn zabroniony
       przed ukończeniem 17 lat, albo gdy ustawa stanowi, że sprawca nie popełnia wykroczenia z
@@ -3828,19 +3814,19 @@ export const allAnswer = [
       ukaranego, jego przedstawiciela ustawowego lub opiekuna prawnego złożony nie później niż w
       terminie 21 dni od uprawomocnienia się mandatu lub na wniosek organu, którego funkcjonariusz
       nałożył grzywnę, albo z urzędu.`,
-      buttonIdA: 'title-4-a-answer9',
-      buttonIdB: 'title-4-b-answer9',
-      buttonIdC: 'title-4-c-answer9',
-      buttonIdD: 'title-4-d-answer9',
-      correctAnswer: 'title-4-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-4-a-answer9',
+        buttonIdB: 'title-4-b-answer9',
+        buttonIdC: 'title-4-c-answer9',
+        buttonIdD: 'title-4-d-answer9',
+        correctAnswer: 'title-4-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 5,
-      title: `6. Czas zatrzymania osoby ujętej na gorącym uczynku popełnienia wykroczenia liczy się od
+    {
+        id: 5,
+        title: `6. Czas zatrzymania osoby ujętej na gorącym uczynku popełnienia wykroczenia liczy się od
       chwili`,
-      a: `</br>Art. 46</br>
+        a: `</br>Art. 46</br>
       § 1. Zatrzymanego należy natychmiast poinformować o przyczynach zatrzymania i o
       przysługujących mu uprawnieniach oraz wysłuchać go.</br>
       § 2. Z zatrzymania sporządza się protokół, którego odpis doręcza się zatrzymanemu za
@@ -3860,7 +3846,7 @@ export const allAnswer = [
       upływem czasu zatrzymania.</br>
      <u> § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 24 godzin, a w
       wypadkach wskazanych w art. 45 § 1 pkt 1 - 48 godzin.</u>`,
-      b: `</br>Art. 46</br>
+        b: `</br>Art. 46</br>
       § 1. Zatrzymanego należy natychmiast poinformować o przyczynach zatrzymania i o
       przysługujących mu uprawnieniach oraz wysłuchać go.</br>
       § 2. Z zatrzymania sporządza się protokół, którego odpis doręcza się zatrzymanemu za
@@ -3880,20 +3866,20 @@ export const allAnswer = [
       upływem czasu zatrzymania.</br>
      <u> § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 48 godzin, a w
       wypadkach wskazanych w art. 45 § 1 pkt 1 - 72 godzin.</u>`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-5-a-answer9',
-      buttonIdB: 'title-5-b-answer9',
-      buttonIdC: 'title-5-c-answer9',
-      buttonIdD: 'title-5-d-answer9',
-      correctAnswer: 'title-5-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-5-a-answer9',
+        buttonIdB: 'title-5-b-answer9',
+        buttonIdC: 'title-5-c-answer9',
+        buttonIdD: 'title-5-d-answer9',
+        correctAnswer: 'title-5-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 6,
-      title: `7. Nałożenie grzywny w drodze mandatu karnego może nastąpić do`,
-      a: `</br>Art. 97</br>
+    {
+        id: 6,
+        title: `7. Nałożenie grzywny w drodze mandatu karnego może nastąpić do`,
+        a: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -3904,7 +3890,7 @@ export const allAnswer = [
       - w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia`,
-      b: `</br>Art. 97</br>
+        b: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -3915,20 +3901,20 @@ export const allAnswer = [
       - w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 30 dni od dnia ustalenia sprawcy wykroczenia`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-6-a-answer9',
-      buttonIdB: 'title-6-b-answer9',
-      buttonIdC: 'title-6-c-answer9',
-      buttonIdD: 'title-6-d-answer9',
-      correctAnswer: 'title-6-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-6-a-answer9',
+        buttonIdB: 'title-6-b-answer9',
+        buttonIdC: 'title-6-c-answer9',
+        buttonIdD: 'title-6-d-answer9',
+        correctAnswer: 'title-6-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 7,
-      title: `8. Mandat karny kredytowany staje się prawomocny z chwilą`,
-      a: `</br>Art. 98</br>
+    {
+        id: 7,
+        title: `8. Mandat karny kredytowany staje się prawomocny z chwilą`,
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -3941,7 +3927,7 @@ export const allAnswer = [
       powinien zawierać pouczenie o obowiązku uiszczenia grzywny w terminie 7 dni od daty przyjęcia
       mandatu oraz o skutkach nieuiszczenia grzywny w terminie. Staje się on prawomocny z chwilą
       pokwitowania jego odbioru przez ukaranego.`,
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -3954,23 +3940,23 @@ export const allAnswer = [
       powinien zawierać pouczenie o obowiązku uiszczenia grzywny w terminie 7 dni od daty przyjęcia
       mandatu oraz o skutkach nieuiszczenia grzywny w terminie. Staje się on prawomocny z chwilą
       jego wystawienia.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-7-a-answer9',
-      buttonIdB: 'title-7-b-answer9',
-      buttonIdC: 'title-7-c-answer9',
-      buttonIdD: 'title-7-d-answer9',
-      correctAnswer: 'title-7-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-7-a-answer9',
+        buttonIdB: 'title-7-b-answer9',
+        buttonIdC: 'title-7-c-answer9',
+        buttonIdD: 'title-7-d-answer9',
+        correctAnswer: 'title-7-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 8,
-      title: `9. Policjant schwytał sprawcę na gorącym uczynku popełnienia wykroczenia, a następnie
+    {
+        id: 8,
+        title: `9. Policjant schwytał sprawcę na gorącym uczynku popełnienia wykroczenia, a następnie
       przed wdrożeniem postępowania mandatowego przeprowadził w niezbędnym zakresie
       czynności wyjaśniające. W tej sytuacji nałożenie grzywny w drodze mandatu karnego nie
       może nastąpić po upływie `,
-      a: `</br>Art. 97</br>
+        a: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -3981,7 +3967,7 @@ export const allAnswer = [
       - w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia`,
-      b: `</br>Art. 97</br>
+        b: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -3992,21 +3978,21 @@ export const allAnswer = [
       - w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 30 dni od dnia ustalenia sprawcy wykroczenia`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-8-a-answer9',
-      buttonIdB: 'title-8-b-answer9',
-      buttonIdC: 'title-8-c-answer9',
-      buttonIdD: 'title-8-d-answer9',
-      correctAnswer: 'title-8-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-8-a-answer9',
+        buttonIdB: 'title-8-b-answer9',
+        buttonIdC: 'title-8-c-answer9',
+        buttonIdD: 'title-8-d-answer9',
+        correctAnswer: 'title-8-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 9,
-      title: `10. Mandatem karnym kredytowanym NIE można ukarać osoby posiadającej miejsce stałego
+    {
+        id: 9,
+        title: `10. Mandatem karnym kredytowanym NIE można ukarać osoby posiadającej miejsce stałego
       zamieszkania lub pobytu na terenie`,
-      a: `Obecnie, wyróżnia się 3 rodzaje mandatów karnych: gotówkowy – po uiszczeniu grzywny
+        a: `Obecnie, wyróżnia się 3 rodzaje mandatów karnych: gotówkowy – po uiszczeniu grzywny
       funkcjonariuszowi, kredytowany – wydawany za potwierdzeniem odbioru, a także zaoczny –
       doręczany sprawcy przez właściwy organ lub pozostawiony w takim miejscu, w którym będzie mógł
       on go niezwłocznie odebrać.</br>
@@ -4036,22 +4022,22 @@ export const allAnswer = [
       powinien zawierać pouczenie o obowiązku uiszczenia grzywny w terminie 7 dni od daty przyjęcia
       mandatu oraz o skutkach nieuiszczenia grzywny w terminie. Staje się on prawomocny z chwilą
       pokwitowania jego odbioru przez ukaranego.`,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-9-a-answer9',
-      buttonIdB: 'title-9-b-answer9',
-      buttonIdC: 'title-9-c-answer9',
-      buttonIdD: 'title-9-d-answer9',
-      correctAnswer: 'title-9-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-9-a-answer9',
+        buttonIdB: 'title-9-b-answer9',
+        buttonIdC: 'title-9-c-answer9',
+        buttonIdD: 'title-9-d-answer9',
+        correctAnswer: 'title-9-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 10,
-      title: `11. Gdy wobec sprawcy wykroczenia stosujemy tryb przyspieszony czas jego zatrzymania nie
+    {
+        id: 10,
+        title: `11. Gdy wobec sprawcy wykroczenia stosujemy tryb przyspieszony czas jego zatrzymania nie
       może przekroczyć`,
-      a: `</br>Art. 45.</br>
+        a: `</br>Art. 45.</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4059,7 +4045,7 @@ export const allAnswer = [
       Art. 46</br>
       § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 24 godzin, a w
       wypadkach wskazanych w art. 45 przesłanki zatrzymania osoby przez Policję § 1 pkt 1 – 36 godzin.`,
-      b: `</br>Art. 45.</br>
+        b: `</br>Art. 45.</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4068,7 +4054,7 @@ export const allAnswer = [
       § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 24 godzin, a w
       wypadkach wskazanych w art. 45 przesłanki zatrzymania osoby przez Policję § 1 pkt 1 – 72 godzin.`,
 
-      c: `</br>Art. 45.</br>
+        c: `</br>Art. 45.</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4077,7 +4063,7 @@ export const allAnswer = [
       § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 24 godzin, a w
       wypadkach wskazanych w art. 45 przesłanki zatrzymania osoby przez Policję § 1 pkt 1 – 48 godzin.`,
 
-      d: `</br>Art. 45.</br>
+        d: `</br>Art. 45.</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4085,19 +4071,19 @@ export const allAnswer = [
       Art. 46</br>
       § 6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 48 godzin, a w
       wypadkach wskazanych w art. 45 przesłanki zatrzymania osoby przez Policję § 1 pkt 1 – 72 godzin.`,
-      buttonIdA: 'title-10-a-answer9',
-      buttonIdB: 'title-10-b-answer9',
-      buttonIdC: 'title-10-c-answer9',
-      buttonIdD: 'title-10-d-answer9',
-      correctAnswer: 'title-10-c-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        buttonIdA: 'title-10-a-answer9',
+        buttonIdB: 'title-10-b-answer9',
+        buttonIdC: 'title-10-c-answer9',
+        buttonIdD: 'title-10-d-answer9',
+        correctAnswer: 'title-10-c-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 11,
-      title: `12. Policjant ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
+    {
+        id: 11,
+        title: `12. Policjant ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia
       lub bezpośrednio potem, jeżeli `,
-      a: `</br>Art 45</br>
+        a: `</br>Art 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4109,7 +4095,7 @@ export const allAnswer = [
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
 
-      b: `</br>Art 45</br>
+        b: `</br>Art 45</br>
       § 1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub
       bezpośrednio potem, jeżeli:</br>
       1) zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego;</br>
@@ -4120,21 +4106,21 @@ export const allAnswer = [
       bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie
       można ustalić jej tożsamości.</br>
       § 2. Osobę ujętą należy niezwłocznie oddać w ręce Policji.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-11-a-answer9',
-      buttonIdB: 'title-11-b-answer9',
-      buttonIdC: 'title-11-c-answer9',
-      buttonIdD: 'title-11-d-answer9',
-      correctAnswer: 'title-11-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-11-a-answer9',
+        buttonIdB: 'title-11-b-answer9',
+        buttonIdC: 'title-11-c-answer9',
+        buttonIdD: 'title-11-d-answer9',
+        correctAnswer: 'title-11-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 12,
-      title: `13. W toku prowadzonych czynności wyjaśniających policjant nałożył grzywnę w drodze
+    {
+        id: 12,
+        title: `13. W toku prowadzonych czynności wyjaśniających policjant nałożył grzywnę w drodze
       mandatu karnego. W takiej sytuacji `,
-      a: `</br>Art. 98</br>
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4144,7 +4130,7 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4154,20 +4140,20 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-12-a-answer9',
-      buttonIdB: 'title-12-b-answer9',
-      buttonIdC: 'title-12-c-answer9',
-      buttonIdD: 'title-12-d-answer9',
-      correctAnswer: 'title-12-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-12-a-answer9',
+        buttonIdB: 'title-12-b-answer9',
+        buttonIdC: 'title-12-c-answer9',
+        buttonIdD: 'title-12-d-answer9',
+        correctAnswer: 'title-12-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 13,
-      title: `14. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego`,
-      a: `</br>Art. 98</br>
+    {
+        id: 13,
+        title: `14. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego`,
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4177,7 +4163,7 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4187,21 +4173,21 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-13-a-answer9',
-      buttonIdB: 'title-13-b-answer9',
-      buttonIdC: 'title-13-c-answer9',
-      buttonIdD: 'title-13-d-answer9',
-      correctAnswer: 'title-13-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-13-a-answer9',
+        buttonIdB: 'title-13-b-answer9',
+        buttonIdC: 'title-13-c-answer9',
+        buttonIdD: 'title-13-d-answer9',
+        correctAnswer: 'title-13-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 14,
-      title: `15. Wniosek o ukaranie przed przekazaniem do sądu powinien być sprawdzony i podpisany
+    {
+        id: 14,
+        title: `15. Wniosek o ukaranie przed przekazaniem do sądu powinien być sprawdzony i podpisany
       przez `,
-      a: `</br>Art. 57</br>
+        a: `</br>Art. 57</br>
       § 1. Podstawę do wszczęcia postępowania stanowi wniosek o ukaranie złożony przez organ
       uprawniony do występowania w charakterze oskarżyciela publicznego w danej sprawie, a w
       wypadkach określonych w art. 27 § 1 i 2 także wniosek złożony przez pokrzywdzonego.</br>
@@ -4213,7 +4199,7 @@ export const allAnswer = [
       3) wskazanie dowodów;</br>
       4) imię i nazwisko oraz podpis sporządzającego wniosek, a także adres gdy wniosek pochodzi od
       pokrzywdzonego.`,
-      b: `</br>Art. 57</br>
+        b: `</br>Art. 57</br>
       § 1. Podstawę do wszczęcia postępowania stanowi wniosek o ukaranie złożony przez organ
       uprawniony do występowania w charakterze oskarżyciela publicznego w danej sprawie, a w
       wypadkach określonych w art. 27 § 1 i 2 także wniosek złożony przez pokrzywdzonego.</br>
@@ -4225,21 +4211,21 @@ export const allAnswer = [
       3) wskazanie dowodów;</br>
       4) nazwisko oraz podpis sporządzającego wniosek, a także adres gdy wniosek pochodzi od
       pokrzywdzonego.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-14-a-answer9',
-      buttonIdB: 'title-14-b-answer9',
-      buttonIdC: 'title-14-c-answer9',
-      buttonIdD: 'title-14-d-answer9',
-      correctAnswer: 'title-14-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-14-a-answer9',
+        buttonIdB: 'title-14-b-answer9',
+        buttonIdC: 'title-14-c-answer9',
+        buttonIdD: 'title-14-d-answer9',
+        correctAnswer: 'title-14-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 15,
-      title: `16. Wobec sprawcy wykroczenia policjant
+    {
+        id: 15,
+        title: `16. Wobec sprawcy wykroczenia policjant
       `,
-      a: `Nakłada grzywnę w drodze mandatu karnego kredytowanego lub gotówkowego albo kieruje
+        a: `Nakłada grzywnę w drodze mandatu karnego kredytowanego lub gotówkowego albo kieruje
       wniosek o ukaranie do sądu rejonowego miejsca zatrzymania, jeżeli nie można poprzestać na
       zastosowaniu środków oddziaływania wychowawczego.</br>
       § 5. Wobec sprawcy wykroczenia nakłada się grzywnę w drodze mandatu karnego albo kieruje się
@@ -4247,7 +4233,7 @@ export const allAnswer = [
       wychowawczego.</br>
       WYTYCZNE Nr 3 KOMENDANTA GŁÓWNEGO POLICJI z dnia 13 lipca 2020 r. w sprawie wykonywania
       przez Policję niektórych czynności w zakresie wykrywania wykroczeń oraz ścigania ich sprawców`,
-      b: `Nakłada grzywnę w drodze mandatu karnego kredytowanego lub bezgotówkowego albo kieruje
+        b: `Nakłada grzywnę w drodze mandatu karnego kredytowanego lub bezgotówkowego albo kieruje
       wniosek o ukaranie do sądu rejonowego miejsca zatrzymania, jeżeli nie można poprzestać na
       zastosowaniu środków oddziaływania wychowawczego.</br>
       § 5. Wobec sprawcy wykroczenia nakłada się grzywnę w drodze mandatu karnego albo kieruje się
@@ -4255,109 +4241,109 @@ export const allAnswer = [
       wychowawczego.</br>
       WYTYCZNE Nr 3 KOMENDANTA GŁÓWNEGO POLICJI z dnia 13 lipca 2020 r. w sprawie wykonywania
       przez Policję niektórych czynności w zakresie wykrywania wykroczeń oraz ścigania ich sprawców`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-15-a-answer9',
-      buttonIdB: 'title-15-b-answer9',
-      buttonIdC: 'title-15-c-answer9',
-      buttonIdD: 'title-15-d-answer9',
-      correctAnswer: 'title-15-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-15-a-answer9',
+        buttonIdB: 'title-15-b-answer9',
+        buttonIdC: 'title-15-c-answer9',
+        buttonIdD: 'title-15-d-answer9',
+        correctAnswer: 'title-15-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 16,
-      title: `17. Wobec sprawcy wykroczenia Policja kieruje wniosek o ukaranie do sądu`,
-      a: `Kieruje wniosek o ukaranie do sądu rejonowego miejsca zatrzymania</br>
+    {
+        id: 16,
+        title: `17. Wobec sprawcy wykroczenia Policja kieruje wniosek o ukaranie do sądu`,
+        a: `Kieruje wniosek o ukaranie do sądu rejonowego miejsca zatrzymania</br>
       Art. 9.</br>
       § 1. W sprawach o wykroczenia w pierwszej instancji orzeka sąd rejonowy, z zastrzeżeniem spraw
       określonych w art. 10.</br>
       § 2. Sąd właściwy do rozpoznania sprawy rozpoznaje także środki zaskarżenia w wypadkach
       wskazanych w ustawie oraz przeprowadza inne czynności, gdy ustawa to przewiduje`,
-      b: `Kieruje wniosek o ukaranie do sądu okręgowego miejsca zatrzymania</br>
+        b: `Kieruje wniosek o ukaranie do sądu okręgowego miejsca zatrzymania</br>
       Art. 9.</br>
       § 1. W sprawach o wykroczenia w pierwszej instancji orzeka sąd okręgowy, z zastrzeżeniem spraw
       określonych w art. 10.</br>
       § 2. Sąd właściwy do rozpoznania sprawy rozpoznaje także środki zaskarżenia w wypadkach
       wskazanych w ustawie oraz przeprowadza inne czynności, gdy ustawa to przewiduje`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-16-a-answer9',
-      buttonIdB: 'title-16-b-answer9',
-      buttonIdC: 'title-16-c-answer9',
-      buttonIdD: 'title-16-d-answer9',
-      correctAnswer: 'title-16-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-16-a-answer9',
+        buttonIdB: 'title-16-b-answer9',
+        buttonIdC: 'title-16-c-answer9',
+        buttonIdD: 'title-16-d-answer9',
+        correctAnswer: 'title-16-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 17,
-      title: `18. Wobec sprawcy wykroczenia nakłada się grzywnę w drodze mandatu karnego
+    {
+        id: 17,
+        title: `18. Wobec sprawcy wykroczenia nakłada się grzywnę w drodze mandatu karnego
       kredytowanego lub gotówkowego albo kieruje się wniosek o ukaranie do sądu, jeżeli nie
       można poprzestać na zastosowaniu środków oddziaływania wychowawczego w postaci `,
-      a: `</br>Art. 41</br>
+        a: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      b: `</br>Art. 41</br>
+        b: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-17-a-answer9',
-      buttonIdB: 'title-17-b-answer9',
-      buttonIdC: 'title-17-c-answer9',
-      buttonIdD: 'title-17-d-answer9',
-      correctAnswer: 'title-17-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-17-a-answer9',
+        buttonIdB: 'title-17-b-answer9',
+        buttonIdC: 'title-17-c-answer9',
+        buttonIdD: 'title-17-d-answer9',
+        correctAnswer: 'title-17-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 18,
-      title: `19. W reakcji na wykroczenie policjant poprzestał na zastosowaniu środków oddziaływania
+    {
+        id: 18,
+        title: `19. W reakcji na wykroczenie policjant poprzestał na zastosowaniu środków oddziaływania
       wychowawczego. Policjant ten `,
-      a: `</br>Art. 41</br>
+        a: `</br>Art. 41</br>
       W stosunku do sprawcy czynu nie można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      b: `</br>Art. 41</br>
+        b: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-18-a-answer9',
-      buttonIdB: 'title-18-b-answer9',
-      buttonIdC: 'title-18-c-answer9',
-      buttonIdD: 'title-18-d-answer9',
-      correctAnswer: 'title-18-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-18-a-answer9',
+        buttonIdB: 'title-18-b-answer9',
+        buttonIdC: 'title-18-c-answer9',
+        buttonIdD: 'title-18-d-answer9',
+        correctAnswer: 'title-18-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 19,
-      title: `20. Policjant w reakcji na wykroczenie wskazał sprawcy wykroczenia niezgodność jego
+    {
+        id: 19,
+        title: `20. Policjant w reakcji na wykroczenie wskazał sprawcy wykroczenia niezgodność jego
       zachowania z obowiązującymi przepisami, ze wskazaniem tych przepisów. W tej sytuacji
       policjant zastosował środek oddziaływania wychowawczego w postaci 
       `,
-      a: `</br>Art. 41</br>
+        a: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      b: `</br>Art. 41</br>
+        b: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu zwrócenia uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-19-a-answer9',
-      buttonIdB: 'title-19-b-answer9',
-      buttonIdC: 'title-19-c-answer9',
-      buttonIdD: 'title-19-d-answer9',
-      correctAnswer: 'title-19-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-19-a-answer9',
+        buttonIdB: 'title-19-b-answer9',
+        buttonIdC: 'title-19-c-answer9',
+        buttonIdD: 'title-19-d-answer9',
+        correctAnswer: 'title-19-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 20,
-      title: `21. Decyzję o zastosowaniu środka oddziaływania wychowawczego w toku czynności
+    {
+        id: 20,
+        title: `21. Decyzję o zastosowaniu środka oddziaływania wychowawczego w toku czynności
       wyjaśniających podejmuje `,
-      a: `</br>Art. 41</br>
+        a: `</br>Art. 41</br>
       W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi,
       ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.</br>
       § 10. ZARZĄDZENIE NR 323 KOMENDANTA GŁÓWNEGO POLICJI z dnia 26 marca 2008 r. w sprawie
@@ -4387,23 +4373,23 @@ export const allAnswer = [
       2) kierownik jednostki lub komórki Policji, na wniosek policjanta prowadzącego czynności
       wyjaśniające w sprawie o wykroczenie, jeżeli okoliczności uzasadniające zastosowanie tych
       środków zaistniały w toku prowadzonych czynności.</u>`,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-20-a-answer9',
-      buttonIdB: 'title-20-b-answer9',
-      buttonIdC: 'title-20-c-answer9',
-      buttonIdD: 'title-20-d-answer9',
-      correctAnswer: 'title-20-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-20-a-answer9',
+        buttonIdB: 'title-20-b-answer9',
+        buttonIdC: 'title-20-c-answer9',
+        buttonIdD: 'title-20-d-answer9',
+        correctAnswer: 'title-20-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 21,
-      title: `22. Kiedy nie można poprzestać na zastosowaniu środków oddziaływania wychowawczego
+    {
+        id: 21,
+        title: `22. Kiedy nie można poprzestać na zastosowaniu środków oddziaływania wychowawczego
       wobec sprawcy wykroczenia należy`,
 
-      a: `</br>Art. 98</br>
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4414,7 +4400,7 @@ export const allAnswer = [
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
 
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4424,21 +4410,21 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-21-a-answer9',
-      buttonIdB: 'title-21-b-answer9',
-      buttonIdC: 'title-21-c-answer9',
-      buttonIdD: 'title-21-d-answer9',
-      correctAnswer: 'title-21-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-21-a-answer9',
+        buttonIdB: 'title-21-b-answer9',
+        buttonIdC: 'title-21-c-answer9',
+        buttonIdD: 'title-21-d-answer9',
+        correctAnswer: 'title-21-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 22,
-      title: `23. Jeżeli wobec sprawcy wykroczenia nie można poprzestać na zastosowaniu środków
+    {
+        id: 22,
+        title: `23. Jeżeli wobec sprawcy wykroczenia nie można poprzestać na zastosowaniu środków
       oddziaływania wychowawczego`,
-      a: `</br>Art. 98</br>
+        a: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4448,7 +4434,7 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      b: `</br>Art. 98</br>
+        b: `</br>Art. 98</br>
       § 1. W postępowaniu mandatowym można nakładać grzywnę w drodze mandatu karnego:</br>
       1) wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją
       nałożył;</br>
@@ -4458,47 +4444,47 @@ export const allAnswer = [
       osoby czasowo przebywającej na terytorium Rzeczypospolitej Polskiej lub niemającej stałego
       miejsca zamieszkania albo pobytu. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny
       funkcjonariuszowi, który ją nałożył.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-22-a-answer9',
-      buttonIdB: 'title-22-b-answer9',
-      buttonIdC: 'title-22-c-answer9',
-      buttonIdD: 'title-22-d-answer9',
-      correctAnswer: 'title-22-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-22-a-answer9',
+        buttonIdB: 'title-22-b-answer9',
+        buttonIdC: 'title-22-c-answer9',
+        buttonIdD: 'title-22-d-answer9',
+        correctAnswer: 'title-22-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 23,
-      title: `24. Policjant nałożył mandat karny kredytowany w wysokości 100 zł na sprawcę wykroczenia
+    {
+        id: 23,
+        title: `24. Policjant nałożył mandat karny kredytowany w wysokości 100 zł na sprawcę wykroczenia
       zaśmiecania miejsca publicznego. Sprawca skorzystał z przysługującego mu prawa do
       odmowy przyjęcia mandatu. W tej sytuacji organ, którego funkcjonariusz nałożył grzywnę`,
-      a: `</br>Art. 99</br>
+        a: `</br>Art. 99</br>
       W razie odmowy przyjęcia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny
       nałożonej mandatem zaocznym, organ, którego funkcjonariusz nałożył grzywnę, występuje do
       sądu z wnioskiem o ukaranie. We wniosku tym należy zaznaczyć, że obwiniony odmówił przyjęcia
       mandatu albo nie uiścił grzywny nałożonej mandatem zaocznym, a w miarę możności podać także
       przyczyny odmowy`,
-      b: `</br>Art. 99</br>
+        b: `</br>Art. 99</br>
       W razie odmowy przyjęcia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny
       nałożonej mandatem zaocznym, organ, którego funkcjonariusz nałożył grzywnę, występuje do
       sądu z wnioskiem o ukaranie. We wniosku tym należy zaznaczyć, że obwiniony nie odmówił przyjęcia
       mandatu albo nie uiścił grzywny nałożonej mandatem zaocznym, a w miarę możności podać także
       przyczyny odmowy`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-23-a-answer9',
-      buttonIdB: 'title-23-b-answer9',
-      buttonIdC: 'title-23-c-answer9',
-      buttonIdD: 'title-23-d-answer9',
-      correctAnswer: 'title-23-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-23-a-answer9',
+        buttonIdB: 'title-23-b-answer9',
+        buttonIdC: 'title-23-c-answer9',
+        buttonIdD: 'title-23-d-answer9',
+        correctAnswer: 'title-23-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 24,
-      title: `25. Przesłanką dodatnią postępowania mandatowego jest`,
-      a: `</br>Art. 97</br>
+    {
+        id: 24,
+        title: `25. Przesłanką dodatnią postępowania mandatowego jest`,
+        a: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -4509,7 +4495,7 @@ export const allAnswer = [
       – w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia.`,
-      b: `</br>Art. 97</br>
+        b: `</br>Art. 97</br>
       § 1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony
       do nakładania grzywny w drodze mandatu karnego może ją nałożyć jedynie, gdy:</br>
       1) schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu
@@ -4520,68 +4506,68 @@ export const allAnswer = [
       – w tym także, w razie potrzeby, po przeprowadzeniu w niezbędnym zakresie czynności
       wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze
       mandatu karnego nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-24-a-answer9',
-      buttonIdB: 'title-24-b-answer9',
-      buttonIdC: 'title-24-c-answer9',
-      buttonIdD: 'title-24-d-answer9',
-      correctAnswer: 'title-24-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-24-a-answer9',
+        buttonIdB: 'title-24-b-answer9',
+        buttonIdC: 'title-24-c-answer9',
+        buttonIdD: 'title-24-d-answer9',
+        correctAnswer: 'title-24-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 25,
-      title: `26. Pełnisz służbę w Wydziale Ruchu Drogowego. Za pomocą przyrządu kontrolnopomiarowego ujawniłeś wykroczenie polegające na przekroczeniu prędkości o 20 km/h w
+    {
+        id: 25,
+        title: `26. Pełnisz służbę w Wydziale Ruchu Drogowego. Za pomocą przyrządu kontrolnopomiarowego ujawniłeś wykroczenie polegające na przekroczeniu prędkości o 20 km/h w
       terenie zabudowanym przez kierującego pojazdem marki Ford Mondeo o numerze
       rejestracyjnym PP12345. Kierującemu zaproponowałeś mandat karny kredytowany,
       jednak ten odmówił jego przyjęcia. W takim przypadku należy`,
-      a: `</br>Art. 99</br>
+        a: `</br>Art. 99</br>
       W razie odmowy przyjęcia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny
       nałożonej mandatem zaocznym, organ, którego funkcjonariusz nałożył grzywnę, występuje do sądu
       z wnioskiem o ukaranie. We wniosku tym należy zaznaczyć, że obwiniony nie odmówił przyjęcia
       mandatu albo nie uiścił grzywny nałożonej mandatem zaocznym, a w miarę możności podać także
       przyczyny odmowy`,
-      b: `</br>Art. 99</br>
+        b: `</br>Art. 99</br>
       W razie odmowy przyjęcia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny
       nałożonej mandatem zaocznym, organ, którego funkcjonariusz nałożył grzywnę, występuje do sądu
       z wnioskiem o ukaranie. We wniosku tym należy zaznaczyć, że obwiniony odmówił przyjęcia
       mandatu albo nie uiścił grzywny nałożonej mandatem zaocznym, a w miarę możności podać także
       przyczyny odmowy`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-25-a-answer9',
-      buttonIdB: 'title-25-b-answer9',
-      buttonIdC: 'title-25-c-answer9',
-      buttonIdD: 'title-25-d-answer9',
-      correctAnswer: 'title-25-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-25-a-answer9',
+        buttonIdB: 'title-25-b-answer9',
+        buttonIdC: 'title-25-c-answer9',
+        buttonIdD: 'title-25-d-answer9',
+        correctAnswer: 'title-25-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 26,
-      title: `27. Policjanci zatrzymali osobę ujętą na gorącym uczynku popełnienia wykroczenia (ze
+    {
+        id: 26,
+        title: `27. Policjanci zatrzymali osobę ujętą na gorącym uczynku popełnienia wykroczenia (ze
           względu na brak możliwości ustalenia jej tożsamości). Zatrzymany może złożyć zażalenie
           do sądu, w celu zbadania`,
-      a: `§ 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
+        a: `§ 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
       domagać się zbadania zasadności, nielegalności oraz prawidłowości zatrzymania.`,
-      b: `§ 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
+        b: `§ 1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może
       domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.`,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-26-a-answer9',
-      buttonIdB: 'title-26-b-answer9',
-      buttonIdC: 'title-26-c-answer9',
-      buttonIdD: 'title-26-d-answer9',
-      correctAnswer: 'title-26-b-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-26-a-answer9',
+        buttonIdB: 'title-26-b-answer9',
+        buttonIdC: 'title-26-c-answer9',
+        buttonIdD: 'title-26-d-answer9',
+        correctAnswer: 'title-26-b-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  {
-      id: 27,
-      title: `28. Uprawnionym do poboru należności wynikających z grzywien nałożonych w drodze
+    {
+        id: 27,
+        title: `28. Uprawnionym do poboru należności wynikających z grzywien nałożonych w drodze
       mandatu karnego, stanowiących dochód budżetu państwa, jest właściwy `,
-      a: `</br>Art. 100</br>
+        a: `</br>Art. 100</br>
       § 1. Uprawnionym do poboru należności wynikających z grzywien nałożonych w drodze mandatu
       karnego, stanowiących dochód budżetu państwa, <u>jest właściwy naczelnik urzędu skarbowego, z
       zastrzeżeniem § 2.</u></br>
@@ -4596,7 +4582,7 @@ export const allAnswer = [
       autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659), a w
       przypadku gdy nałoży ją funkcjonariusz organu podległego władzom jednostki samorządu
       terytorialnego - stanowi dochód tej jednostki samorządu. `,
-      b: `</br>Art. 100</br>
+        b: `</br>Art. 100</br>
       § 1. Uprawnionym do poboru należności wynikających z grzywien nałożonych w drodze mandatu
       karnego, stanowiących dochód budżetu państwa, <u>jest właściwy prokurator generalny, z
       zastrzeżeniem § 2.</u></br>
@@ -4611,17 +4597,3825 @@ export const allAnswer = [
       autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659), a w
       przypadku gdy nałoży ją funkcjonariusz organu podległego władzom jednostki samorządu
       terytorialnego - stanowi dochód tej jednostki samorządu. `,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-27-a-answer9',
-      buttonIdB: 'title-27-b-answer9',
-      buttonIdC: 'title-27-c-answer9',
-      buttonIdD: 'title-27-d-answer9',
-      correctAnswer: 'title-27-a-answer9',
-      category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
-  },
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-27-a-answer9',
+        buttonIdB: 'title-27-b-answer9',
+        buttonIdC: 'title-27-c-answer9',
+        buttonIdD: 'title-27-d-answer9',
+        correctAnswer: 'title-27-a-answer9',
+        category: 'USTAWA KODEKS POSTĘPOWANIA W SPRAWACH O WYKROCZENIA',
+    },
 
-  
+    {
+        id: 0,
+        title: `1. Postępowanie policjanta w kontaktach z ludźmi, w myśl zasad etyki zawodowej policjanta,
+          powinna cechować `,
+        a: `</br>§ 6</br>
+          Postępowanie policjanta w kontaktach z ludźmi nie powinna cechować życzliwość oraz bezstronność
+          wykluczająca uprzedzenia rasowe, narodowościowe, polityczne, światopoglądowe
+          lub wynikające z innych przyczyn.`,
+        b: `</br>§ 6</br>
+          Postępowanie policjanta w kontaktach z ludźmi powinna cechować życzliwość oraz bezstronność
+          wykluczająca uprzedzenia rasowe, narodowościowe, wyznaniowe, polityczne, światopoglądowe
+          lub wynikające z innych przyczyn.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-0-a-answer12',
+        buttonIdB: 'title-0-b-answer12',
+        buttonIdC: 'title-0-c-answer12',
+        buttonIdD: 'title-0-d-answer12',
+        correctAnswer: 'title-0-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
 
+    {
+        id: 1,
+        title: `2. W stosunku do ofiar przestępstwa lub innego zdarzenia, w trakcie wykonywania czynności
+          służbowych, policjant, według wskazań etyki zawodowej, powinien zachować `,
+        a: `</br>§ 9</br>
+          W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną wrażliwość i
+          takt w stosunku do ofiar przestępstwa lub innego zdarzenia, nie udzielać im możliwie wszechstronnej
+          pomocy, a także nie dbać o zachowanie dyskrecji. `,
+        b: `</br>§ 9</br>
+          W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną wrażliwość i
+          takt w stosunku do ofiar przestępstwa lub innego zdarzenia, udzielać im możliwie wszechstronnej
+          pomocy, a także dbać o zachowanie dyskrecji. `,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-1-a-answer12',
+        buttonIdB: 'title-1-b-answer12',
+        buttonIdC: 'title-1-c-answer12',
+        buttonIdD: 'title-1-d-answer12',
+        correctAnswer: 'title-1-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
 
+    {
+        id: 2,
+        title: `3. Wykonując zadania służbowe policjant powinien dostosowywać swoje zachowanie w
+          szczególności do `,
+        a: `</br>§ 8</br>
+          Wykonując zadania służbowe policjant powinien dostosowywać swoje zachowanie do sytuacji i
+          cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+          także uwzględniać uzasadnione potrzeby tych osób. `,
+        b: `</br>§ 8</br>
+          Wykonując zadania służbowe policjant powinien dostosowywać swoje zachowanie do sytuacji i
+          cech osób uczestniczących w zdarzeniu, w szczególności wieku, narodowości i wyznania, a
+          także uwzględniać uzasadnione potrzeby tych osób. `,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-2-a-answer12',
+        buttonIdB: 'title-2-b-answer12',
+        buttonIdC: 'title-2-c-answer12',
+        buttonIdD: 'title-2-d-answer12',
+        correctAnswer: 'title-2-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 3,
+        title: `4. Przestrzeganie zasad etyki zawodowej policjanta jest dla funkcjonariusza tej formacji 
+          `,
+        a: `</br>§ 1.</br>
+          1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+          uwzględniających specyfikę zawodu policjanta.</br>
+          2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.`,
+        b: `</br>§ 1.</br>
+          1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+          uwzględniających specyfikę zawodu policjanta.</br>
+          2. Obowiązkiem policjanta jest przestrzeganie zasad etyki służbowej.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-3-a-answer12',
+        buttonIdB: 'title-3-b-answer12',
+        buttonIdC: 'title-3-c-answer12',
+        buttonIdD: 'title-3-d-answer12',
+        correctAnswer: 'title-3-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 4,
+        title: `5. Które ze zdań, dotyczących etyki zawodowej w Policji, jest prawdziwe? `,
+        a: `</br>§ 1.</br>
+          1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+          uwzględniających specyfikę zawodu policjanta.</br>
+          2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.</br>
+          § 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+          zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+          aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+          zaufania do Policji.</br>
+          § 3. Policjant powinien wykonywać czynności służbowe według woli i wiedzy, z należytą
+          uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.</br>
+          § 4. Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej
+          oraz przestrzegania i ochrony życia człowieka, w szczególności wyrażający się w:</br>
+          1) respektowaniu prawa każdego człowieka do życia;</br>
+          2) zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+          traktowania albo karania.</br>
+          […]</br>
+          § 24. Policjant nie powinien akceptować, tolerować ani lekceważyć zachowań policjantów
+          naruszających prawo lub zasady etyki zawodowej.
+          `,
+        b: `</br>§ 1.</br>
+          1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+          uwzględniających specyfikę zawodu policjanta.</br>
+          2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.</br>
+          § 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+          zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+          aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+          zaufania do Policji.</br>
+          § 3. Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+          uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.</br>
+          § 4. Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej
+          oraz przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:</br>
+          1) respektowaniu prawa każdego człowieka do życia;</br>
+          2) zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+          traktowania albo karania.</br>
+          […]</br>
+          § 24. Policjant nie powinien akceptować, tolerować ani lekceważyć zachowań policjantów
+          naruszających prawo lub zasady etyki zawodowej.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-4-a-answer12',
+        buttonIdB: 'title-4-b-answer12',
+        buttonIdC: 'title-4-c-answer12',
+        buttonIdD: 'title-4-d-answer12',
+        correctAnswer: 'title-4-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 5,
+        title: `6. Które ze zdań, dotyczących etyki zawodowej w Policji, jest fałszywe? (tutaj chyba będą różne zdania i zaznaczyć trzeba będzie nie poprawną odpowiedź. W teście właściwym, dlatego dałam jedną odpowiedź)`,
+        a: `</br>§ 1.</br>
+          1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+          uwzględniających specyfikę zawodu policjanta.</br>
+          2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.</br>
+          § 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+          zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+          aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+          zaufania do Policji.</br>
+          § 3. Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+          uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.</br>
+          § 4. Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej
+          oraz przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:</br>
+          1) respektowaniu prawa każdego człowieka do życia;</br>
+          2) zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+          traktowania albo karania.</br>
+          […]</br>
+          § 24. Policjant nie powinien akceptować, tolerować ani lekceważyć zachowań policjantów
+          naruszających prawo lub zasady etyki zawodowej.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-5-a-answer12',
+        buttonIdB: 'title-5-b-answer12',
+        buttonIdC: 'title-5-c-answer12',
+        buttonIdD: 'title-5-d-answer12',
+        correctAnswer: 'title-5-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 6,
+        title: `7. Policjant powinien wystrzegać się
+          `,
+        a: `</br>§ 11</br>
+          Policjant jako funkcjonariusz powinien wystrzegać się korupcji w każdej postaci oraz
+          zwalczać wszelkie jej przejawy`,
+        b: `</br>§ 11</br>
+          Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+          zwalczać wszelkie jej przejawy`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-6-a-answer12',
+        buttonIdB: 'title-6-b-answer12',
+        buttonIdC: 'title-6-c-answer12',
+        buttonIdD: 'title-6-d-answer12',
+        correctAnswer: 'title-6-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 7,
+        title: `8. W jakim akcie prawnym zapisane są „Zasady etyki zawodowej policjanta”?`,
+        a: `Na podstawie art. 7 ust. 1 pkt 7 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz.
+                58 z późn. zm.) zarządza się, co następuje:</br>
+                § 1. Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+                służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+                obowiązków i praw policjanta wynikających z demokratycznie stanowionego prawa, wprowadza się
+                "Zasady etyki zawodowej policjanta" stanowiące załącznik do zarządzenia.</br>
+                § 2. Zarządzenie wchodzi w życie z dniem 1 stycznia 2004 r.`,
+        b: `Na podstawie art. 7 ust. 1 pkt 7 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz.
+          58 z późn. zm.) zarządza się, co następuje:</br>
+          § 1. Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+          służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+          obowiązków i praw policjanta wynikających z prawa, wprowadza się
+          "Zasady etyki zawodowej" stanowiące załącznik do zarządzenia.</br>
+          § 2. Zarządzenie wchodzi w życie z dniem 1 stycznia 2004 r.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-7-a-answer12',
+        buttonIdB: 'title-7-b-answer12',
+        buttonIdC: 'title-7-c-answer12',
+        buttonIdD: 'title-7-d-answer12',
+        correctAnswer: 'title-7-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 8,
+        title: `9. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. w sprawie zasad etyki zawodowej policjanta policjant powinien
+      wykonywać czynności służbowe według najlepszej woli i wiedzy`,
+        a: `</br>§ 3</br>
+      Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-8-a-answer12',
+        buttonIdB: 'title-8-b-answer12',
+        buttonIdC: 'title-8-c-answer12',
+        buttonIdD: 'title-8-d-answer12',
+        correctAnswer: 'title-8-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 9,
+        title: `10. Przełożony oceniając podległych policjantów jest zobowiązany kierować się`,
+        a: `</br>§ 19</br>
+      Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+      znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.`,
+        b: `</br>§ 19</br>
+      Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+      znanymi im kryteriami oraz sprawiedliwością i obiektywizmem oraz własnym sumieniem.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-9-a-answer12',
+        buttonIdB: 'title-9-b-answer12',
+        buttonIdC: 'title-9-c-answer12',
+        buttonIdD: 'title-9-d-answer12',
+        correctAnswer: 'title-9-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 10,
+        title: `11. Jakim aktem prawnym zostały wprowadzone zasady etyczne w Policji?`,
+        a: `"Zasady etyki zawodowej" stanowiące załącznik do Zarządzenia nr 805 Komendanta
+      Głównego Policji`,
+        b: `"Zasady etyki zawodowej strażaka" stanowiące załącznik do Zarządzenia nr 805 Komendanta
+      Głównego Policji`,
+        c: `"Zasady etyki zawodowej policjanta" stanowiące załącznik do Zarządzenia nr 805 Komendanta
+      Głównego Policji`,
+        d: `"Zasady etyki zawodowej policjanta" stanowiące załącznik do Zarządzenia nr 805 Komendanta
+      Powiatowego Policji`,
+        buttonIdA: 'title-10-a-answer12',
+        buttonIdB: 'title-10-b-answer12',
+        buttonIdC: 'title-10-c-answer12',
+        buttonIdD: 'title-10-d-answer12',
+        correctAnswer: 'title-10-c-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 11,
+        title: `12. Dyskrecja zawodowa w kontekście etyki zawodowej policjanta oznacza`,
+        a: `</br>§ 13.</br>
+      Policjant powinien zachować dyskrecję w odniesieniu do informacji mogących zaszkodzić
+      społecznie pojętemu dobru służby lub dobremu imieniu osób uczestniczących w czynnościach
+      podejmowanych przez policjanta.`,
+        b: `</br>§ 13.</br>
+      Policjant powinien zachować dyskrecję w odniesieniu do informacji mogących zaszkodzić
+      społecznie pojętemu dobru służby lub dobremu imieniu osób uczestniczących w czynnościach
+      podejmowanych przez strażaka.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-11-a-answer12',
+        buttonIdB: 'title-11-b-answer12',
+        buttonIdC: 'title-11-c-answer12',
+        buttonIdD: 'title-11-d-answer12',
+        correctAnswer: 'title-11-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+    {
+        id: 12,
+        title: `13. Przełożony oceniając podległych policjantów powinien `,
+        a: `</br>§ 19</br>
+      Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+      znanymi im kryteriami oraz sprawiedliwością i obiektywizmem oraz własnym sumieniem.`,
+        b: `</br>§ 19</br>
+      Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+      znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-12-a-answer12',
+        buttonIdB: 'title-12-b-answer12',
+        buttonIdC: 'title-12-c-answer12',
+        buttonIdD: 'title-12-d-answer12',
+        correctAnswer: 'title-12-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 13,
+        title: `14. Policjant powinien wykonywać czynności służbowe według `,
+        a: `</br>§ 3</br>
+      Policjant powinien wykonywać czynności służbowe według swojej woli i wiedzy, z
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością i odwagą.`,
+        b: `</br>§ 3</br>
+      Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-13-a-answer12',
+        buttonIdB: 'title-13-b-answer12',
+        buttonIdC: 'title-13-c-answer12',
+        buttonIdD: 'title-13-d-answer12',
+        correctAnswer: 'title-13-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 14,
+        title: `15. Policjanci powiadomili mężczyznę o śmierci jego matki, która zginęła w wyniku wypadku
+      drogowego. W trakcie rozmowy jeden z funkcjonariuszy wyjął telefon i zaczął rozmawiać z
+      żoną o wyjeździe w góry. Zachowanie policjanta było 
+      `,
+        a: `</br>§ 10.</br>
+      Zawiadamiając osobę o zamachu na jej dobra lub przekazując najbliższej rodzinie wiadomość
+      dotyczącą osoby bliskiej, która stała się ofiarą przestępstwa lub innego zdarzenia, policjant
+      powinien zachować takt.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-14-a-answer12',
+        buttonIdB: 'title-14-b-answer12',
+        buttonIdC: 'title-14-c-answer12',
+        buttonIdD: 'title-14-d-answer12',
+        correctAnswer: 'title-14-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 15,
+        title: `16. Policjant podczas wykonywania zadań służbowych NIE powinien dostosować swojego
+      zachowania do`,
+        a: `</br>§ 8.</br>
+      Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+      cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci i narodowości, a
+      także uwzględniać uzasadnione potrzeby tych osób.`,
+        b: `</br>§ 8.</br>
+      Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+      cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+      także uwzględniać uzasadnione potrzeby tych osób.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-15-a-answer12',
+        buttonIdB: 'title-15-b-answer12',
+        buttonIdC: 'title-15-c-answer12',
+        buttonIdD: 'title-15-d-answer12',
+        correctAnswer: 'title-15-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 16,
+        title: `17. Policjant w realizacji zadań służbowych powinien udzielać pomocy innym policjantom `,
+        a: `</br>§ 15</br>
+      Policjant powinien w miarę możliwości udzielać pomocy innym policjantom w realizacji zadań
+      służbowych ale nie ma obowiązku wspierać w rozwiązywaniu ich problemów osobistych. `,
+        b: `</br>§ 15</br>
+      Policjant powinien w miarę możliwości udzielać pomocy innym policjantom w realizacji zadań
+      służbowych oraz wspierać w rozwiązywaniu ich problemów osobistych. `,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-16-a-answer12',
+        buttonIdB: 'title-16-b-answer12',
+        buttonIdC: 'title-16-c-answer12',
+        buttonIdD: 'title-16-d-answer12',
+        correctAnswer: 'title-16-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 17,
+        title: `18. Przełożony w stosunku do podwładnych policjantów`,
+        a: `<u>§ 16. Przełożony powinien dawać podwładnym przykład nienagannego zachowania, w
+      szczególności nie powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia
+      podległego policjanta.</br></u>
+      § 17. Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań
+      i rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.</br>
+      § 18. Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+      polecenia oraz inspirować i motywować ich do działania.</br>
+      § 19. Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno
+      określonymi i znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.</br>
+      § 20. Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz
+      udzielić mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
+        b: `<u>§ 16. Komendant powinien dawać podwładnym przykład nienagannego zachowania, w
+      szczególności nie powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia
+      podległego policjanta.</br></u>
+      § 17. Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań
+      i rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.</br>
+      § 18. Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+      polecenia oraz inspirować i motywować ich do działania.</br>
+      § 19. Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno
+      określonymi i znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.</br>
+      § 20. Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz
+      udzielić mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-17-a-answer12',
+        buttonIdB: 'title-17-b-answer12',
+        buttonIdC: 'title-17-c-answer12',
+        buttonIdD: 'title-17-d-answer12',
+        correctAnswer: 'title-17-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 18,
+        title: `19. Szczególną rozwagą powinien kierować się policjant podejmując decyzję o użyciu `,
+        a: `</br>§ 5</br>
+    Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+    pośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+    środków.`,
+        b: `</br>§ 5</br>
+    Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+    bezpośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+    środków.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-18-a-answer12',
+        buttonIdB: 'title-18-b-answer12',
+        buttonIdC: 'title-18-c-answer12',
+        buttonIdD: 'title-18-d-answer12',
+        correctAnswer: 'title-18-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 19,
+        title: `20. Policjant powinien wykonywać czynności służbowe wykazując się `,
+        a: `</br>§ 3</br>
+    Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+    uczciwością, rzetelnością, wykazując się odpowiedzialnością i odwagą.`,
+        b: `</br>§ 3</br>
+    Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+    uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-19-a-answer12',
+        buttonIdB: 'title-19-b-answer12',
+        buttonIdC: 'title-19-c-answer12',
+        buttonIdD: 'title-19-d-answer12',
+        correctAnswer: 'title-19-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 20,
+        title: `21. Znajomy policjanta poprosił go o sprawdzenie czy samochód, który chce zakupić nie jest
+    kradziony. Funkcjonariusz sprawdził w policyjnej bazie wszystkie informacje o pojeździe
+    oraz jego właścicielu i przekazał je koledze. Policjant postąpił `,
+        a: `</br>§ 12.</br>
+    Policjant nie może wykorzystywać swojego zawodu do celów prywatnych, a w szczególności nie
+    może wykorzystywać informacji uzyskanych w związku z wykonywaniem obowiązków służbowych
+    ani uzyskiwać informacji do tych celów przy użyciu służbowych metod.`,
+        b: `</br>§ 12.</br>
+    Policjant może wykorzystywać swojego zawodu do celów prywatnych, a w szczególności
+    może wykorzystywać informacji uzyskanych w związku z wykonywaniem obowiązków służbowych
+    i uzyskiwać informacje do tych celów przy użyciu służbowych metod.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-20-a-answer12',
+        buttonIdB: 'title-20-b-answer12',
+        buttonIdC: 'title-20-c-answer12',
+        buttonIdD: 'title-20-d-answer12',
+        correctAnswer: 'title-20-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 21,
+        title: `22. Jeżeli policjant znajdzie się w sytuacji służbowej nieuregulowanej przepisami prawa lub
+    nieujętej w zasadach etyki zawodowej powinien `,
+        a: `</br>§ 2</br>
+    W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+    zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+    aby jego działania nie mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+    zaufania do Policji.`,
+        b: `</br>§ 2</br>
+    W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+    zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+    aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+    zaufania do Policji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-21-a-answer12',
+        buttonIdB: 'title-21-b-answer12',
+        buttonIdC: 'title-21-c-answer12',
+        buttonIdD: 'title-21-d-answer12',
+        correctAnswer: 'title-21-b-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 22,
+        title: `23. Zgodnie z zasadami etyki zawodowej, przełożony w stosunku do podwładnego powinien`,
+        a: `<u>§ 16. Przełożony powinien dawać podwładnym przykład nienagannego zachowania, w
+    szczególności nie powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia
+    podległego policjanta.</br></u>
+    § 17. Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań
+    i rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.</br>
+    § 18. Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+    polecenia oraz inspirować i motywować ich do działania.</br>
+    § 19. Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno
+    określonymi i znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.</br>
+    § 20. Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz
+    udzielić mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-22-a-answer12',
+        buttonIdB: 'title-22-b-answer12',
+        buttonIdC: 'title-22-c-answer12',
+        buttonIdD: 'title-22-d-answer12',
+        correctAnswer: 'title-22-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 23,
+        title: `24. W stosunku do ofiar przestępstw lub innego zdarzenia, policjant powinien`,
+        a: `</br>§ 9</br>
+    W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną wrażliwość i
+    takt w stosunku do ofiar przestępstwa lub innego zdarzenia, udzielać im możliwie wszechstronnej
+    pomocy, a także dbać o zachowanie dyskrecji. `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-23-a-answer12',
+        buttonIdB: 'title-23-b-answer12',
+        buttonIdC: 'title-23-c-answer12',
+        buttonIdD: 'title-23-d-answer12',
+        correctAnswer: 'title-23-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 24,
+        title: `25. Zgodnie z zasadami etyki zawodowej, policjant powinien`,
+        a: `§ 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+    zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+    aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+    zaufania do Policji.</br>
+    § 3. Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+    uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.</br>
+    § 7. Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o
+    schludny wygląd.</br>
+    § 8. Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji
+    i cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+    także uwzględniać uzasadnione potrzeby tych osób.</br>
+    § 9. W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną
+    wrażliwość i takt w stosunku do ofiar przestępstwa lub innego zdarzenia, udzielać im możliwie
+    wszechstronnej pomocy, a także dbać o zachowanie dyskrecji.</br>
+    § 10. Zawiadamiając osobę o zamachu na jej dobra lub przekazując najbliższej rodzinie wiadomość
+    dotyczącą osoby bliskiej, która stała się ofiarą przestępstwa lub innego zdarzenia, policjant
+    powinien zachować takt.</br>
+    § 11. Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci
+    oraz zwalczać wszelkie jej przejawy.</br>
+    § 13. Policjant powinien zachować dyskrecję w odniesieniu do informacji mogących zaszkodzić
+    społecznie pojętemu dobru służby lub dobremu imieniu osób uczestniczących w czynnościach
+    podejmowanych przez policjanta.</br>
+    § 15. Policjant powinien w miarę możliwości udzielać pomocy innym policjantom w realizacji
+    zadań służbowych oraz wspierać w rozwiązywaniu ich problemów osobistych.</br>
+    § 21. Policjant powinien rzetelnie wykonywać polecenia przełożonego oraz odnosić się do niego z
+    szacunkiem.</br>
+    § 22. Policjant powinien stale doskonalić i uzupełniać swoją wiedzę oraz umiejętności zawodowe,
+    a także dbać o sprawność fizyczną.</br>
+    § 23. Policjant powinien dbać o społeczny wizerunek Policji jako formacji, w której służy i
+    podejmować działania służące budowaniu zaufania do niej.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-24-a-answer12',
+        buttonIdB: 'title-24-b-answer12',
+        buttonIdC: 'title-24-c-answer12',
+        buttonIdD: 'title-24-d-answer12',
+        correctAnswer: 'title-24-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 25,
+        title: `26. Policjant we wszystkich swoich działaniach ma obowiązek`,
+        a: `</br>§ 4</br>
+    Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej oraz
+    przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:</br>
+    1. respektowaniu prawa każdego człowieka do życia;</br>
+    2. zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+    traktowania albo karania`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-25-a-answer12',
+        buttonIdB: 'title-25-b-answer12',
+        buttonIdC: 'title-25-c-answer12',
+        buttonIdD: 'title-25-d-answer12',
+        correctAnswer: 'title-25-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 26,
+        title: `27. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+    w sprawie ,,Zasad etyki zawodowej policjanta” stosunek policjanta do innych policjantów
+    powinien być oparty na `,
+        a: `</br>§ 14</br>
+    Stosunek policjanta do innych policjantów powinien być oparty na przestrzeganiu zasad
+    poprawnego zachowania, poszanowania godności, a także tolerancji w zakresie nie naruszającym
+    porządku prawnego.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-26-a-answer12',
+        buttonIdB: 'title-26-b-answer12',
+        buttonIdC: 'title-26-c-answer12',
+        buttonIdD: 'title-26-d-answer12',
+        correctAnswer: 'title-26-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 27,
+        title: `28. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+    w sprawie ,,Zasad etyki zawodowej policjanta” w sytuacjach nieuregulowanych
+    przepisami prawa lub nieujętych w zasadach etyki zawodowej policjant powinien
+    kierować się`,
+        a: `</br>§ 2</br>
+    W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+    zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+    aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+    zaufania do Policji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-27-a-answer12',
+        buttonIdB: 'title-27-b-answer12',
+        buttonIdC: 'title-27-c-answer12',
+        buttonIdD: 'title-27-d-answer12',
+        correctAnswer: 'title-27-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 28,
+        title: `29. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+    w sprawie ,,Zasad etyki zawodowej policjanta” postępowanie policjanta w kontaktach z
+    ludźmi powinna cechować`,
+        a: `</br>§ 6</br>
+    Postępowanie policjanta w kontaktach z ludźmi powinna cechować życzliwość oraz bezstronność
+    wykluczająca uprzedzenia rasowe, narodowościowe, wyznaniowe, polityczne, światopoglądowe
+    lub wynikające z innych przyczyn.
+    `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-28-a-answer12',
+        buttonIdB: 'title-28-b-answer12',
+        buttonIdC: 'title-28-c-answer12',
+        buttonIdD: 'title-28-d-answer12',
+        correctAnswer: 'title-28-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 29,
+        title: `30. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+    w sprawie ,,Zasad etyki zawodowej policjanta” wykonując zadania służbowe, policjant
+    powinien dostosowywać swoje zachowanie do sytuacji i cech osób uczestniczących w
+    zdarzeniu`,
+        a: `</br>§ 8</br>
+    Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+    cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+    także uwzględniać uzasadnione potrzeby tych osób.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-29-a-answer12',
+        buttonIdB: 'title-29-b-answer12',
+        buttonIdC: 'title-29-c-answer12',
+        buttonIdD: 'title-29-d-answer12',
+        correctAnswer: 'title-29-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 30,
+        title: `31. „Zasady etyki zawodowej policjanta” są uregulowane na podstawie`,
+        a: `Zarządzenia nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 r. w sprawie „Zasad etyki
+    zawodowej policjanta”`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-30-a-answer12',
+        buttonIdB: 'title-30-b-answer12',
+        buttonIdC: 'title-30-c-answer12',
+        buttonIdD: 'title-30-d-answer12',
+        correctAnswer: 'title-30-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 31,
+        title: `32. Zasady etyki zawodowej policjanta zawarte w zarządzeniu nr 805 Komendanta Głównego
+    Policji wynikają z `,
+        a: `</br>§ 1</br>
+    1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+    uwzględniających specyfikę zawodu policjanta.</br>
+    2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-31-a-answer12',
+        buttonIdB: 'title-31-b-answer12',
+        buttonIdC: 'title-31-c-answer12',
+        buttonIdD: 'title-31-d-answer12',
+        correctAnswer: 'title-31-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 32,
+        title: `33. Policjant będący w trakcie rozwodu poprosił przełożonego o zachowanie dyskrecji w
+    przedmiotowej sprawie. Zgodnie z obowiązującymi przepisami przełożony`,
+        a: `</br>§ 16</br>
+    Przełożony powinien dawać podwładnym przykład nienagannego zachowania, w szczególności nie
+    powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia podległego
+    policjanta.</br>
+    § 20</br>
+    Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz udzielić
+    mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-32-a-answer12',
+        buttonIdB: 'title-32-b-answer12',
+        buttonIdC: 'title-32-c-answer12',
+        buttonIdD: 'title-32-d-answer12',
+        correctAnswer: 'title-32-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 33,
+        title: `34. Do wystrzegania się jakiego przestępstwa literalnie, wprost zobowiązują policjantów
+    zasady etyki zawodowej?`,
+        a: `</br>§ 11.</br>
+    Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+    zwalczać wszelkie jej przejawy.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-33-a-answer12',
+        buttonIdB: 'title-33-b-answer12',
+        buttonIdC: 'title-33-c-answer12',
+        buttonIdD: 'title-33-d-answer12',
+        correctAnswer: 'title-33-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 34,
+        title: `35. Policjant, jako funkcjonariusz publiczny, powinien`,
+        a: `</br>§ 11.</br>
+    Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+    zwalczać wszelkie jej przejawy.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-34-a-answer12',
+        buttonIdB: 'title-34-b-answer12',
+        buttonIdC: 'title-34-c-answer12',
+        buttonIdD: 'title-34-d-answer12',
+        correctAnswer: 'title-34-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 35,
+        title: `36. Podstawową wartość chronioną zasadami etyki zawodowej Policji stanowi`,
+        a: `</br>§ 4</br>
+    Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej oraz
+    przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:
+    1) respektowaniu prawa każdego człowieka do życia;
+    2) zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+    traktowania albo karania.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-35-a-answer12',
+        buttonIdB: 'title-35-b-answer12',
+        buttonIdC: 'title-35-c-answer12',
+        buttonIdD: 'title-35-d-answer12',
+        correctAnswer: 'title-35-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 36,
+        title: `37. Fundamentalną zasadą etyki zawodowej policjanta poświęconą problematyce korupcji
+    jest zasada`,
+        a: `</br>§ 11</br>
+    Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+    zwalczać wszelkie jej przejawy.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-36-a-answer12',
+        buttonIdB: 'title-36-b-answer12',
+        buttonIdC: 'title-36-c-answer12',
+        buttonIdD: 'title-36-d-answer12',
+        correctAnswer: 'title-36-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 37,
+        title: `38. Etyka zawodowa to`,
+        a: `</br>§ 1</br>
+    Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+    służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+    obowiązków i praw policjanta wynikających z demokratycznie stanowionego prawa, wprowadza się
+    "Zasady etyki zawodowej policjanta" stanowiące załącznik do zarządzenia.
+    Załącznik:</br>
+    § 1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+    uwzględniających specyfikę zawodu policjanta.</br>
+    2.Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.</br>
+    § 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+    zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+    aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+    zaufania do Policji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-37-a-answer12',
+        buttonIdB: 'title-37-b-answer12',
+        buttonIdC: 'title-37-c-answer12',
+        buttonIdD: 'title-37-d-answer12',
+        correctAnswer: 'title-37-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 38,
+        title: `39. Załącznik do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 r.
+    zawiera zasady `,
+        a: `§ 1. Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+    służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+    obowiązków i praw policjanta wynikających z demokratycznie stanowionego prawa, wprowadza się
+    "Zasady etyki zawodowej policjanta" stanowiące załącznik do zarządzenia.
+    `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-38-a-answer12',
+        buttonIdB: 'title-38-b-answer12',
+        buttonIdC: 'title-38-c-answer12',
+        buttonIdD: 'title-38-d-answer12',
+        correctAnswer: 'title-38-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 39,
+        title: `40. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+    grudnia 2003 r. policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu
+    środków przymusu bezpośredniego, powinien zachować `,
+        a: `</br>§ 5</br>
+    Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+    bezpośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+    środków.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-39-a-answer12',
+        buttonIdB: 'title-39-b-answer12',
+        buttonIdC: 'title-39-c-answer12',
+        buttonIdD: 'title-39-d-answer12',
+        correctAnswer: 'title-39-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 40,
+        title: `41. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+    grudnia 2003 r. policjant powinien przestrzegać zasad `,
+        a: `</br>§ 7.</br>
+    Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o schludny
+    wygląd.`,
+        b: `</br>§ 7.</br>
+    Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o schludny
+    wygląd(chuchro XD).`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-40-a-answer12',
+        buttonIdB: 'title-40-b-answer12',
+        buttonIdC: 'title-40-c-answer12',
+        buttonIdD: 'title-40-d-answer12',
+        correctAnswer: 'title-40-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 41,
+        title: `42. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+    w sprawie ,,Zasad etyki zawodowej policjanta” wykonując zadania służbowe, policjant
+    powinien dostosowywać swoje zachowanie do sytuacji i cech osób uczestniczących w
+    zdarzeniu, w szczególności`,
+        a: `</br>§ 8</br>
+    Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+    cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+    także uwzględniać uzasadnione potrzeby tych osób.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-41-a-answer12',
+        buttonIdB: 'title-41-b-answer12',
+        buttonIdC: 'title-41-c-answer12',
+        buttonIdD: 'title-41-d-answer12',
+        correctAnswer: 'title-41-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 42,
+        title: `43. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+    grudnia 2003 r. przełożony powinien zapewnić podległym policjantom właściwe warunki
+    wykonywania zadań i rozwoju zawodowego oraz dbać o `,
+        a: `</br>§ 17.</br>
+    Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań i
+    rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-42-a-answer12',
+        buttonIdB: 'title-42-b-answer12',
+        buttonIdC: 'title-42-c-answer12',
+        buttonIdD: 'title-42-d-answer12',
+        correctAnswer: 'title-42-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 43,
+        title: `44. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+    grudnia 2003 r. przełożony kierując działaniami podległych policjantów powinien`,
+        a: `</br>§ 18.</br>
+    Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+    polecenia oraz inspirować i motywować ich do działania.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-43-a-answer12',
+        buttonIdB: 'title-43-b-answer12',
+        buttonIdC: 'title-43-c-answer12',
+        buttonIdD: 'title-43-d-answer12',
+        correctAnswer: 'title-43-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 44,
+        title: `45. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+    grudnia 2003 r. przełożony oceniając podległych policjantów, jest zobowiązany kierować
+    się `,
+        a: `</br>§ 19.</br>
+    Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+    znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-44-a-answer12',
+        buttonIdB: 'title-44-b-answer12',
+        buttonIdC: 'title-44-c-answer12',
+        buttonIdD: 'title-44-d-answer12',
+        correctAnswer: 'title-44-a-answer12',
+        category:
+            'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+    },
+
+    {
+        id: 0,
+        title: `1. Stopnie w korpusie podoficerów Policji to:`,
+        a: `Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      1) w korpusie generałów Policji:</br>
+      a) generalny inspektor Policji,</br>
+      b) nadinspektor Policji;</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;</br>
+      4) w korpusie aspirantów Policji:</br>
+      a) starszy aspirant Policji,</br>
+      b) aspirant sztabowy Policji,</br>
+      c) aspirant Policji,</br>
+      d) młodszy aspirant Policji;</br>
+       5) w korpusie podoficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) sierżant Policji;</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) posterunkowy `,
+        b: `Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      1) w korpusie generałów Policji:</br>
+      a) generalny inspektor Policji,</br>
+      b) nadinspektor Policji;</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;</br>
+      4) w korpusie aspirantów Policji:</br>
+      a) aspirant sztabowy Policji,</br>
+      b) starszy aspirant Policji,</br>
+      c) aspirant Policji,</br>
+      d) młodszy aspirant Policji;</br>
+       5) w korpusie podoficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) sierżant Policji;</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) posterunkowy `,
+        c: `Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      1) w korpusie generałów Policji:</br>
+      a) generalny inspektor Policji,</br>
+      b) nadinspektor Policji;</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;</br>
+      4) w korpusie aspirantów Policji:</br>
+      a) aspirant sztabowy Policji,</br>
+      b) starszy aspirant Policji,</br>
+      c) aspirant Policji,</br>
+      d) młodszy aspirant Policji;</br>
+       5) w korpusie podoficerów Policji:</br>
+      a) starszy sierżant Policji,</br>
+      b) sierżant sztabowy Policji,</br>
+      c) sierżant Policji;</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) posterunkowy `,
+        d: `Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      1) w korpusie generałów Policji:</br>
+      a) generalny inspektor Policji,</br>
+      b) nadinspektor Policji;</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;</br>
+      4) w korpusie aspirantów Policji:</br>
+      a) aspirant sztabowy Policji,</br>
+      b) starszy aspirant Policji,</br>
+      c) aspirant Policji,</br>
+      d) młodszy aspirant Policji;</br>
+       5) w korpusie podoficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) sierżant Policji;</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) podposterunkowy chuchro XD `,
+        buttonIdA: 'title-0-a-answer4',
+        buttonIdB: 'title-0-b-answer4',
+        buttonIdC: 'title-0-c-answer4',
+        buttonIdD: 'title-0-d-answer4',
+        correctAnswer: 'title-0-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 1,
+        title: `2. Zgodnie z ustawą o Policji rozróżniamy następujące korpusy: `,
+        d: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+     1) w korpusie generałów Policji: </br>
+    a) generalny inspektor Policji,</br>
+    b) nadinspektor Policji;</br>
+     2) w korpusie oficerów starszych Policji: </br>
+    a) inspektor Policji,</br>
+    b) młodszy inspektor Policji,</br>
+    c) podinspektor Policji;</br>
+     3) w korpusie oficerów młodszych Policji: </br>
+    a) nadkomisarz Policji,</br>
+    b) komisarz Policji,</br>
+    c) podkomisarz Policji;</br>
+     4) w korpusie aspirantów Policji: </br>
+    a) aspirant sztabowy Policji,</br>
+    b) starszy aspirant Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;</br>
+     5) w korpusie podoficerów Policji: </br>
+    a) sierżant sztabowy Policji,</br>
+    b) starszy sierżant Policji,</br>
+    c) sierżant Policji;</br>
+     6) w korpusie szeregowych Policji: </br>
+    a) starszy posterunkowy,</br>
+    b) posterunkowy.`,
+        a: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    1) w korpusie generałów Policji:</br>
+    a) generalny inspektor Policji,</br>
+    b) nadinspektor Policji;</br>
+    2) w korpusie oficerów starszych Policji:</br>
+    a) inspektor Policji,</br>
+    b) młodszy inspektor Policji,</br>
+    c) podinspektor Policji;</br>
+    3) w korpusie oficerów młodszych Policji:</br>
+    a) nadkomisarz Policji,</br>
+    b) komisarz Policji,</br>
+    c) podkomisarz Policji;</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) aspirant sztabowy Policji,</br>
+    b) starszy aspirant Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;</br>
+    5) w korpusie podoficerów Policji:</br>
+    a) starszy sierżant Policji,</br>
+    b) sierżant sztabowy Policji,</br>
+    c) sierżant Policji;</br>
+    6) w korpusie szeregowych Policji:</br>
+    a) starszy posterunkowy,</br>
+    b) posterunkowy.`,
+        b: `Art. 47
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    1) w korpusie generałów Policji:</br>
+    a) generalny inspektor Policji,</br>
+    b) nadinspektor Policji;</br>
+    2) w korpusie oficerów starszych Policji:</br>
+    a) inspektor Policji,</br>
+    b) młodszy inspektor Policji,</br>
+    c) podinspektor Policji;</br>
+    3) w korpusie oficerów młodszych Policji:</br>
+    a) nadkomisarz Policji,</br>
+    b) komisarz Policji,</br>
+    c) podkomisarz Policji;</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) starszy aspirant Policji,</br>
+    b) aspirant sztabowy Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;</br>
+    5) w korpusie podoficerów Policji:</br>
+    a) starszy sierżant Policji,</br>
+    b) sierżant sztabowy Policji,</br>
+    c) sierżant Policji;</br>
+    6) w korpusie szeregowych Policji:</br>
+    a) starszy posterunkowy,</br>
+    b) posterunkowy.`,
+        c: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    1) w korpusie generałów Policji:</br>
+    a) generalny inspektor Policji,</br>
+    b) nadinspektor Policji;</br>
+    2) w korpusie oficerów starszych Policji:</br>
+    a) inspektor Policji,</br>
+    b) młodszy inspektor Policji,</br>
+    c) podinspektor Policji;</br>
+    3) w korpusie oficerów młodszych Policji:</br>
+    a) nadkomisarz Policji,</br>
+    b) komisarz Policji,</br>
+    c) podkomisarz Policji;</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) starszy aspirant Policji,</br>
+    b) starszy aspirant Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;</br>
+    5) w korpusie podoficerów Policji:</br>
+    a) starszy sierżant Policji,</br>
+    b) sierżant sztabowy Policji,</br>
+    c) sierżant Policji;</br>
+    6) w korpusie szeregowych Policji:</br>
+    a) starszy posterunkowy,
+    b) posterunkowy.`,
+        buttonIdA: 'title-1-a-answer4',
+        buttonIdB: 'title-1-b-answer4',
+        buttonIdC: 'title-1-c-answer4',
+        buttonIdD: 'title-1-d-answer4',
+        correctAnswer: 'title-1-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 2,
+        title: `3. Jakie stopnie wyróżniamy w korpusie aspirantów Policji?`,
+        a: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    […]</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) aspirant sztabowy Policji,</br>
+    b) starszy aspirant Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;`,
+        b: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    […]</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) starszy aspirant Policji,</br>
+    b) aspirant sztabowy Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant Policji;`,
+        c: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    […]</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) aspirant sztabowy Policji,</br>
+    b) starszy aspirant Policji,</br>
+    c) aspirant Policji,</br>
+    d) młodszy aspirant sztabowy Policji;`,
+        d: `Art. 47</br>
+    1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+    […]</br>
+    4) w korpusie aspirantów Policji:</br>
+    a) aspirant sztabowy Policji,</br>
+    b) aspirant Policji,</br>
+    d) młodszy aspirant Policji;`,
+        buttonIdA: 'title-2-a',
+        buttonIdB: 'title-2-b',
+        buttonIdC: 'title-2-c',
+        buttonIdD: 'title-2-d',
+        correctAnswer: 'title-2-a',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 3,
+        title: `4. Policja składa się z następujących rodzajów służb: `,
+        a: `</br>Art. 4</br>
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej,
+    prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        b: `</br>Art. 4</br>
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+    prewencyjnej, antyterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        c: `</br>Art. 4</br>
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        d: `</br>Art. 4</br>
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+    prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        buttonIdA: 'title-3-a-answer4',
+        buttonIdB: 'title-3-b-answer4',
+        buttonIdC: 'title-3-c-answer4',
+        buttonIdD: 'title-3-d-answer4',
+        correctAnswer: 'title-3-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 4,
+        title: `5. Do podstawowych zadań ustawowych Policji NIE należy`,
+        a: `</br>Art. 1 </br>
+    Tworzy się Policję jako umundurowaną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.</br>
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1. <br/>
+     <u>2. Do podstawowych zadań Policji należą:  </br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+    o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+    przestępstw.</br>
+    11) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi`,
+        b: ``,
+        c: ``,
+        d: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.</br>
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+    <u>2. Do podstawowych zadań Policji należą:</br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+    o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+    przestępstw oraz o wynikach analizy kwasu deoksyrybonukleinowego (DNA).</br>
+    11) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi`,
+        buttonIdA: 'title-4-a-answer4',
+        buttonIdB: 'title-4-b-answer4',
+        buttonIdC: 'title-4-c-answer4',
+        buttonIdD: 'title-4-d-answer4',
+        correctAnswer: 'title-4-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 5,
+        title: `6. Policja składa się między innymi ze służby`,
+        a: `Art. 4
+    1. Policja składa się z następujących rodzajów służb: śledczej, spraw wewnętrznych,
+    prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        b: `Art. 4
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        c: `Art. 4
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+    prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        d: `Art. 4
+    1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+    prewencyjnej, antyterrorystycznej oraz wspomagającej działalność Policji w zakresie
+    organizacyjnym, logistycznym i technicznym.`,
+        buttonIdA: 'title-5-a-answer4',
+        buttonIdB: 'title-5-b-answer4',
+        buttonIdC: 'title-5-c-answer4',
+        buttonIdD: 'title-5-d-answer4',
+        correctAnswer: 'title-5-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 6,
+        title: `7. Komendanta Głównego Policji powołuje `,
+        a: `</br></br>Art. 5 </br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek
+    ministra właściwego do spraw wewnętrznych.</br>
+    4. Zastępców Komendanta Głównego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.`,
+        b: `Art. 5
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.
+    2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    "policajami".
+    3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek
+    ministra właściwego do spraw wewnętrznych.
+    4. Zastępców Komendanta Głównego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-6-a-answer4',
+        buttonIdB: 'title-6-b-answer4',
+        buttonIdC: 'title-6-c-answer4',
+        buttonIdD: 'title-6-d-answer4',
+        correctAnswer: 'title-6-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 7,
+        title: `8. Komendant Główny Policji jest przełożonym`,
+        a: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Powiatowy Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Powiatowy Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    <u>3. Komendanta Powiatowego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br></u>
+    4. Zastępców Komendanta Powiatowego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Powiatowego Policji.`,
+        b: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    <u>3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br></u>
+    4. Zastępców Komendanta Głównego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-7-a-answer4',
+        buttonIdB: 'title-7-b-answer4',
+        buttonIdC: 'title-7-c-answer4',
+        buttonIdD: 'title-7-d-answer4',
+        correctAnswer: 'title-7-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 8,
+        title: `9. Zastępców Komendanta Powiatowego Policji, w tym I zastępcę powołuje`,
+        a: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Powiatowy Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Powiatowy Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    3. Komendanta Powiatowego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br>
+    4. Zastępców Komendanta Powiatowego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Powiatowego Policji.`,
+        b: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br>
+    4. Zastępców Komendanta Głównego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-8-a-answer4',
+        buttonIdB: 'title-8-b-answer4',
+        buttonIdC: 'title-8-c-answer4',
+        buttonIdD: 'title-8-d-answer4',
+        correctAnswer: 'title-8-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 9,
+        title: `10. Komendant Główny Policji powoływany i odwoływany jest przez  
+    `,
+        a: `</br>Art. 5 </br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br>
+    4. Zastępców Komendanta Głównego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.`,
+        b: `</br>Art. 5 </br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Powiatowy Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.</br>
+    2. Komendant Powiatowy Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+    „policjantami”.</br>
+    3. Komendanta Powiatowego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+    właściwego do spraw wewnętrznych.</br>
+    4. Zastępców Komendanta Powiatowego Policji, w tym I Zastępcę, powołuje i odwołuje minister
+    właściwy do spraw wewnętrznych na wniosek Komendanta Powiatowego Policji.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-9-a-answer4',
+        buttonIdB: 'title-9-b-answer4',
+        buttonIdC: 'title-9-c-answer4',
+        buttonIdD: 'title-9-d-answer4',
+        correctAnswer: 'title-9-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 10,
+        title: `11. Policjant po 25 latach służby nabywa prawo do nagrody jubileuszowej w wysokości `,
+        a: `</br>Art. 111</br>
+    1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+    po 15 latach służby - 70%,</br>
+    po 20 latach służby - 75%,</br>
+    po 25 latach służby - 100%,</br>
+    po 30 latach służby - 150%,</br>
+    po 35 latach służby - 200%,</br>
+    po 40 latach służby - 300%</br>
+    miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        b: `</br>Art. 111</br>
+    1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+    po 20 latach służby - 75%,</br>
+    po 25 latach służby - 100%,</br>
+    po 30 latach służby - 150%,</br>
+    po 35 latach służby - 200%,</br>
+    po 40 latach służby - 300%,</br>
+    po 45 latach służby - 400% </br>
+    miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        c: `</br>Art. 111</br>
+    1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+    po 20 latach służby - 75%,</br>
+    po 25 latach służby - 100%,</br>
+    po 30 latach służby - 150%,</br>
+    po 35 latach służby - 200%,</br>
+    po 40 latach służby - 300%</br>
+    miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        d: `</br>Art. 111</br>
+    1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+    po 20 latach służby - 80%,</br>
+    po 25 latach służby - 100%,</br>
+    po 30 latach służby - 150%,</br>
+    po 35 latach służby - 200%,</br>
+    po 40 latach służby - 300%</br>
+    miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        buttonIdA: 'title-10-a-answer4',
+        buttonIdB: 'title-10-b-answer4',
+        buttonIdC: 'title-10-c-answer4',
+        buttonIdD: 'title-10-d-answer4',
+        correctAnswer: 'title-10-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 11,
+        title: `12. Karą dyscyplinarną w Policji NIE jest 
+    `,
+        a: `</br>Art. 134</br>
+    Karami dyscyplinarnymi są:</br>
+    1) nagana;</br>
+    2) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+    3) wyznaczenie na niższe stanowisko służbowe;</br>
+    4) wydalenie ze służby. `,
+        b: `</br>Art. 134</br>
+    Karami dyscyplinarnymi są:</br>
+    1) nagana;</br>
+    2) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+    3) wyznaczenie na niższe stanowisko służbowe;</br>
+    4) obniżenie stopnia;</br>
+    5) wydalenie ze służby. `,
+        c: `</br>Art. 134</br>
+    Karami dyscyplinarnymi są:</br>
+    1) nagana;</br>
+    2) zakaz opuszczania wyznaczonego miejsca przebywania;</br>
+    3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+    4) wyznaczenie na niższe stanowisko służbowe;</br>
+    5) obniżenie stopnia;`,
+        d: `</br>Art. 134</br>
+    Karami dyscyplinarnymi są:</br>
+    1) nagana;</br>
+    2) zakaz opuszczania wyznaczonego miejsca przebywania;</br>
+    3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+    4) wyznaczenie na niższe stanowisko służbowe;</br>
+    5) obniżenie stopnia;</br>
+    6) wydalenie ze służby. `,
+        buttonIdA: 'title-11-a-answer4',
+        buttonIdB: 'title-11-b-answer4',
+        buttonIdC: 'title-11-c-answer4',
+        buttonIdD: 'title-11-d-answer4',
+        correctAnswer: 'title-11-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 12,
+        title: `13. Centralnym organem administracji rządowej, właściwym w sprawach ochrony
+    bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest `,
+        a: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Miejski Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.`,
+        b: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy prezydentowi.`,
+        c: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Powiatowy Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.`,
+        d: `</br>Art. 5</br>
+    1. Centralnym organem administracji rządowej, właściwym w sprawach ochrony bezpieczeństwa
+    ludzi oraz utrzymania bezpieczeństwa i porządku publicznego, jest Komendant Główny Policji,
+    podległy ministrowi właściwemu do spraw wewnętrznych.`,
+        buttonIdA: 'title-12-a-answer4',
+        buttonIdB: 'title-12-b-answer4',
+        buttonIdC: 'title-12-c-answer4',
+        buttonIdD: 'title-12-d-answer4',
+        correctAnswer: 'title-12-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 13,
+        title: `14. Do podstawowych zadań Policji należą `,
+        a: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.</br>
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+    <u>2. Do podstawowych zadań Policji należą:</br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796); </br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, bez wyłączenia obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+    o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+    przestępstw oraz o wynikach analizy kwasu deoksyrybonukleinowego (DNA).</br>
+    11) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.`,
+
+        b: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.</br>
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+    <u>2. Do podstawowych zadań Policji należą:</br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+    o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+    przestępstw oraz o wynikach analizy kwasu deoksyrybonukleinowego (DNA).</br>
+    11) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-13-a-answer4',
+        buttonIdB: 'title-13-b-answer4',
+        buttonIdC: 'title-13-c-answer4',
+        buttonIdD: 'title-13-d-answer4',
+        correctAnswer: 'title-13-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 14,
+        title: `15. Policja jako umundurowana i uzbrojona formacja służąca społeczeństwu przeznaczona
+    jest do `,
+        a: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego`,
+        b: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-14-a-answer4',
+        buttonIdB: 'title-14-b-answer4',
+        buttonIdC: 'title-14-c-answer4',
+        buttonIdD: 'title-14-d-answer4',
+        correctAnswer: 'title-14-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 15,
+        title: `16. Do głównych zadań Policji należą`,
+        a: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+    <u>2. Do podstawowych zadań Policji należą:</br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+    o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+    przestępstw oraz o wynikach analizy kwasu deoksyrybonukleinowego (DNA).</br>
+    11) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.`,
+        b: `</br>Art. 1</br>
+    Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i przeznaczoną
+    do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego.
+    1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+    <u>2. Do podstawowych zadań Policji należą:</br></u>
+    1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+    dobra;</br>
+    2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+    publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+    na wodach przeznaczonych do powszechnego korzystania;</br>
+    3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+    wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+    państwowymi, samorządowymi i organizacjami społecznymi;</br>
+    3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+    działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+    4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+    4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+    służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+    właściwego do spraw wewnętrznych;</br>
+    5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+    odrębnych przepisach;</br>
+    6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+    publiczną lub obowiązujących w miejscach publicznych;</br>
+    7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+    organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+    oraz odrębnych przepisów;</br>
+    8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+    9) (uchylony)</br>
+    10) (uchylony)</br>
+    3. Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i
+    porozumień międzynarodowych na zasadach i w zakresie w nich określonych.</br>
+    4. Policja realizuje także zadania wynikające z ustawy z dnia 9 marca 2017 r. o systemie
+    monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-15-a-answer4',
+        buttonIdB: 'title-15-b-answer4',
+        buttonIdC: 'title-15-c-answer4',
+        buttonIdD: 'title-15-d-answer4',
+        correctAnswer: 'title-15-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 16,
+        title: `17. Funkcjonariusz Policji w trakcie czynności służbowych dokonał sprawdzenia zawartości
+      odzieży i obuwia osoby. W związku z powyższym przeprowadził `,
+        a: `</br>Art. 15d</br>
+      1. Kontrola polega na sprawdzeniu:</br>
+      1) zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „podejrzanym kontrolowanym” i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą
+      powierzchni ciała;`,
+        b: `</br>Art. 15d</br>
+      1. Kontrola osobista polega na sprawdzeniu:</br>
+      1) zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą
+      kontrolowaną” i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą
+      powierzchni ciała;`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-16-a-answer4',
+        buttonIdB: 'title-16-b-answer4',
+        buttonIdC: 'title-16-c-answer4',
+        buttonIdD: 'title-16-d-answer4',
+        correctAnswer: 'title-16-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 17,
+        title: `18. Policjanta przenosi się na niższe stanowisko służbowe w razie `,
+        a: `</br>Art. 38</br>
+      1. Policjanta przenosi się na niższe stanowisko służbowe w razie wymierzenia kary dyscyplinarnej
+      wyznaczenia na niższe stanowisko służbowe.</br>
+      2. Policjanta można przenieść na niższe stanowisko służbowe w przypadkach:</br>
+      1) orzeczenia trwałej niezdolności do pełnienia służby na zajmowanym stanowisku przez komisję
+      lekarską, jeżeli nie ma możliwości mianowania go na stanowisko równorzędne;</br>
+      2) nieprzydatności na zajmowanym stanowisku, stwierdzonej w opinii służbowej w okresie służby
+      przygotowawczej;</br>
+      3) niewywiązywania się z obowiązków służbowych na zajmowanym stanowisku, stwierdzonego w
+      okresie służby stałej w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej
+      6 miesięcy;</br>
+      4) likwidacji zajmowanego stanowiska służbowego lub z innych przyczyn uzasadnionych potrzebami
+      organizacyjnymi, gdy nie ma możliwości mianowania go na inne równorzędne stanowisko;</br>
+      5) niewyrażenia zgody na mianowanie na stanowisko służbowe w okresie pozostawania w
+      dyspozycji przełożonego właściwego w sprawach osobowych, gdy nie ma możliwości mianowania
+      go na inne równorzędne stanowisko.</br>
+      3. Policjanta można przenieść na niższe stanowisko służbowe również na jego prośbę.</br>
+      4. Policjant, który nie wyraził zgody na przeniesienie na niższe stanowisko z przyczyn określonych w
+      ust. 2, może być zwolniony ze służby.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-17-a-answer4',
+        buttonIdB: 'title-17-b-answer4',
+        buttonIdC: 'title-17-c-answer4',
+        buttonIdD: 'title-17-d-answer4',
+        correctAnswer: 'title-17-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 18,
+        title: `19. Postępowanie kwalifikacyjne do Policji zarządza i prowadzi `,
+        a: `</br>Art. 25</br>
+      4. Postępowanie kwalifikacyjne zarządza i prowadzi Prokurator Generalny albo komendant
+      Główny Policji.
+      `,
+        b: `</br>Art. 25</br>
+      4. Postępowanie kwalifikacyjne zarządza i prowadzi Komendant Straży albo komendant
+      wojewódzki (Stołeczny) Policji.`,
+        c: `</br>Art. 25</br>
+      4. Postępowanie kwalifikacyjne zarządza i prowadzi Komendant Powiatowy Policji albo komendant
+      wojewódzki (Stołeczny) Policji.`,
+        d: `</br>Art. 25</br>
+      4. Postępowanie kwalifikacyjne zarządza i prowadzi Komendant Główny Policji albo komendant
+      wojewódzki (Stołeczny) Policji.`,
+        buttonIdA: 'title-18-a-answer4',
+        buttonIdB: 'title-18-b-answer4',
+        buttonIdC: 'title-18-c-answer4',
+        buttonIdD: 'title-18-d-answer4',
+        correctAnswer: 'title-18-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 19,
+        title: `20. Służbę w Policji może pełnić obywatel Polski `,
+        a: `</br>Art. 25</br>
+      1. Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której gotów jest się podporządkować, a także dający rękojmię zachowania
+      tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych.`,
+        b: `</br>Art. 25</br>
+      1. Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której gotów jest się podporządkować, a także dający rękojmię zachowania
+      tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-19-a-answer4',
+        buttonIdB: 'title-19-b-answer4',
+        buttonIdC: 'title-19-c-answer4',
+        buttonIdD: 'title-19-d-answer4',
+        correctAnswer: 'title-19-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 20,
+        title: `21. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, jeśli
+      jego wykonanie łączyłoby się z popełnieniem przestępstwa. O odmowie wykonania
+      takiego rozkazu lub polecenia policjant powinien zameldować`,
+        a: `</br>Art.58</br>
+      1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.</br>
+      2. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, organu administracji państwowej lub samorządu terytorialnego, jeśli
+      wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem przestępstwa.</br>
+      3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, policjant powinien
+      zameldować Komendantowi Głównemu Policji z pominięciem drogi służbowej.`,
+        b: `</br>Art.58</br>
+      1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.</br>
+      2. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, a także
+      polecenia prokuratora, organu administracji państwowej lub samorządu terytorialnego, jeśli
+      wykonanie rozkazu lub polecenia nie łączyłoby się z popełnieniem przestępstwa.</br>
+      3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, policjant powinien
+      zameldować Komendantowi Głównemu Policji z pominięciem drogi służbowej.`,
+        c: `</br>Art.58</br>
+      1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.</br>
+      2. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, a także
+      polecenia prokuratora, organu administracji państwowej lub samorządu terytorialnego, jeśli
+      wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem przestępstwa.</br>
+      3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, policjant powinien
+      zameldować Komendantowi Głównemu Policji z pominięciem drogi służbowej.`,
+        d: `</br>Art.58</br>
+      1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.</br>
+      2. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, a także
+      polecenia prokuratora, organu administracji państwowej lub samorządu terytorialnego, jeśli
+      wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem przestępstwa.</br>
+      3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, policjant powinien
+      zameldować Komendantowi Powiatowemu Policji z pominięciem drogi służbowej.`,
+        buttonIdA: 'title-20-a-answer4',
+        buttonIdB: 'title-20-b-answer4',
+        buttonIdC: 'title-20-c-answer4',
+        buttonIdD: 'title-20-d-answer4',
+        correctAnswer: 'title-20-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 21,
+        title: `22. Przypadki, w których policjant w czasie wykonywania obowiązków służbowych nie ma
+      obowiązku noszenia munduru określa `,
+        a: `</br>Art. 60</br>
+      1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+      2. Komendant Powiatowy Policji określa przypadki, w których policjant w czasie wykonywania
+      obowiązków służbowych nie ma obowiązku noszenia munduru.</br>
+      Jest to określone w zarządzeniu nr 5 KOMENDANTA GŁÓWNEGO POLICJI z dnia 11 stycznia 2019 r.
+      w sprawie określenia przypadków, w których policjant w czasie wykonywania obowiązków
+      służbowych nie ma obowiązku noszenia munduru`,
+        b: `</br>Art. 60</br>
+      1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+      2. Komendant Główny Policji określa przypadki, w których policjant w czasie wykonywania
+      obowiązków służbowych nie ma obowiązku noszenia munduru.</br>
+      Jest to określone w zarządzeniu nr 5 KOMENDANTA POWIATOWEGO POLICJI z dnia 11 stycznia 2019 r.
+      w sprawie określenia przypadków, w których policjant w czasie wykonywania obowiązków
+      służbowych nie ma obowiązku noszenia munduru`,
+        c: `</br>Art. 60</br>
+      1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+      2. Komendant Główny Policji określa przypadki, w których policjant w czasie wykonywania
+      obowiązków służbowych nie ma obowiązku noszenia munduru.</br>
+      Jest to określone w zarządzeniu nr 5 KOMENDANTA GŁÓWNEGO POLICJI z dnia 11 stycznia 2019 r.
+      w sprawie określenia przypadków, w których policjant w czasie wykonywania obowiązków
+      służbowych ma obowiązek noszenia munduru`,
+        d: `</br>Art. 60</br>
+      1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+      2. Komendant Główny Policji określa przypadki, w których policjant w czasie wykonywania
+      obowiązków służbowych nie ma obowiązku noszenia munduru.</br>
+      Jest to określone w zarządzeniu nr 5 KOMENDANTA GŁÓWNEGO POLICJI z dnia 11 stycznia 2019 r.
+      w sprawie określenia przypadków, w których policjant w czasie wykonywania obowiązków
+      służbowych nie ma obowiązku noszenia munduru`,
+        buttonIdA: 'title-21-a-answer4',
+        buttonIdB: 'title-21-b-answer4',
+        buttonIdC: 'title-21-c-answer4',
+        buttonIdD: 'title-21-d-answer4',
+        correctAnswer: 'title-21-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 22,
+        title: `23. Posterunkowy Jan Nowak w trakcie zatrzymania agresywnego, aktywnie stawiającego
+      opór sprawcy rozboju, używał słów powszechnie uznanych za obelżywe. Z tego powodu
+      zatrzymany złożył skargę. Po zakończeniu czynności post. Nowak przeprosił
+      zatrzymanego. Wcześniej policjant został ukarany za podobne zachowanie karą nagany,
+      ale kara zatarła się. Wymierzając karę dyscyplinarną zgodnie z ustawą o Policji przełożony
+      jako okoliczności łagodzące powinien wziąć pod uwagę`,
+        a: `</br>Art. 134</br>
+      1. Wymierzona kara powinna być współmierna do popełnionego przewinienia dyscyplinarnego i
+      stopnia zawinienia, w szczególności powinna uwzględniać okoliczności popełnienia przewinienia
+      dyscyplinarnego, jego skutki, w tym następstwa dla służby, rodzaj i stopień naruszenia ciążących na
+      obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem
+      przewinienia dyscyplinarnego i po jego popełnieniu oraz dotychczasowy przebieg służby.</br>
+      2. Na zaostrzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia
+      dyscyplinarnego:</br>
+      1) działanie z motywacji zasługującej na szczególne potępienie albo w stanie po użyciu alkoholu lub
+      innego podobnie działającego środka;</br>
+      2) popełnienie przewinienia dyscyplinarnego przez policjanta przed zatarciem wymierzonej mu
+      kary dyscyplinarnej;</br>
+      3) poważne skutki przewinienia dyscyplinarnego, zwłaszcza istotne zakłócenie realizacji zadań
+      Policji lub naruszenia dobrego imienia Policji;</br>
+      4) działanie w obecności podwładnego, wspólnie z nim lub na jego szkodę.</br>
+      <u>3. Na złagodzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia
+      dyscyplinarnego:</br>
+      1) nieumyślność jego popełnienia;</br>
+      2) podjęcie przez policjanta starań o zmniejszenie jego skutków;</br>
+      3) brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych;</br>
+      4) dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia
+      dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.</u></br>
+      4. Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1-3, wyłącznie w
+      stosunku do policjanta, którego one dotyczą.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-22-a-answer4',
+        buttonIdB: 'title-22-b-answer4',
+        buttonIdC: 'title-22-c-answer4',
+        buttonIdD: 'title-22-d-answer4',
+        correctAnswer: 'title-22-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 23,
+        title: `24. Kandydat ubiegający się o ponowne przyjęcie do służby w Policji, który dobrowolnie
+      zwolnił się ze służby, musi spełniać następujące kryteria:`,
+        a: `Postępowanie rekrutacyjne jest takie samo jak w przypadku osoby, która nie była
+      funkcjonariuszem. Różnicą jest brak szkolenia podstawowego w przypadku osoby, która wraca do
+      służby w ciągu 3 lat od odejścia.</br>
+      Art. 25.</br>
+      <u>1. Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której gotów jest się podporządkować, a także dający rękojmię
+      zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji
+      niejawnych.</br></u>
+      2. Przyjęcie kandydata do służby w Policji następuje po przeprowadzeniu postępowania
+      kwalifikacyjnego mającego na celu ustalenie, czy kandydat spełnia warunki przyjęcia do służby w
+      Policji oraz określenie jego predyspozycji do pełnienia tej służby. Postępowanie kwalifikacyjne, z
+      zastrzeżeniem ust. 3, składa się z następujących etapów:</br>
+      1) złożenie podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby, a także
+      dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz
+      zawierających dane o uprzednim zatrudnieniu;</br>
+      2) test wiedzy;</br>
+      3) test sprawności fizycznej;</br>
+      4) test psychologiczny;</br>
+      5) przeprowadzenie rozmowy kwalifikacyjnej;</br>
+      6) ustalenie zdolności fizycznej i psychicznej do służby w Policji;</br>
+      7) sprawdzenie w ewidencjach, rejestrach i kartotekach prawdziwości danych zawartych w
+      kwestionariuszu osobowym kandydata do służby;</br>
+      8) przeprowadzenie postępowania sprawdzającego określonego w przepisach o ochronie
+      informacji niejawnych.</br>
+      3. Postępowanie kwalifikacyjne w stosunku do kandydata ubiegającego się o przyjęcie do służby w
+      Policji:</br>
+      1) w charakterze członka personelu lotniczego, posiadającego uprawnienia lotnicze w określonej
+      specjalności,</br>
+      2) w charakterze członka personelu medycznego w oddziale prewencji Policji,</br>
+      3) który złożył dokumenty wymienione w ust. 2 pkt 1 przed upływem 3 lat od dnia zwolnienia z tej
+      służby, jeżeli podczas jej pełnienia uzyskał kwalifikacje zawodowe podstawowe
+      - składa się z etapów, o których mowa w ust. 2 pkt 1 i 5-8.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-23-a-answer4',
+        buttonIdB: 'title-23-b-answer4',
+        buttonIdC: 'title-23-c-answer4',
+        buttonIdD: 'title-23-d-answer4',
+        correctAnswer: 'title-23-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 24,
+        title: `25. Postępowanie kwalifikacyjne w stosunku do kandydata ubiegającego się o przyjęcie do
+      służby w Policji w charakterze członka personelu lotniczego, posiadającego uprawnienia
+      lotnicze w określonej specjalności odbywa się z pominięciem`,
+        a: `</br>Art. 25.</br>
+      1. Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której jest gotów się podporządkować, a także dający rękojmię zachowania
+      tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych.</br>
+      2. Przyjęcie kandydata do służby w Policji, zwanego dalej "kandydatem", następuje po
+      przeprowadzeniu postępowania kwalifikacyjnego mającego na celu ustalenie, czy kandydat spełnia
+      warunki przyjęcia do służby w Policji, oraz określenie jego predyspozycji do pełnienia tej służby.
+      Postępowanie kwalifikacyjne składa się z następujących etapów:</br>
+      1) złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby w
+      Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe
+      oraz zawierających dane o uprzednim zatrudnieniu;</br>
+      <u>2) testu wiedzy;</br>
+      3) testu sprawności fizycznej;</br>
+      4) badania psychologicznego w tym testu psychologicznego;</br>
+      5) rozmowy kwalifikacyjnej;</br></u>
+      6) ustalenia zdolności fizycznej i psychicznej do służby w Policji;</br>
+      7) sprawdzenia w ewidencjach, rejestrach i kartotekach, w tym w policyjnych zbiorach danych,
+      prawdziwości danych zawartych w kwestionariuszu osobowym kandydata do służby w Policji;</br>
+      8) postępowania sprawdzającego, które jest określone w przepisach o ochronie informacji
+      niejawnych.</br>
+      […]</br>
+      11. W przypadku kandydata ubiegającego się o przyjęcie do służby:</br>
+      1) w charakterze członka personelu lotniczego w specjalnościach:</br>
+      a) pilota, posiadającego odpowiednie uprawnienia i kwalifikacje lotnicze do pilotowania statków
+      powietrznych,</br>
+      b) mechanika lotniczego, posiadającego specjalistyczne wykształcenie niezbędne do obsługi
+      technicznej statków powietrznych,</br>
+      2) w charakterze członka personelu medycznego w wyodrębnionych oddziałach prewencji
+      <u>- postępowanie kwalifikacyjne składa się z następujących etapów: złożenia podania o przyjęcie
+      do służby, kwestionariusza osobowego kandydata do służby w Policji, a także dokumentów
+      stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o
+      uprzednim zatrudnieniu, rozmowy kwalifikacyjnej, ustalenia zdolności fizycznej i psychicznej do
+      służby w Policji, sprawdzenia w ewidencjach, rejestrach i kartotekach, w tym w policyjnych
+      zbiorach danych, prawdziwości danych zawartych w kwestionariuszu osobowym kandydata oraz
+      z postępowania sprawdzającego, które jest określone w przepisach o ochronie informacji
+      niejawnych.</u>`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-24-a-answer4',
+        buttonIdB: 'title-24-b-answer4',
+        buttonIdC: 'title-24-c-answer4',
+        buttonIdD: 'title-24-d-answer4',
+        correctAnswer: 'title-24-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 25,
+        title: `26. Jan X. od 4 lat jest członkiem partii politycznej. Dnia 16 czerwca 2020 r. został przyjęty do
+      służby w Policji. W związku z tym dotychczasowe członkostwo w partii Jana X.`,
+        a: `</br>Art. 63</br>
+      1. Policjant nie może być członkiem partii politycznej.</br>
+      2. Z chwilą przyjęcia policjanta do służby ustaje jego dotychczasowe członkostwo w partii
+      politycznej.</br>
+      3. Policjant jest obowiązany poinformować przełożonego o przynależności do stowarzyszeń
+      krajowych działających poza służbą.</br>
+      4. Przynależność do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga
+      zezwolenia Komendanta Powiatowego Policji lub upoważnionego przez niego przełożonego.`,
+
+        b: `</br>Art. 63</br>
+      1. Policjant może być członkiem partii politycznej.</br>
+      2. Z chwilą przyjęcia policjanta do służby nie ustaje jego dotychczasowe członkostwo w partii
+      politycznej.</br>
+      3. Policjant jest obowiązany poinformować przełożonego o przynależności do stowarzyszeń
+      krajowych działających poza służbą.</br>
+      4. Przynależność do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga
+      zezwolenia Komendanta Głównego Policji lub upoważnionego przez niego przełożonego.`,
+
+        c: `</br>Art. 63</br>
+      1. Policjant może być członkiem partii politycznej.</br>
+      2. Z chwilą przyjęcia policjanta do służby ustaje jego dotychczasowe członkostwo w partii
+      politycznej.</br>
+      3. Policjant jest obowiązany poinformować przełożonego o przynależności do stowarzyszeń
+      krajowych działających poza służbą.</br>
+      4. Przynależność do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga
+      zezwolenia Komendanta Głównego Policji lub upoważnionego przez niego przełożonego.`,
+
+        d: `</br>Art. 63</br>
+      1. Policjant nie może być członkiem partii politycznej.</br>
+      2. Z chwilą przyjęcia policjanta do służby ustaje jego dotychczasowe członkostwo w partii
+      politycznej.</br>
+      3. Policjant jest obowiązany poinformować przełożonego o przynależności do stowarzyszeń
+      krajowych działających poza służbą.</br>
+      4. Przynależność do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga
+      zezwolenia Komendanta Głównego Policji lub upoważnionego przez niego przełożonego.`,
+        buttonIdA: 'title-25-a-answer4',
+        buttonIdB: 'title-25-b-answer4',
+        buttonIdC: 'title-25-c-answer4',
+        buttonIdD: 'title-25-d-answer4',
+        correctAnswer: 'title-25-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 26,
+        title: `27. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem`,
+        a: `</br>Art. 82</br>
+      1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 20
+      dni roboczych.</br>
+      2. Policjant uzyskuje prawo do pierwszego urlopu z upływem 6 miesięcy służby w wymiarze połowy
+      urlopu przysługującego po roku służby.</br>
+      3. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem roku służby. Do tego urlopu
+      wlicza się urlop, o którym mowa w ust. 2.`,
+
+        b: `</br>Art. 82</br>
+      1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26
+      dni roboczych.</br>
+      2. Policjant uzyskuje prawo do pierwszego urlopu z upływem 6 miesięcy służby w wymiarze połowy
+      urlopu przysługującego po roku służby.</br>
+      3. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem roku służby. Do tego urlopu
+      wlicza się urlop, o którym mowa w ust. 2.`,
+
+        c: `</br>Art. 82</br>
+      1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26
+      dni roboczych.</br>
+      2. Policjant uzyskuje prawo do pierwszego urlopu z upływem 3 miesięcy służby w wymiarze 1/4
+      urlopu przysługującego po roku służby.</br>
+      3. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem roku służby. Do tego urlopu
+      wlicza się urlop, o którym mowa w ust. 2.`,
+
+        d: `</br>Art. 82</br>
+      1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26
+      dni roboczych.</br>
+      2. Policjant uzyskuje prawo do pierwszego urlopu z upływem 6 miesięcy służby w wymiarze połowy
+      urlopu przysługującego po roku służby.</br>
+      3. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem dwóch lat służby. Do tego urlopu
+      wlicza się urlop, o którym mowa w ust. 2.`,
+        buttonIdA: 'title-26-a-answer4',
+        buttonIdB: 'title-26-b-answer4',
+        buttonIdC: 'title-26-c-answer4',
+        buttonIdD: 'title-26-d-answer4',
+        correctAnswer: 'title-26-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 27,
+        title: `28. Karami dyscyplinarnymi stosowanymi wobec policjantów są `,
+        a: `</br>Art. 134</br>
+      Karami dyscyplinarnymi są:</br>
+      1) nagana;</br>
+      2) zakaz opuszczania wyznaczonego miejsca przebywania;</br>
+      3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+      4) wyznaczenie na niższe stanowisko służbowe;</br>
+      5) obniżenie stopnia;</br>
+      6) wydalenie ze służby`,
+
+        b: `</br>Art. 134</br>
+      Karami dyscyplinarnymi są:</br>
+      1) nagana;</br>
+      2) zakaz opuszczania wyznaczonego miejsca przebywania;</br>
+      3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+      4) wyznaczenie na niższe stanowisko służbowe;</br>
+      5) podwyższenie stopnia;</br>
+      6) wydalenie ze służby`,
+
+        c: `</br>Art. 134</br>
+      Karami dyscyplinarnymi są:</br>
+      1) pouczenia;</br>
+      2) zakaz opuszczania wyznaczonego miejsca przebywania;</br>
+      3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+      4) wyznaczenie na niższe stanowisko służbowe;</br>
+      5) obniżenie stopnia;</br>
+      6) wydalenie ze służby`,
+
+        d: `</br>Art. 134</br>
+      Karami dyscyplinarnymi są:</br>
+      1) nagana;</br>
+      2) zakaz opuszczania wyznaczonego miejsca zamieszkania;</br>
+      3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;</br>
+      4) wyznaczenie na niższe stanowisko służbowe;</br>
+      5) obniżenie stopnia;</br>
+      6) wydalenie ze służby`,
+
+        buttonIdA: 'title-27-a-answer4',
+        buttonIdB: 'title-27-b-answer4',
+        buttonIdC: 'title-27-c-answer4',
+        buttonIdD: 'title-27-d-answer4',
+        correctAnswer: 'title-27-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 28,
+        title: `29. W nagłych wypadkach o udzielenie doraźnej pomocy policjant zwraca się ustnie do `,
+        a: `</br>Art. 15</br>
+      Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+      […]</br>
+      6) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i
+      samorządu terytorialnego oraz przedsiębiorców prowadzących działalność w zakresie użyteczności
+      publicznej; wymienione instytucje, organy i przedsiębiorcy są obowiązani, w zakresie swojego
+      działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa;</br>
+      7) zwracania się o niezbędną pomoc do innych przedsiębiorców i organizacji społecznych, <u>jak
+      również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w
+      ramach obowiązujących przepisów prawa;</u>`,
+        b: ``,
+        c: ``,
+
+        d: ``,
+        buttonIdA: 'title-28-a-answer4',
+        buttonIdB: 'title-28-b-answer4',
+        buttonIdC: 'title-28-c-answer4',
+        buttonIdD: 'title-28-d-answer4',
+        correctAnswer: 'title-28-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 29,
+        title: `30. Policjanci wykonujący ustawowe uprawnienia mają prawo żądać niezbędnej pomocy od `,
+        a: `</br>Art. 15</br>
+      Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+      […]</br>
+      6) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i
+      samorządu terytorialnego oraz przedsiębiorców prowadzących działalność w zakresie użyteczności
+      publicznej; wymienione instytucje, organy i przedsiębiorcy są obowiązani, w zakresie swojego
+      działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa;</br>
+      7) zwracania się o niezbędną pomoc do innych przedsiębiorców i organizacji społecznych, jak
+      również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w
+      ramach obowiązujących przepisów prawa;`,
+        b: `</br>Art. 15</br>
+      Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+      […]</br>
+      6) żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i
+      samorządu terytorialnego oraz przedsiębiorców prowadzących działalność w zakresie użyteczności
+      publicznej; wymienione instytucje, organy i przedsiębiorcy są obowiązani, w zakresie swojego
+      działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa;</br>
+      7) zwracania się o niezbędną pomoc do innych przedsiębiorców i organizacji społecznych, jak
+      również zwracania się w każdych przypadkach do każdej osoby o udzielenie doraźnej pomocy, w
+      ramach obowiązujących przepisów prawa;`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-29-a-answer4',
+        buttonIdB: 'title-29-b-answer4',
+        buttonIdC: 'title-29-c-answer4',
+        buttonIdD: 'title-29-d-answer4',
+        correctAnswer: 'title-29-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 30,
+        title: `31. Policjanci w celu realizacji ustawowych zadań nie mają prawa `,
+        a: `</br>Art. 15</br>
+      1.Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+      1)legitymowania osób w celu ustalenia ich tożsamości;</br>
+      2)zatrzymywania osób w trybie i przypadkach określonych w przepisach Kodeksu postępowania
+      karnego i innych ustaw;</br>
+      2a)zatrzymywania osób pozbawionych wolności, które na podstawie zezwolenia właściwego
+      organu opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły do niego;</br>
+      3)zatrzymywania osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub
+      zdrowia ludzkiego, a także dla mienia;</br>
+      3a)pobierania od osób odcisków linii papilarnych lub wymazu ze śluzówki policzków:</br>
+      a) w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego oraz ustawy z
+      dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających
+      zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2019 r. poz. 2203),</br>
+      b) w celu identyfikacji osób o nieustalonej tożsamości oraz osób usiłujących ukryć swoją
+      tożsamość, jeżeli ustalenie tożsamości w inny sposób nie jest możliwe,</br>
+      c) za ich zgodą – w celu identyfikacji osób zaginionych lub zwłok ludzkich o nieustalonej
+      tożsamości,</br>
+      d) w celu identyfikacji lub wykrywania sprawców przestępstw – na zasadach określonych w
+      niniejszej ustawie;</br>
+      3b)pobierania odcisków linii papilarnych lub materiału biologicznego ze zwłok ludzkich o
+      nieustalonej tożsamości;</br>
+      4)przeszukiwania osób i pomieszczeń w trybie i przypadkach określonych w przepisach Kodeksu
+      postępowania karnego i innych ustaw;</br>
+      4a)obserwowania i rejestrowania przy użyciu środków technicznych obrazu z pomieszczeń
+      przeznaczonych dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, policyjnych izb
+      dziecka, pokoi przejściowych oraz tymczasowych pomieszczeń przejściowych;</br>
+      5)dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków
+      w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego:</br>
+      a) w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary
+      lub</br>
+      b) w celu znalezienia:</br>
+      – broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu
+      zabronionego pod groźbą kary lub</br>
+      – przedmiotów, których posiadanie jest zabronione, lub mogących stanowić dowód w
+      postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 1 zadania Policji
+      ust. 2 pkt 1, 2, 3a, 4, 4a, 6 i 7, oraz przepisów innych ustaw określających zadania Policji lub</br>
+      – przedmiotów podlegających przepadkowi w przypadku uzasadnionego przypuszczenia posiadania
+      przez osobę broni lub takich przedmiotów lub uzasadnionego przypuszczenia ich użycia do
+      popełnienia czynu zabronionego pod groźbą kary</br>
+      – na zasadach i w sposób określony w art. 15d kontrola osobista i art. 15e przeglądanie zawartości
+      bagaży lub sprawdzanie ładunków;</br>
+      5a)obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach
+      publicznych, a w przypadku czynności operacyjno-rozpoznawczych i administracyjnoporządkowych podejmowanych na podstawie ustawy – także i dźwięku towarzyszącego tym
+      zdarzeniom;</br>
+      5b)obserwowania i rejestrowania przy użyciu środków technicznych obrazu lub dźwięku w trakcie
+      interwencji w miejscach innych niż publiczne, podczas prowadzenia działań kontrterrorystycznych
+      oraz wspierania działań jednostek organizacyjnych Policji przez służbę kontrterrorystyczną w
+      warunkach szczególnego zagrożenia lub wymagających użycia specjalistycznych sił i środków oraz
+      specjalistycznej taktyki działań, a także w policyjnych środkach transportu;</br>
+      6)żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i
+      samorządu terytorialnego oraz przedsiębiorców prowadzących działalność w zakresie użyteczności
+      publicznej; wymienione instytucje, organy i przedsiębiorcy są obowiązani, w zakresie swojego
+      działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa;</br>
+      7)zwracania się o niezbędną pomoc do innych przedsiębiorców i organizacji społecznych, jak
+      również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w
+      ramach obowiązujących przepisów prawa;</br>
+      8)(uchylony)</br>
+      9)dokonywania sprawdzenia prewencyjnego w celu ochrony przed bezprawnymi zamachami na
+      życie lub zdrowie osób lub mienie lub w celu ochrony przed nieuprawnionymi działaniami
+      skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego lub:</br>
+      a) zapobiegania zdarzeniom o charakterze terrorystycznym - osób w związku z ich dostępem na
+      teren obiektów lub obszarów ochranianych przez Policję lub w związku z zabezpieczeniem przez
+      Policję imprez masowych lub zgromadzeń, bagaży lub przedmiotów posiadanych przez te osoby, a
+      także środków transportu lądowego, powietrznego lub wodnego lub pojazdów, którymi się
+      poruszają w związku z dostępem do tych obiektów lub obszarów,</br>
+      b) znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwości może
+      spowodować zagrożenie życia lub zdrowia lub bezpieczeństwa przeprowadzonych czynności osób:</br>
+      – doprowadzanych przez Policję na polecenie lub zarządzenie uprawnionego organu lub w związku
+      z realizacją czynności określonych przepisami prawa lub osób w stanie nietrzeźwości
+      doprowadzanych przez Policję w celu wytrzeźwienia do siedziby jednostki organizacyjnej Policji lub
+      innego miejsca określonego przepisami prawa lub wskazanego przez uprawniony organ, na
+      polecenie lub zarządzenie którego dokonuje się doprowadzenia, w tym osób doprowadzanych
+      umieszczonych w jednostkach organizacyjnych Policji w pomieszczeniach dla osób zatrzymanych
+      lub doprowadzonych w celu wytrzeźwienia,</br>
+      – zatrzymywanych w przypadkach określonych w ust. 1 pkt 2–3, osób zatrzymanych,
+      przyjmowanych do jednostek organizacyjnych Policji do pomieszczeń dla osób zatrzymanych lub
+      doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń
+      przejściowych lub policyjnych izb dziecka lub umieszczanych w tych pomieszczeniach,</br>
+      – pozbawionych wolności, w tym przebywających w zakładach karnych, aresztach śledczych,
+      zakładach poprawczych, schroniskach dla nieletnich, policyjnych izbach dziecka lub innych
+      ośrodkach dla nieletnich, a także osób skazanych lub tymczasowo aresztowanych przekazywanych
+      na podstawie umów międzynarodowych, podczas wykonywania w stosunku do tych osób przez
+      Policję, na polecenie sądu lub prokuratora, czynności polegających na przemieszczaniu tych osób w
+      związku z wykonywaniem czynności procesowych lub innych czynności określonych przez sąd lub
+      prokuratora;</br>
+      10)wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do
+      wykonywania czynności określonych w pkt 1–5 lub 9 lub wykonywania innych czynności
+      służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań Policji lub w
+      granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia
+      lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to
+      niezbędne do sprawnej realizacji zadań Policji albo uniknięcia zatarcia śladów przestępstwa lub
+      wykroczenia.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-30-a-answer4',
+        buttonIdB: 'title-30-b-answer4',
+        buttonIdC: 'title-30-c-answer4',
+        buttonIdD: 'title-30-d-answer4',
+        correctAnswer: 'title-30-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 31,
+        title: `32. Do korpusu szeregowych policji zaliczamy`,
+        a: `</br>Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      […]</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) posterunkowy.`,
+        b: `</br>Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      […]</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) sierżant,</br>
+      b) starszy sierżant.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-31-a-answer4',
+        buttonIdB: 'title-31-b-answer4',
+        buttonIdC: 'title-31-c-answer4',
+        buttonIdD: 'title-31-d-answer4',
+        correctAnswer: 'title-31-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 32,
+        title: `33. Jakie stopnie wyróżniamy w korpusie szeregowych Policji? `,
+        a: `</br>Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      […]</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) starszy posterunkowy,</br>
+      b) posterunkowy.`,
+        b: `</br>Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      […]</br>
+      6) w korpusie szeregowych Policji:</br>
+      a) sierżant,</br>
+      b) starszy sierżant.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-32-a-answer4',
+        buttonIdB: 'title-32-b-answer4',
+        buttonIdC: 'title-32-c-answer4',
+        buttonIdD: 'title-32-d-answer4',
+        correctAnswer: 'title-32-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 33,
+        title: `34. Przesłanką zwolnienia policjanta ze służby w Policji, jest orzeczenie`,
+        a: `</br>Art. 41</br>
+      1. Policjanta zwalnia się ze służby w przypadkach:</br>
+      1) orzeczenia czasowej niezdolności do służby przez komisję lekarską;</br>
+      2) nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;</br>
+      3) wymierzenia kary dyscyplinarnej wydalenia ze służby;</br>
+      4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego;</br>
+      4a) wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu
+      wykonywania zawodu policjanta;`,
+        d: `</br>Art. 41</br>
+      1. Policjanta zwalnia się ze służby w przypadkach:</br>
+      1) orzeczenia trwałej niezdolności do służby przez komisję lekarską;</br>
+      2) nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;</br>
+      3) wymierzenia kary dyscyplinarnej wydalenia ze służby;</br>
+      4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego;</br>
+      4a) wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu
+      wykonywania zawodu policjanta;`,
+        c: `</br>Art. 41</br>
+      1. Policjanta zwalnia się ze służby w przypadkach:</br>
+      1) orzeczenia trwałej niezdolności do służby przez komisję lekarską;</br>
+      2) nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;</br>
+      3) wymierzenia kary służbowej wydalenia ze służby;</br>
+      4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego;</br>
+      4a) wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu
+      wykonywania zawodu policjanta;`,
+        b: `</br>Art. 41</br>
+      1. Policjanta zwalnia się ze służby w przypadkach:</br>
+      1) orzeczenia trwałej niezdolności do służby przez komisję lekarską;</br>
+      2) nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;</br>
+      3) wymierzenia kary dyscyplinarnej wydalenia ze służby;</br>
+      4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego;</br>
+      4a) wymierzenia przez sąd nieprawomocnym orzeczeniem środka karnego w postaci zakazu
+      wykonywania zawodu policjanta;`,
+        buttonIdA: 'title-33-a-answer4',
+        buttonIdB: 'title-33-b-answer4',
+        buttonIdC: 'title-33-c-answer4',
+        buttonIdD: 'title-33-d-answer4',
+        correctAnswer: 'title-33-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 34,
+        title: `35. Policja składa się ze służby: kryminalnej, śledczej, prewencyjnej oraz wspomagającej
+      działalność Policji, ponadto w jej skład wchodzi również | 36. Policja składa się z następujących rodzajów służb: | 37. Wskaż rodzaj służby, który nie wchodzi w skład rodzajów służb w Policji `,
+        a: `Art. 4</br>
+      1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+      prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+      organizacyjnym, logistycznym i technicznym.</br>
+      2. W skład Policji wchodzi policja sądowa. Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw wewnętrznych, w
+      porozumieniu z ministrem właściwym do spraw sprawiedliwości.</br>
+      <u>3. W skład Policji wchodzą również:</br>
+      1) Wyższa Szkoła Policji, ośrodki szkolenia i szkoły policyjne;</br>
+      2) wyodrębnione oddziały prewencji;</br>
+      3) instytuty badawcze.</u>`,
+        b: `Art. 4</br>
+      1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+      prewencyjnej, kontrterrorystycznej oraz wspomagającej działalność Policji w zakresie
+      organizacyjnym, logistycznym i technicznym.</br>
+      2. W skład Policji wchodzi policja sądowa. Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw wewnętrznych, w
+      porozumieniu z ministrem właściwym do spraw sprawiedliwości.</br>
+      <u>3. W skład Policji wchodzą również:</br>
+      1) Wyższa Szkoła Policji, ośrodki szkolenia i szkoły policyjne;</br>
+      2) wyodrębnione oddziały prewencji;</br>
+      3) instytuty badawcze;
+      4) komisariaty.</u>`,
+        c: `Art. 4</br>
+      1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych,
+      prewencyjnej oraz wspomagającej działalność Policji w zakresie
+      organizacyjnym, logistycznym i technicznym.</br>
+      2. W skład Policji wchodzi policja sądowa. Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw wewnętrznych, w
+      porozumieniu z ministrem właściwym do spraw sprawiedliwości.</br>
+      <u>3. W skład Policji wchodzą również:</br>
+      1) Wyższa Szkoła Policji, ośrodki szkolenia i szkoły policyjne;</br>
+      2) wyodrębnione oddziały prewencji;</br>
+      3) instytuty badawcze.</u>`,
+        d: ``,
+        buttonIdA: 'title-34-a-answer4',
+        buttonIdB: 'title-34-b-answer4',
+        buttonIdC: 'title-34-c-answer4',
+        buttonIdD: 'title-34-d-answer4',
+        correctAnswer: 'title-34-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 35,
+        title: `38. Święto Policji obchodzone jest w dniu`,
+        a: `</br>Art 13b</br>
+Dzień 21 lipca ustanawia się Świętem Policji. 
+`,
+        b: `</br>Art 13b</br>
+Dzień 22 lipca ustanawia się Świętem Policji. 
+`,
+        c: `</br>Art 13b</br>
+Dzień 23 lipca ustanawia się Świętem Policji. 
+`,
+        d: `</br>Art 13b</br>
+Dzień 24 lipca ustanawia się Świętem Policji. 
+`,
+        buttonIdA: 'title-35-a-answer4',
+        buttonIdB: 'title-35-b-answer4',
+        buttonIdC: 'title-35-c-answer4',
+        buttonIdD: 'title-35-d-answer4',
+        correctAnswer: 'title-35-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 36,
+        title: `(Uzupełnij zdanie)39. Święto Policji obchodzone jest w rocznicę powołania w {A - ...} Policji Państwowej w {B - ...}, w dniu {C - ...}`,
+        a: `Święto Policji obchodzone jest w rocznicę powołania w 1917 r. Policji Państwowej w II
+      Rzeczypospolitej Polskiej, w dniu 24 lipca`,
+        b: `Święto Policji obchodzone jest w rocznicę powołania w 1918 r. Policji Państwowej w II
+      Rzeczypospolitej Polskiej, w dniu 24 lipca`,
+        c: `Święto Policji obchodzone jest w rocznicę powołania w 1920 r. Policji Państwowej w II
+      Rzeczypospolitej Polskiej, w dniu 24 lipca`,
+        d: `Święto Policji obchodzone jest w rocznicę powołania w 1919 r. Policji Państwowej w II
+      Rzeczypospolitej Polskiej, w dniu 24 lipca`,
+        buttonIdA: 'title-36-a-answer4',
+        buttonIdB: 'title-36-b-answer4',
+        buttonIdC: 'title-36-c-answer4',
+        buttonIdD: 'title-36-d-answer4',
+        correctAnswer: 'title-36-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 37,
+        title: `40. Okres służby przygotowawczej w Policji wynosi `,
+        a: `Art. 29
+1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres 2
+lat.`,
+        b: `Art. 29
+1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres 3
+lat.`,
+        c: `Art. 29
+1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres 4
+lat.`,
+        d: `Art. 29
+1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres 1 roku`,
+        buttonIdA: 'title-37-a-answer4',
+        buttonIdB: 'title-37-b-answer4',
+        buttonIdC: 'title-37-c-answer4',
+        buttonIdD: 'title-37-d-answer4',
+        correctAnswer: 'title-37-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 38,
+        title: `41. Stosunek służbowy policjanta powstaje w drodze`,
+        a: `</br>Art. 28</br>
+      Stosunek służbowy policjanta powstaje w drodze rekrutacji na podstawie dobrowolnego
+      zgłoszenia się do służby.`,
+        b: `</br>Art. 28</br>
+      Stosunek służbowy policjanta powstaje w drodze ślubowania na podstawie przymusowego
+      zgłoszenia się do służby.`,
+        c: `</br>Art. 28</br>
+      Stosunek służbowy policjanta powstaje w drodze mianowania na podstawie dobrowolnego
+      zgłoszenia się do służby.`,
+        d: ``,
+        buttonIdA: 'title-38-a-answer4',
+        buttonIdB: 'title-38-b-answer4',
+        buttonIdC: 'title-38-c-answer4',
+        buttonIdD: 'title-38-d-answer4',
+        correctAnswer: 'title-38-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 39,
+        title: `42. Policjantowi przysługuje nagroda jubileuszowa `,
+        a: `</br>Art. 111</br>
+      1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+      po 15 latach służby - 70%,</br>
+      po 20 latach służby - 75%,</br>
+      po 25 latach służby - 100%,</br>
+      po 30 latach służby - 150%,</br>
+      po 35 latach służby - 200%,</br>
+      po 40 latach służby - 300%</br>
+      miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        b: `</br>Art. 111</br>
+      1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+      po 20 latach służby - 75%,</br>
+      po 25 latach służby - 100%,</br>
+      po 30 latach służby - 150%,</br>
+      po 35 latach służby - 200%,</br>
+      po 40 latach służby - 300%,</br>
+      po 45 latach służby - 400% </br>
+      miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        c: `</br>Art. 111</br>
+      1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+      po 20 latach służby - 75%,</br>
+      po 25 latach służby - 100%,</br>
+      po 30 latach służby - 150%,</br>
+      po 35 latach służby - 200%,</br>
+      po 40 latach służby - 300%</br>
+      miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        d: `</br>Art. 111</br>
+      1. Policjantowi przysługują nagrody jubileuszowe w wysokości:</br>
+      po 20 latach służby - 80%,</br>
+      po 25 latach służby - 100%,</br>
+      po 30 latach służby - 150%,</br>
+      po 35 latach służby - 200%,</br>
+      po 40 latach służby - 300%</br>
+      miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.`,
+        buttonIdA: 'title-39-a-answer4',
+        buttonIdB: 'title-39-b-answer4',
+        buttonIdC: 'title-39-c-answer4',
+        buttonIdD: 'title-39-d-answer4',
+        correctAnswer: 'title-39-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 40,
+        title: `43. Stopniami w korpusie oficerów młodszych Policji są: `,
+        a: `</br>Art. 47</br>
+      3) w korpusie oficerów starszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;`,
+        b: `</br>Art. 47</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;`,
+        c: `</br>Art. 47</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) podkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji;`,
+        d: `</br>Art. 47</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      c) podkomisarz Policji; </br>;
+      d) podinspektor Policji`,
+        buttonIdA: 'title-40-a-answer4',
+        buttonIdB: 'title-40-b-answer4',
+        buttonIdC: 'title-40-c-answer4',
+        buttonIdD: 'title-40-d-answer4',
+        correctAnswer: 'title-40-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 41,
+        title: `44. Policja jest formacją służącą społeczeństwu i przeznaczoną do`,
+        a: `</br>Art. 1</br>
+      1. Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i
+      przeznaczoną do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku
+      publicznego. `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-41-a-answer4',
+        buttonIdB: 'title-41-b-answer4',
+        buttonIdC: 'title-41-c-answer4',
+        buttonIdD: 'title-41-d-answer4',
+        correctAnswer: 'title-41-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 42,
+        title: `45. Stosunek służbowy policjanta powstaje w drodze`,
+        a: `</br>Art. 28</br>
+      1. Stosunek służbowy policjanta powstaje w drodze mianowania na podstawie dobrowolnego
+      zgłoszenia się do służby`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-42-a-answer4',
+        buttonIdB: 'title-42-b-answer4',
+        buttonIdC: 'title-42-c-answer4',
+        buttonIdD: 'title-42-d-answer4',
+        correctAnswer: 'title-42-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 43,
+        title: `46. Postępowanie kwalifikacyjne do Policji NIE obejmuje `,
+        a: `</br>Art. 25</br>
+      Postępowanie kwalifikacyjne, z zastrzeżeniem ust. 3, składa się z następujących etapów:</br>
+      1) złożenie podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby, a także
+      dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz
+      zawierających dane o uprzednim zatrudnieniu;</br>
+      2) test wiedzy;</br>
+      3) test sprawności fizycznej;</br>
+      4) test psychologiczny;</br>
+      5) przeprowadzenie rozmowy kwalifikacyjnej;</br>
+      6) ustalenie zdolności fizycznej i psychicznej do służby w Policji;</br>
+      7) sprawdzenie w ewidencjach, rejestrach i kartotekach prawdziwości danych zawartych w
+      kwestionariuszu osobowym kandydata do służby;</br>
+      8) przeprowadzenie postępowania sprawdzającego określonego w przepisach o ochronie
+      informacji niejawnych.
+      `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-43-a-answer4',
+        buttonIdB: 'title-43-b-answer4',
+        buttonIdC: 'title-43-c-answer4',
+        buttonIdD: 'title-43-d-answer4',
+        correctAnswer: 'title-43-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 44,
+        title: `47. W granicach swych zadań Policja wykonuje czynności `,
+        a: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu: […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-44-a-answer4',
+        buttonIdB: 'title-44-b-answer4',
+        buttonIdC: 'title-44-c-answer4',
+        buttonIdD: 'title-44-d-answer4',
+        correctAnswer: 'title-44-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 45,
+        title: `48. Komendanta wojewódzkiego Policji powołuje i odwołuje `,
+        a: `</br>Art. 6b.</br>
+      <u>1. Komendanta wojewódzkiego Policji powołuje i odwołuje minister właściwy do spraw
+      wewnętrznych na wniosek Komendanta Głównego Policji złożony po zasięgnięciu opinii
+      wojewody.</br></u>
+      2. Komendanta Stołecznego Policji powołuje i odwołuje minister właściwy do spraw wewnętrznych
+      na wniosek Komendanta Głównego Policji złożony po zasięgnięciu opinii wojewody oraz opinii
+      Prezydenta m.st. Warszawy.</br>
+      3. Komendant Główny Policji, na wniosek komendanta wojewódzkiego lub odpowiednio
+      Komendanta Stołecznego Policji, powołuje i odwołuje do trzech zastępców komendanta
+      wojewódzkiego lub Komendanta Stołecznego Policji, w tym I zastępcę.</br>
+      4. Na stanowisko komendanta wojewódzkiego i Komendanta Stołecznego Policji oraz zastępców
+      komendanta wojewódzkiego i Komendanta Stołecznego Policji powołuje się oficerów Policji, z
+      wyjątkiem stanowisk zastępców do spraw służb wspomagających działalność Policji, na które
+      można powołać także osoby niebędące policjantami.</br>
+      5. W razie zwolnienia stanowiska komendanta wojewódzkiego lub Komendanta Stołecznego Policji
+      Komendant Główny Policji, do czasu powołania nowego komendanta, powierza pełnienie
+      obowiązków komendanta wojewódzkiego albo Komendanta Stołecznego Policji, na okres nie
+      dłuższy niż 6 miesięcy, jednemu z jego zastępców lub wyznaczonemu oficerowi.</br>
+      6. W przypadku nieotrzymania opinii, o których mowa w ust. 1 lub ust. 2, minister właściwy do
+      spraw wewnętrznych, na wniosek Komendanta Głównego Policji, może powołać komendanta
+      wojewódzkiego albo Komendanta Stołecznego Policji po upływie 14 dni od dnia przedstawienia
+      wniosku o wydanie opinii.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-45-a-answer4',
+        buttonIdB: 'title-45-b-answer4',
+        buttonIdC: 'title-45-c-answer4',
+        buttonIdD: 'title-45-d-answer4',
+        correctAnswer: 'title-45-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 46,
+        title: `49. Komendant Centralnego Biura Śledczego Policji jest organem Policji podległym `,
+        a: `</br>Art. 5a</br>
+      2. Komendant Centralnego Biura Śledczego Policji, zwany dalej „Komendantem CBŚP”, jest
+      organem Policji podległym Komendantowi Wojewódzkiemu Policji, kieruje CBŚP i jest przełożonym
+      policjantów CBŚP.`,
+        b: `</br>Art. 5a</br>
+      2. Komendant Krajowego Biura Śledczego Policji, zwany dalej „Komendantem CBŚP”, jest
+      organem Policji podległym Komendantowi Głównemu Policji, kieruje CBŚP i jest przełożonym
+      policjantów CBŚP.`,
+        c: `</br>Art. 5a</br>
+      2. Komendant Centralnego Biura Śledczego Policji, zwany dalej „Komendantem CBŚ”, jest
+      organem Policji podległym Komendantowi Głównemu Policji, kieruje CBŚP i jest przełożonym
+      policjantów CBŚ.`,
+        d: `</br>Art. 5a</br>
+      2. Komendant Centralnego Biura Śledczego Policji, zwany dalej „Komendantem CBŚP”, jest
+      organem Policji podległym Komendantowi Głównemu Policji, kieruje CBŚP i jest przełożonym
+      policjantów CBŚP.`,
+        buttonIdA: 'title-46-a-answer4',
+        buttonIdB: 'title-46-b-answer4',
+        buttonIdC: 'title-46-c-answer4',
+        buttonIdD: 'title-46-d-answer4',
+        correctAnswer: 'title-46-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 47,
+        title: `50. Początek służby w Policji liczy się od dnia `,
+        a: `</br>Art. 28</br>
+      2. Początek służby liczy się od dnia określonego w rozkazie o powołaniu funkcjonariusza Policji.`,
+        b: `</br>Art. 28</br>
+      2. Początek służby liczy się od dnia określonego w rozkazie o wstawieniu się funkcjonariusza Policji.`,
+        c: `</br>Art. 28</br>
+      2. Początek służby liczy się od dnia określonego w rozkazie o ślubowaniu funkcjonariusza Policji.`,
+        d: `</br>Art. 28</br>
+      2. Początek służby liczy się od dnia określonego w rozkazie o mianowaniu funkcjonariusza Policji.`,
+        buttonIdA: 'title-47-a-answer4',
+        buttonIdB: 'title-47-b-answer4',
+        buttonIdC: 'title-47-c-answer4',
+        buttonIdD: 'title-47-d-answer4',
+        correctAnswer: 'title-47-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 48,
+        title: `51. Służbę w Policji może pełnić obywatel 
+      `,
+        a: `</br>Art. 25</br>
+      1. Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której gotów jest się podporządkować, a także dający rękojmię zachowania
+      tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych.
+      2. Przyjęcie kandydata do służby w Policji następuje po przeprowadzeniu postępowania
+      kwalifikacyjnego mającego na celu ustalenie, czy kandydat spełnia warunki przyjęcia do służby w
+      Policji oraz określenie jego predyspozycji do pełnienia tej służby.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-48-a-answer4',
+        buttonIdB: 'title-48-b-answer4',
+        buttonIdC: 'title-48-c-answer4',
+        buttonIdD: 'title-48-d-answer4',
+        correctAnswer: 'title-48-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 49,
+        title: `52. Służby w Policji NIE może pełnić obywatel polski o nieposzlakowanej opinii, który`,
+        a: `</br>Art. 25</br>
+      1.Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii, <u>który nie był skazany
+      prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe</u>, korzystający z pełni
+      praw publicznych, posiadający co najmniej wykształcenie średnie lub średnie branżowe oraz
+      zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, podległych szczególnej
+      dyscyplinie służbowej, której gotów jest się podporządkować, a także dający rękojmię zachowania
+      tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych.
+      2. Przyjęcie kandydata do służby w Policji następuje po przeprowadzeniu postępowania
+      kwalifikacyjnego mającego na celu ustalenie, czy kandydat spełnia warunki przyjęcia do służby w
+      Policji oraz określenie jego predyspozycji do pełnienia tej służby.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-49-a-answer4',
+        buttonIdB: 'title-49-b-answer4',
+        buttonIdC: 'title-49-c-answer4',
+        buttonIdD: 'title-49-d-answer4',
+        correctAnswer: 'title-49-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 50,
+        title: `53. Policjanci w toku wykonywania czynności służbowych`,
+        a: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami poszukiwanymi";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami zaginionymi".</br>
+      2. Policja wykonuje również czynności na polecenie sądu, prokuratora, organów administracji
+      państwowej i samorządu terytorialnego w zakresie, w jakim obowiązek ten został określony w
+      odrębnych ustawach.</br>
+      <u>3. Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania
+      godności ludzkiej oraz przestrzegania i ochrony praw człowieka.</u>`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-50-a-answer4',
+        buttonIdB: 'title-50-b-answer4',
+        buttonIdC: 'title-50-c-answer4',
+        buttonIdD: 'title-50-d-answer4',
+        correctAnswer: 'title-50-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 51,
+        title: `54. Funkcjonariusz Policji podczas przeprowadzania interwencji domowej zatrzymał sprawcę
+      przemocy w rodzinie, który swoim zachowaniem stwarzał realne zagrożenie dla życia i
+      zdrowia domowników. Funkcjonariusz Policji postąpił `,
+        a: `</br>Art. 15a.</br>
+      1.Policjant ma prawo zatrzymania, w trybie określonym w art. 15, osoby stosującej przemoc
+      domową w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w
+      rodzinie (Dz. U. z 2021 r. poz. 1249), zwanej dalej "ustawą o przeciwdziałaniu przemocy w
+      rodzinie", stwarzającej bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego.
+      […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-51-a-answer4',
+        buttonIdB: 'title-51-b-answer4',
+        buttonIdC: 'title-51-c-answer4',
+        buttonIdD: 'title-51-d-answer4',
+        correctAnswer: 'title-51-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 52,
+        title: `55. Przed podjęciem służby policjant składa ślubowanie, w którym zobowiązuje się do
+      przestrzegania zasad `,
+        a: `</br>Art. 27</br>
+      1. Przed podjęciem służby policjant składa ślubowanie według następującej roty: "Ja, obywatel
+      Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków policjanta, ślubuję: służyć wiernie
+      Narodowi, chronić ustanowiony Konstytucją Rzeczypospolitej Polskiej porządek prawny, strzec
+      bezpieczeństwa Państwa i jego obywateli, nawet z narażeniem życia. Wykonując powierzone mi
+      zadania, ślubuję pilnie przestrzegać prawa, dochować wierności konstytucyjnym organom
+      Rzeczypospolitej Polskiej, przestrzegać dyscypliny służbowej oraz wykonywać rozkazy i polecenia
+      przełożonych. Ślubuję strzec tajemnic związanych ze służbą, honoru, godności i dobrego imienia
+      służby oraz <u>przestrzegać zasad etyki zawodowej.</u>`,
+        b: `</br>Art. 27</br>
+      1. Przed podjęciem służby policjant składa ślubowanie według następującej roty: "Ja, obywatel
+      Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków policjanta, ślubuję: służyć wiernie
+      Narodowi, chronić ustanowiony Konstytucją Rzeczypospolitej Polskiej porządek prawny, strzec
+      bezpieczeństwa Państwa i jego obywateli, nawet z narażeniem życia. Wykonując powierzone mi
+      zadania, ślubuję pilnie przestrzegać prawa, dochować wierności konstytucyjnym organom
+      Rzeczypospolitej Polskiej, przestrzegać dyscypliny służbowej oraz wykonywać rozkazy i polecenia
+      przełożonych. Ślubuję strzec tajemnic związanych ze służbą, honoru, godności i dobrego imienia
+      służby oraz <u>przestrzegać zasad etyki policjanta.</u>`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-52-a-answer4',
+        buttonIdB: 'title-52-b-answer4',
+        buttonIdC: 'title-52-c-answer4',
+        buttonIdD: 'title-52-d-answer4',
+        correctAnswer: 'title-52-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 53,
+        title: `56. Zasady etyki zawodowej policjanta wynikają z`,
+        a: `</br>Art. 7</br>
+      1. Komendant Główny Policji określa:</br>
+      […]</br>
+      2. 7) zasady etyki zawodowej policjantów, po zasięgnięciu opinii prezydenta; </br>
+      Zasady etyki są ustalone w ZARZĄDZENIU NR 805 KOMENDANTA GŁÓWNEGO POLICJI z dnia 31
+grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
+`,
+        b: `</br>Art. 7</br>
+      1. Komendant Wojewódzki Policji określa:</br>
+      […]</br>
+      2. 7) zasady etyki zawodowej policjantów, po zasięgnięciu opinii związków zawodowych;</br>
+      Zasady etyki są ustalone w ZARZĄDZENIU NR 805 KOMENDANTA GŁÓWNEGO POLICJI z dnia 31
+grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
+`,
+
+        c: `</br>Art. 7</br>
+      1. Komendant Główny Policji określa:</br>
+      […]</br>
+      2. 7) zasady etyki zawodowej policjantów, po zasięgnięciu opinii związków zawodowych;</br>
+      Zasady etyki są ustalone w ZARZĄDZENIU NR 805 KOMENDANTA GŁÓWNEGO POLICJI z dnia 31
+grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
+`,
+
+        d: `</br>Art. 7</br>
+      1. Komendant Główny Policji określa:</br>
+      […]</br>
+      2. 7) zasady policjantów, po zasięgnięciu opinii związków zawodowych;</br>
+      Zasady etyki są ustalone w ZARZĄDZENIU NR 805 KOMENDANTA GŁÓWNEGO POLICJI z dnia 31
+grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
+`,
+        buttonIdA: 'title-53-a-answer4',
+        buttonIdB: 'title-53-b-answer4',
+        buttonIdC: 'title-53-c-answer4',
+        buttonIdD: 'title-53-d-answer4',
+        correctAnswer: 'title-53-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 54,
+        title: `57. W korpusie oficerów starszych Policji, wyróżniamy następujące stopnie policyjne: `,
+        a: `</br>Art. 47</br>
+      2) w korpusie oficerów młodszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;`,
+
+        b: `</br>Art. 47</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;`,
+
+        c: `</br>Art. 47</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) starszy inspektor Policji,</br>
+      c) podinspektor Policji;`,
+
+        d: `</br>Art. 47</br>
+      2) w korpusie oficerów młodszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) starszy inspektor Policji;`,
+        buttonIdA: 'title-54-a-answer4',
+        buttonIdB: 'title-54-b-answer4',
+        buttonIdC: 'title-54-c-answer4',
+        buttonIdD: 'title-54-d-answer4',
+        correctAnswer: 'title-54-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 55,
+        title: `58. W korpusie oficerów starszych Policji wyróżnia się | 59. W Do korpusu oficerów starszych Policji, zaliczamy stopnie policyjne w następującym
+      porządku: 
+      `,
+        a: `</br>Art. 47</br>
+      2) w korpusie oficerów młodszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;`,
+
+        b: `</br>Art. 47</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-55-a-answer4',
+        buttonIdB: 'title-55-b-answer4',
+        buttonIdC: 'title-55-c-answer4',
+        buttonIdD: 'title-55-d-answer4',
+        correctAnswer: 'title-55-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 56,
+        title: `60. Umundurowana i uzbrojona formacja służącą społeczeństwu i przeznaczona do ochrony
+      bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku publicznego, to`,
+        a: `</br>Art. 1</br>
+      1. Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i
+      przeznaczoną do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku
+      publicznego.</br>
+      1a. Nazwa „Policja” przysługuje wyłącznie formacji, o której mowa w ust.
+      `,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-56-a-answer4',
+        buttonIdB: 'title-56-b-answer4',
+        buttonIdC: 'title-56-c-answer4',
+        buttonIdD: 'title-56-d-answer4',
+        correctAnswer: 'title-56-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 57,
+        title: `61. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+      postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego - na czas nie dłuższy niż `,
+        a: `</br>Art. 39</br>
+      1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+      postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+      oskarżenia publicznego - na czas nie dłuższy niż 2 miesiące.`,
+        b: `</br>Art. 39</br>
+      1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+      postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+      oskarżenia publicznego - na czas nie dłuższy niż 3 miesiące.`,
+        c: `</br>Art. 39</br>
+      1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+      postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+      oskarżenia publicznego - na czas nie dłuższy niż 4 miesiące.`,
+        d: ``,
+        buttonIdA: 'title-57-a-answer4',
+        buttonIdB: 'title-57-b-answer4',
+        buttonIdC: 'title-57-c-answer4',
+        buttonIdD: 'title-57-d-answer4',
+        correctAnswer: 'title-57-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 58,
+        title: `62. Policjantowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie i
+      doskonali kwalifikacje zawodowe nie może być udzielone wyróżnienie `,
+        a: `Art. 87</br>
+      1. Policjantowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie i doskonali
+      kwalifikacje zawodowe, mogą być udzielane wyróżnienia:</br>
+      1) pochwała;</br>
+      2) krótkoterminowy dodatkowy urlop wypoczynkowy w wymiarze do 10 dni roboczych;</br>
+      3) przyznanie odznaki resortowej;</br>
+      4) przedterminowe mianowanie na wyższy stopień policyjny.</br>
+      2. Wyróżnienia udziela policjantowi uprawniony przełożony, o którym mowa w art. 32 właściwość
+      organów w sprawach personalnych policjantów, ust. 1.</br>
+      <u>3. Wyróżnienia nie udziela się policjantowi:</br>
+      1) ukaranemu karą dyscyplinarną, przed jej zatarciem;</br>
+      2) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało
+      warunkowo umorzone, przez okres roku od dnia uprawomocnienia się orzeczenia.</br></u>
+      4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb
+      postępowania przy udzielaniu wyróżnień policjantom, uwzględniając zakres uprawnień
+      przełożonych do udzielania wyróżnień oraz formę udzielania wyróżnień.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-58-a-answer4',
+        buttonIdB: 'title-58-b-answer4',
+        buttonIdC: 'title-58-c-answer4',
+        buttonIdD: 'title-58-d-answer4',
+        correctAnswer: 'title-58-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 59,
+        title: `63. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia służbowego, jeżeli
+      wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem `,
+        a: `Art. 58</br>
+      1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.</br>
+      <u>2. Policjant obowiązany jest odmówić wykonania rozkazu lub polecenia przełożonego, a także
+      polecenia prokuratora, organu administracji państwowej lub samorządu terytorialnego, jeśli
+      wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem przestępstwa.</u></br>
+      3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, policjant powinien
+      zameldować Komendantowi Głównemu Policji z pominięciem drogi służbowej.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-59-a-answer4',
+        buttonIdB: 'title-59-b-answer4',
+        buttonIdC: 'title-59-c-answer4',
+        buttonIdD: 'title-59-d-answer4',
+        correctAnswer: 'title-59-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 60,
+        title: `64. W korpusie podoficerów Policji stopniem policyjnym NIE jest (zaznacz poprawnie wypisanych podoficerów) | 65. W korpusie podoficerów Policji wyróżniamy następujące stopnie policyjne: | 66. W korpusie podoficerów Policji wyróżniamy stopień (tutaj pewnie dadzą jeden stopień podoficerski i np posterunkowy, młodszy inspektor ... i będzie do wyboru jeden poprawny)`,
+        a: `</br>Art. 47</br>
+      5) w korpusie podoficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) sierżant Policji;`,
+        b: `</br>Art. 47</br>
+      5) w korpusie podoficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) młodszy sierżant Policji;`,
+        c: `</br>Art. 47</br>
+      5) w korpusie nadoficerów Policji:</br>
+      a) starszy sierżant sztabowy Policji, </br>
+      b) sierżant sztabowy Policji,</br>
+      c) starszy sierżant Policji,</br>
+      d) sierżant Policji;`,
+        d: `</br>Art. 47</br>
+      5) w korpusie oficerów Policji:</br>
+      a) sierżant sztabowy Policji,</br>
+      b) starszy sierżant Policji,</br>
+      c) sierżant Policji;`,
+        buttonIdA: 'title-60-a-answer4',
+        buttonIdB: 'title-60-b-answer4',
+        buttonIdC: 'title-60-c-answer4',
+        buttonIdD: 'title-60-d-answer4',
+        correctAnswer: 'title-60-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 61,
+        title: `67. Stosunek służbowy policjanta powstaje w drodze mianowania na podstawie 
+      `,
+        a: `</br>Art. 28</br>
+      1. Stosunek służbowy policjanta powstaje w drodze mianowania na podstawie dobrowolnego
+      zgłoszenia się do służby`,
+        b: `</br>Art. 28</br>
+      1. Stosunek służbowy policjanta ustaje w drodze mianowania na podstawie dobrowolnego
+      zgłoszenia się do służby`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-61-a-answer4',
+        buttonIdB: 'title-61-b-answer4',
+        buttonIdC: 'title-61-c-answer4',
+        buttonIdD: 'title-61-d-answer4',
+        correctAnswer: 'title-61-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 62,
+        title: `68. Szczegółowy zakres zadań i zasady organizacji policji sądowej, która wchodzi w skład
+      Policji określa 
+      `,
+        a: `</br>Art. 4.</br>
+      1. W Policji, z uwagi na zakres i charakter wykonywanych zadań, wyróżnia się następujące rodzaje
+      służb:</br>
+      1) kryminalną;</br>
+      2) śledczą;</br>
+      3) spraw wewnętrznych;</br>
+      4) prewencyjną;</br>
+      5) kontrterrorystyczną;</br>
+      6) zwalczania cyberprzestępczości;</br>
+      7) wspomagającą.</br>
+      2. W skład Policji wchodzi policja sądowa. <u>Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw wewnętrznych, w
+      porozumieniu z ministrem właściwym do spraw sprawiedliwości.</u></br>
+      3. W skład Policji wchodzą również:</br>
+      1) Wyższa Szkoła Policji, ośrodki szkolenia i szkoły policyjne;</br>
+      2) wyodrębnione oddziały prewencji.</br>
+      3) (uchylony).</br>
+      3a. Organizację i zakres działania Wyższej Szkoły Policji w Szczytnie jako szkoły wyższej oraz tryb
+      wyznaczania i odwoływania rektora i osoby pełniącej w uczelni służb państwowych funkcję
+      kierowniczą do spraw realizacji zadań uczelni jako jednostki organizacyjnej właściwej służby oraz
+      tryb powierzania funkcji kierowniczych policjantom pełniącym służbę na stanowiskach nauczycieli
+      akademickich reguluje ustawa z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U.
+      z 2022 r. poz. 574, z późn. zm.).</br>
+      3b. (uchylony).</br>
+      4. Komendant Główny Policji, za zgodą ministra właściwego do spraw wewnętrznych, może
+      powoływać, w uzasadnionych przypadkach, inne niż wymienione w ust. 1 rodzaje służb, określając
+      ich właściwość terytorialną, organizację i zakres działania.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-62-a-answer4',
+        buttonIdB: 'title-62-b-answer4',
+        buttonIdC: 'title-62-c-answer4',
+        buttonIdD: 'title-62-d-answer4',
+        correctAnswer: 'title-62-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 63,
+        title: `69. Szczegółowy zakres zadań i zasady organizacji policji sądowej określa, w drodze
+      rozporządzenia `,
+        a: `</br>Art. 4.</br>
+      1. W Policji, z uwagi na zakres i charakter wykonywanych zadań, wyróżnia się następujące rodzaje
+      służb:</br>
+      1) kryminalną;</br>
+      2) śledczą;</br>
+      3) spraw wewnętrznych;</br>
+      4) prewencyjną;</br>
+      5) kontrterrorystyczną;</br>
+      6) zwalczania cyberprzestępczości;</br>
+      7) wspomagającą.</br>
+      2. W skład Policji wchodzi policja sądowa. Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw sprawiedliwości, w
+      porozumieniu z ministrem właściwym do spraw wewnętrznych.`,
+        b: `</br>Art. 4.</br>
+      1. W Policji, z uwagi na zakres i charakter wykonywanych zadań, wyróżnia się następujące rodzaje
+      służb:</br>
+      1) kryminalną;</br>
+      2) śledczą;</br>
+      3) spraw wewnętrznych;</br>
+      4) prewencyjną;</br>
+      5) kontrterrorystyczną;</br>
+      6) zwalczania cyberprzestępczości;</br>
+      7) wspomagającą.</br>
+      2. W skład Policji wchodzi policja sądowa. Szczegółowy zakres zadań i zasady organizacji policji
+      sądowej określa, w drodze rozporządzenia, minister właściwy do spraw wewnętrznych, w
+      porozumieniu z ministrem właściwym do spraw sprawiedliwości.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-63-a-answer4',
+        buttonIdB: 'title-63-b-answer4',
+        buttonIdC: 'title-63-c-answer4',
+        buttonIdD: 'title-63-d-answer4',
+        correctAnswer: 'title-63-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 64,
+        title: `70. Policjanta zwalnia się ze służby w przypadku `,
+        a: `</br>Art. 41</br>
+      1.
+      Policjanta zwalnia się ze służby w przypadkach:</br>
+      1)orzeczenia trwałej niezdolności do służby przez komisję lekarską;</br>
+      2)nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;
+      3)wymierzenia kary dyscyplinarnej wydalenia ze służby;</br>
+      4)skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+      ścigane z oskarżenia publicznego;</br>
+      4a)wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu
+      wykonywania zawodu policjanta;</br>
+      5)zrzeczenia się obywatelstwa polskiego lub nabycia obywatelstwa innego państwa;</br>
+      6)upływu okresu służby określonego w kontrakcie, jeżeli nie nastąpi zawarcie kolejnego kontraktu
+      lub mianowanie na stałe;</br>
+      7)upływu okresu próbnego służby kontraktowej, jeżeli policjant lub przełożony skorzystał z
+      uprawnienia określonego w art. 28a mianowanie na stanowisko podstawowe ust. 4.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-64-a-answer4',
+        buttonIdB: 'title-64-b-answer4',
+        buttonIdC: 'title-64-c-answer4',
+        buttonIdD: 'title-64-d-answer4',
+        correctAnswer: 'title-64-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 65,
+        title: `71. Jednym z podstawowych zadań Policji jest 
+      `,
+        a: `</br>Art. 1</br>
+      Do podstawowych zadań Policji należą:</br>
+      1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+      dobra;</br>
+      2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+      publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+      na wodach przeznaczonych do powszechnego korzystania;</br>
+      3) inicjowanie i organizowanie działań mających na celu zapobieganie popełnianiu przestępstw i
+      wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami
+      państwowymi, samorządowymi i organizacjami społecznymi;</br>
+      3a) prowadzenie działań kontrterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o
+      działaniach antyterrorystycznych (Dz. U. z 2019 r. poz. 796);</br>
+      4) wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców;</br>
+      4a) ochrona obiektów stanowiących siedziby członków Rady Ministrów, z wyłączeniem obiektów
+      służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości, wskazanych przez ministra
+      właściwego do spraw wewnętrznych;</br>
+      5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi w zakresie określonym w
+      odrębnych przepisach;</br>
+      6) kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością
+      publiczną lub obowiązujących w miejscach publicznych;</br>
+      7) współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z
+      organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych
+      oraz odrębnych przepisów;</br>
+      8) przetwarzanie informacji kryminalnych, w tym danych osobowych;</br>
+      9) (uchylony)</br>
+      10) prowadzenie zbiorów danych zawierających informacje gromadzone przez uprawnione organy
+      o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc
+      przestępstw oraz o wynikach analizy kwasu deoksyrybonukleinowego (DNA).`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-65-a-answer4',
+        buttonIdB: 'title-65-b-answer4',
+        buttonIdC: 'title-65-c-answer4',
+        buttonIdD: 'title-65-d-answer4',
+        correctAnswer: 'title-65-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 66,
+        title: `72. Policja wykonuje czynności operacyjno-rozpoznawcze m.in. w celu `,
+        a: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami ukrywającymi się";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami zaginionymi".`,
+        b: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami poszukiwanymi";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami zaginionymi".`,
+        c: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami poszukiwanymi";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami poszukiwanymi".`,
+        d: ``,
+        buttonIdA: 'title-66-a-answer4',
+        buttonIdB: 'title-66-b-answer4',
+        buttonIdC: 'title-66-c-answer4',
+        buttonIdD: 'title-66-d-answer4',
+        correctAnswer: 'title-66-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 67,
+        title: `73. W korpusie oficerów młodszych Policji najniższym stopniem jest`,
+        a: `</br>Art. 47</br>
+      1. Ustanawia się korpusy Policji i stopnie policyjne w następującym porządku:</br>
+      1) w korpusie generałów Policji:</br>
+      a) generalny inspektor Policji,</br>
+      b) nadinspektor Policji;</br>
+      2) w korpusie oficerów starszych Policji:</br>
+      a) inspektor Policji,</br>
+      b) młodszy inspektor Policji,</br>
+      c) podinspektor Policji;</br>
+      3) w korpusie oficerów młodszych Policji:</br>
+      a) nadkomisarz Policji,</br>
+      b) komisarz Policji,</br>
+      <u>c) podkomisarz Policji;</u>`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-67-a-answer4',
+        buttonIdB: 'title-67-b-answer4',
+        buttonIdC: 'title-67-c-answer4',
+        buttonIdD: 'title-67-d-answer4',
+        correctAnswer: 'title-67-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 68,
+        title: `74. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na
+      okres `,
+        a: `</br>Art. 29</br>
+      1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres
+      2 lat.`,
+        b: `</br>Art. 29</br>
+      1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres
+      3 lat.`,
+        c: `</br>Art. 29</br>
+      1. Osobę przyjętą do służby w Policji mianuje się policjantem w służbie przygotowawczej na okres
+      4 lat.`,
+        d: ``,
+        buttonIdA: 'title-68-a-answer4',
+        buttonIdB: 'title-68-b-answer4',
+        buttonIdC: 'title-68-c-answer4',
+        buttonIdD: 'title-68-d-answer4',
+        correctAnswer: 'title-68-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 69,
+        title: `75. Policjant ma prawo wydawania osobom poleceń określonego zachowania się w granicach
+      niezbędnych do wykonania czynności`,
+        a: `</br>Art. 15</br>
+      1.Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+      1)legitymowania osób w celu ustalenia ich tożsamości;</br>
+      2)zatrzymywania osób w trybie i przypadkach określonych w przepisach Kodeksu postępowania
+      karnego i innych ustaw;</br>
+      2a)zatrzymywania osób pozbawionych wolności, które na podstawie zezwolenia właściwego
+      organu opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły do niego;</br>
+      3)zatrzymywania osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub
+      zdrowia ludzkiego, a także dla mienia;</br>
+      3a)pobierania od osób odcisków linii papilarnych lub wymazu ze śluzówki policzków:</br>
+      a) w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego oraz ustawy z
+      dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających
+      zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2019 r. poz. 2203),</br>
+      b) w celu identyfikacji osób o nieustalonej tożsamości oraz osób usiłujących ukryć swoją
+      tożsamość, jeżeli ustalenie tożsamości w inny sposób nie jest możliwe,</br>
+      c) za ich zgodą – w celu identyfikacji osób zaginionych lub zwłok ludzkich o nieustalonej
+      tożsamości,</br>
+      d) w celu identyfikacji lub wykrywania sprawców przestępstw – na zasadach określonych w
+      niniejszej ustawie;</br>
+      3b)pobierania odcisków linii papilarnych lub materiału biologicznego ze zwłok ludzkich o
+      nieustalonej tożsamości;</br>
+      4)przeszukiwania osób i pomieszczeń w trybie i przypadkach określonych w przepisach Kodeksu
+      postępowania karnego i innych ustaw;</br>
+      4a)obserwowania i rejestrowania przy użyciu środków technicznych obrazu z pomieszczeń
+      przeznaczonych dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, policyjnych izb
+      dziecka, pokoi przejściowych oraz tymczasowych pomieszczeń przejściowych;</br>
+      5)dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków
+      w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego:</br>
+      a) w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary
+      lub</br>
+      b) w celu znalezienia:</br>
+      – broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu
+      zabronionego pod groźbą kary lub
+      – przedmiotów, których posiadanie jest zabronione, lub mogących stanowić dowód w
+      postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 1 zadania Policji
+      ust. 2 pkt 1, 2, 3a, 4, 4a, 6 i 7, oraz przepisów innych ustaw określających zadania Policji lub
+      – przedmiotów podlegających przepadkowi w przypadku uzasadnionego przypuszczenia posiadania
+      przez osobę broni lub takich przedmiotów lub uzasadnionego przypuszczenia ich użycia do
+      popełnienia czynu zabronionego pod groźbą kary
+      – na zasadach i w sposób określony w art. 15d kontrola osobista i art. 15e przeglądanie zawartości
+      bagaży lub sprawdzanie ładunków;</br>
+      […]</br>
+      9)dokonywania sprawdzenia prewencyjnego w celu ochrony przed bezprawnymi zamachami na
+      życie lub zdrowie osób lub mienie lub w celu ochrony przed nieuprawnionymi działaniami
+      skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego lub:</br>
+      a) zapobiegania zdarzeniom o charakterze terrorystycznym […]</br>
+      b) znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwości może
+      spowodować zagrożenie życia lub zdrowia lub bezpieczeństwa przeprowadzonych czynności […]</br>
+      10)wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do
+      wykonywania czynności określonych w pkt 1–5 lub 9 lub wykonywania innych czynności
+      służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań Policji lub w
+      granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia
+      lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to
+      niezbędne do sprawnej realizacji zadań Policji albo uniknięcia zatarcia śladów przestępstwa lub
+      wykroczenia.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-69-a-answer4',
+        buttonIdB: 'title-69-b-answer4',
+        buttonIdC: 'title-69-c-answer4',
+        buttonIdD: 'title-69-d-answer4',
+        correctAnswer: 'title-69-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 70,
+        title: `75. Policjanci wykonując swoje ustawowe uprawnienia mają prawo m.in. do legitymowania
+      osób, którego celem jest `,
+        a: `</br>Art. 15</br>
+      1. Policjanci wykonując czynności, o których mowa w art. 14, mają prawo:</br>
+      1) legitymowania osób w celu ustalenia ich tożsamości;`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-70-a-answer4',
+        buttonIdB: 'title-70-b-answer4',
+        buttonIdC: 'title-70-c-answer4',
+        buttonIdD: 'title-70-d-answer4',
+        correctAnswer: 'title-70-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 71,
+        title: `76. Policja w celu rozpoznawania, zapobiegania i wykrywania przestępstw i wykroczeń
+      wykonuje czynności `,
+        a: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami ukrywającymi się";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami zaginionymi".`,
+        b: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami poszukiwanymi";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami zaginionymi".`,
+        c: `</br>Art. 14</br>
+      1. W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1) rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2) poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej "osobami poszukiwanymi";</br>
+      3) poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej "osobami poszukiwanymi".`,
+        d: ``,
+        buttonIdA: 'title-71-a-answer4',
+        buttonIdB: 'title-71-b-answer4',
+        buttonIdC: 'title-71-c-answer4',
+        buttonIdD: 'title-71-d-answer4',
+        correctAnswer: 'title-71-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 72,
+        title: `77. Zasada, że policjanci w toku wykonywania czynności służbowych mają obowiązek
+      respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka, jest
+      zapisana w`,
+        a: `</br>Art. 14 Ustawy o Policji</br>
+      3. Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania godności
+      ludzkiej oraz przestrzegania i ochrony praw człowieka.`,
+        b: `</br>Art. 14 Zasada etyki Policyjnej</br>
+      3. Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania godności
+      ludzkiej oraz przestrzegania i ochrony praw człowieka.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-72-a-answer4',
+        buttonIdB: 'title-72-b-answer4',
+        buttonIdC: 'title-72-c-answer4',
+        buttonIdD: 'title-72-d-answer4',
+        correctAnswer: 'title-72-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 73,
+        title: `78. Źródłem wszelkich wolności i praw człowieka jest `,
+        a: `Art. 30 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.:</br>
+      Przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i
+      obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem władz
+      publicznych.</br>
+      Art. 14 Ustawy o Policji:</br>
+      3. Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania godności
+      ludzkiej oraz przestrzegania i ochrony praw człowieka.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-73-a-answer4',
+        buttonIdB: 'title-73-b-answer4',
+        buttonIdC: 'title-73-c-answer4',
+        buttonIdD: 'title-73-d-answer4',
+        correctAnswer: 'title-73-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 74,
+        title: `79. Przestrzeganie praw człowieka podczas interwencji policyjnych jest `,
+        a: `Obowiązkowe, wynika wprost z Ustawy o Policji.</br>
+      Art. 14.</br>
+      1.W granicach swych zadań Policja wykonuje czynności: operacyjno-rozpoznawcze,
+      dochodzeniowo-śledcze i administracyjno-porządkowe w celu:</br>
+      1)rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń;</br>
+      2)poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości,
+      zwanych dalej „osobami poszukiwanymi”;</br>
+      3)poszukiwania osób, które na skutek wystąpienia zdarzenia uniemożliwiającego ustalenie miejsca
+      ich pobytu należy odnaleźć w celu zapewnienia ochrony ich życia, zdrowia lub wolności, zwanych
+      dalej „osobami zaginionymi”.</br>
+      2.Policja wykonuje również czynności na polecenie sądu, prokuratora, organów administracji
+      państwowej i samorządu terytorialnego w zakresie, w jakim obowiązek ten został określony w
+      odrębnych ustawach.</br>
+      <u>3.Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania
+      godności ludzkiej oraz przestrzegania i ochrony praw człowieka.</u></br>
+      […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-74-a-answer4',
+        buttonIdB: 'title-74-b-answer4',
+        buttonIdC: 'title-74-c-answer4',
+        buttonIdD: 'title-74-d-answer4',
+        correctAnswer: 'title-74-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
 ];
