@@ -8,9 +8,11 @@ import Test7 from "./Test7.js";
 import Test8 from "./Test8.js";
 import Test9 from "./Test9.js";
 import Test10 from "./Test10.js";
+import Test11 from "./Test11.js";
+import Test12 from "./Test12.js";
+
 
 import AllAnswers from "./AllAnswer.js";
-import Test11 from "./Test11.js";
 
 const answer1 = document.querySelector('#answer1');
 const answer2 = document.querySelector('#answer2');
@@ -23,6 +25,7 @@ const answer8 = document.querySelector('#answer8');
 const answer9 = document.querySelector('#answer9');
 const answer10 = document.querySelector('#answer10');
 const answer11 = document.querySelector('#answer11');
+const answer12 = document.querySelector('#answer12');
 
 const allAnswer = document.querySelector('#answers');
 
@@ -38,6 +41,8 @@ const removeButton = () => {
     answer9.remove();
     answer10.remove();
     answer11.remove();
+    answer12.remove();
+
 
     allAnswer.remove();
 }
@@ -53,6 +58,7 @@ answer8.addEventListener('click', () => removeButton());
 answer9.addEventListener('click', () => removeButton());
 answer10.addEventListener('click', () => removeButton());
 answer11.addEventListener('click', () => removeButton());
+answer12.addEventListener('click', () => removeButton());
 
 allAnswer.addEventListener('click', () => removeButton());
 
@@ -68,5 +74,8 @@ Test8();
 Test9();
 Test10();
 Test11();
+Test12();
 
 AllAnswers();
+
+
