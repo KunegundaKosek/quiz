@@ -177,11 +177,11 @@ export default function Test11() {
             main.textContent = '';
 
             const scoreText = document.createElement('h2');
-            scoreText.textContent = `Liczba punktów: ${score} / 14`;
+            scoreText.textContent = `Liczba punktów: ${score} / 28`;
             scoreText.className = 'main__scoreText';
 
             const percent = document.createElement('p');
-            percent.textContent = `${((score / 14) * 100).toFixed(2)}%`;
+            percent.textContent = `${((score / 28) * 100).toFixed(2)}%`;
 
             const goodList = document.createElement('ul');
             goodList.textContent = 'Poprawne odpowiedzi: ';

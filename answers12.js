@@ -449,340 +449,329 @@ export const answer12 = [
     },
 
     {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
+      id: 18,
+      title: `19. Szczególną rozwagą powinien kierować się policjant podejmując decyzję o użyciu `,
+      a: `</br>§ 5</br>
+      Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+      pośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+      środków.`,
+      b: `</br>§ 5</br>
+      Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+      bezpośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+      środków.`,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-18-a-answer12',
+      buttonIdB: 'title-18-b-answer12',
+      buttonIdC: 'title-18-c-answer12',
+      buttonIdD: 'title-18-d-answer12',
+      correctAnswer: 'title-18-b-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
+      id: 19,
+      title: `20. Policjant powinien wykonywać czynności służbowe wykazując się `,
+      a: `</br>§ 3</br>
+      Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością i odwagą.`,
+      b: `</br>§ 3</br>
+      Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.`,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-19-a-answer12',
+      buttonIdB: 'title-19-b-answer12',
+      buttonIdC: 'title-19-c-answer12',
+      buttonIdD: 'title-19-d-answer12',
+      correctAnswer: 'title-19-b-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
+      id: 20,
+      title: `21. Znajomy policjanta poprosił go o sprawdzenie czy samochód, który chce zakupić nie jest
+      kradziony. Funkcjonariusz sprawdził w policyjnej bazie wszystkie informacje o pojeździe
+      oraz jego właścicielu i przekazał je koledze. Policjant postąpił `,
+      a: `</br>§ 12.</br>
+      Policjant nie może wykorzystywać swojego zawodu do celów prywatnych, a w szczególności nie
+      może wykorzystywać informacji uzyskanych w związku z wykonywaniem obowiązków służbowych
+      ani uzyskiwać informacji do tych celów przy użyciu służbowych metod.`,
+      b: `</br>§ 12.</br>
+      Policjant może wykorzystywać swojego zawodu do celów prywatnych, a w szczególności
+      może wykorzystywać informacji uzyskanych w związku z wykonywaniem obowiązków służbowych
+      i uzyskiwać informacje do tych celów przy użyciu służbowych metod.`,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-20-a-answer12',
+      buttonIdB: 'title-20-b-answer12',
+      buttonIdC: 'title-20-c-answer12',
+      buttonIdD: 'title-20-d-answer12',
+      correctAnswer: 'title-20-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
+      id: 21,
+      title: `22. Jeżeli policjant znajdzie się w sytuacji służbowej nieuregulowanej przepisami prawa lub
+      nieujętej w zasadach etyki zawodowej powinien `,
+      a: `</br>§ 2</br>
+      W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+      zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+      aby jego działania nie mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+      zaufania do Policji.`,
+      b: `</br>§ 2</br>
+      W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+      zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+      aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+      zaufania do Policji.`,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-21-a-answer12',
+      buttonIdB: 'title-21-b-answer12',
+      buttonIdC: 'title-21-c-answer12',
+      buttonIdD: 'title-21-d-answer12',
+      correctAnswer: 'title-21-b-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 22,
+      title: `23. Zgodnie z zasadami etyki zawodowej, przełożony w stosunku do podwładnego powinien`,
+      a: `<u>§ 16. Przełożony powinien dawać podwładnym przykład nienagannego zachowania, w
+      szczególności nie powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia
+      podległego policjanta.</br></u>
+      § 17. Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań
+      i rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.</br>
+      § 18. Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+      polecenia oraz inspirować i motywować ich do działania.</br>
+      § 19. Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno
+      określonymi i znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.</br>
+      § 20. Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz
+      udzielić mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-22-a-answer12',
+      buttonIdB: 'title-22-b-answer12',
+      buttonIdC: 'title-22-c-answer12',
+      buttonIdD: 'title-22-d-answer12',
+      correctAnswer: 'title-22-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 23,
+      title: `24. W stosunku do ofiar przestępstw lub innego zdarzenia, policjant powinien`,
+      a: `</br>§ 9</br>
+      W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną wrażliwość i
+      takt w stosunku do ofiar przestępstwa lub innego zdarzenia, udzielać im możliwie wszechstronnej
+      pomocy, a także dbać o zachowanie dyskrecji. `,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-23-a-answer12',
+      buttonIdB: 'title-23-b-answer12',
+      buttonIdC: 'title-23-c-answer12',
+      buttonIdD: 'title-23-d-answer12',
+      correctAnswer: 'title-23-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 24,
+      title: `25. Zgodnie z zasadami etyki zawodowej, policjant powinien`,
+      a: `§ 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+      zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+      aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+      zaufania do Policji.</br>
+      § 3. Policjant powinien wykonywać czynności służbowe według najlepszej woli i wiedzy, z należytą
+      uczciwością, rzetelnością, wykazując się odpowiedzialnością, odwagą i ofiarnością.</br>
+      § 7. Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o
+      schludny wygląd.</br>
+      § 8. Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji
+      i cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+      także uwzględniać uzasadnione potrzeby tych osób.</br>
+      § 9. W trakcie wykonywania czynności służbowych policjant powinien zachować szczególną
+      wrażliwość i takt w stosunku do ofiar przestępstwa lub innego zdarzenia, udzielać im możliwie
+      wszechstronnej pomocy, a także dbać o zachowanie dyskrecji.</br>
+      § 10. Zawiadamiając osobę o zamachu na jej dobra lub przekazując najbliższej rodzinie wiadomość
+      dotyczącą osoby bliskiej, która stała się ofiarą przestępstwa lub innego zdarzenia, policjant
+      powinien zachować takt.</br>
+      § 11. Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci
+      oraz zwalczać wszelkie jej przejawy.</br>
+      § 13. Policjant powinien zachować dyskrecję w odniesieniu do informacji mogących zaszkodzić
+      społecznie pojętemu dobru służby lub dobremu imieniu osób uczestniczących w czynnościach
+      podejmowanych przez policjanta.</br>
+      § 15. Policjant powinien w miarę możliwości udzielać pomocy innym policjantom w realizacji
+      zadań służbowych oraz wspierać w rozwiązywaniu ich problemów osobistych.</br>
+      § 21. Policjant powinien rzetelnie wykonywać polecenia przełożonego oraz odnosić się do niego z
+      szacunkiem.</br>
+      § 22. Policjant powinien stale doskonalić i uzupełniać swoją wiedzę oraz umiejętności zawodowe,
+      a także dbać o sprawność fizyczną.</br>
+      § 23. Policjant powinien dbać o społeczny wizerunek Policji jako formacji, w której służy i
+      podejmować działania służące budowaniu zaufania do niej.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-24-a-answer12',
+      buttonIdB: 'title-24-b-answer12',
+      buttonIdC: 'title-24-c-answer12',
+      buttonIdD: 'title-24-d-answer12',
+      correctAnswer: 'title-24-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 25,
+      title: `26. Policjant we wszystkich swoich działaniach ma obowiązek`,
+      a: `</br>§ 4</br>
+      Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej oraz
+      przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:</br>
+      1. respektowaniu prawa każdego człowieka do życia;</br>
+      2. zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+      traktowania albo karania`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-25-a-answer12',
+      buttonIdB: 'title-25-b-answer12',
+      buttonIdC: 'title-25-c-answer12',
+      buttonIdD: 'title-25-d-answer12',
+      correctAnswer: 'title-25-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 26,
+      title: `27. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+      w sprawie ,,Zasad etyki zawodowej policjanta” stosunek policjanta do innych policjantów
+      powinien być oparty na `,
+      a: `</br>§ 14</br>
+      Stosunek policjanta do innych policjantów powinien być oparty na przestrzeganiu zasad
+      poprawnego zachowania, poszanowania godności, a także tolerancji w zakresie nie naruszającym
+      porządku prawnego.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-26-a-answer12',
+      buttonIdB: 'title-26-b-answer12',
+      buttonIdC: 'title-26-c-answer12',
+      buttonIdD: 'title-26-d-answer12',
+      correctAnswer: 'title-26-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 27,
+      title: `28. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+      w sprawie ,,Zasad etyki zawodowej policjanta” w sytuacjach nieuregulowanych
+      przepisami prawa lub nieujętych w zasadach etyki zawodowej policjant powinien
+      kierować się`,
+      a: `</br>§ 2</br>
+      W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+      zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+      aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+      zaufania do Policji.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-27-a-answer12',
+      buttonIdB: 'title-27-b-answer12',
+      buttonIdC: 'title-27-c-answer12',
+      buttonIdD: 'title-27-d-answer12',
+      correctAnswer: 'title-27-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 28,
+      title: `29. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+      w sprawie ,,Zasad etyki zawodowej policjanta” postępowanie policjanta w kontaktach z
+      ludźmi powinna cechować`,
+      a: `</br>§ 6</br>
+      Postępowanie policjanta w kontaktach z ludźmi powinna cechować życzliwość oraz bezstronność
+      wykluczająca uprzedzenia rasowe, narodowościowe, wyznaniowe, polityczne, światopoglądowe
+      lub wynikające z innych przyczyn.
+      `,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-28-a-answer12',
+      buttonIdB: 'title-28-b-answer12',
+      buttonIdC: 'title-28-c-answer12',
+      buttonIdD: 'title-28-d-answer12',
+      correctAnswer: 'title-28-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 29,
+      title: `30. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+      w sprawie ,,Zasad etyki zawodowej policjanta” wykonując zadania służbowe, policjant
+      powinien dostosowywać swoje zachowanie do sytuacji i cech osób uczestniczących w
+      zdarzeniu`,
+      a: `</br>§ 8</br>
+      Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+      cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+      także uwzględniać uzasadnione potrzeby tych osób.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-29-a-answer12',
+      buttonIdB: 'title-29-b-answer12',
+      buttonIdC: 'title-29-c-answer12',
+      buttonIdD: 'title-29-d-answer12',
+      correctAnswer: 'title-29-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 30,
+      title: `31. „Zasady etyki zawodowej policjanta” są uregulowane na podstawie`,
+      a: `Zarządzenia nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 r. w sprawie „Zasad etyki
+      zawodowej policjanta”`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-30-a-answer12',
+      buttonIdB: 'title-30-b-answer12',
+      buttonIdC: 'title-30-c-answer12',
+      buttonIdD: 'title-30-d-answer12',
+      correctAnswer: 'title-30-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 31,
+      title: `32. Zasady etyki zawodowej policjanta zawarte w zarządzeniu nr 805 Komendanta Głównego
+      Policji wynikają z `,
+      a: `</br>§ 1</br>
+      1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+      uwzględniających specyfikę zawodu policjanta.</br>
+      2. Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-
-  
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
-      category:
-          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
-  },
-
-  {
-      id: 1,
-      title: ``,
-      a: ``,
-      b: ``,
-      c: ``,
-      d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-31-a-answer12',
+      buttonIdB: 'title-31-b-answer12',
+      buttonIdC: 'title-31-c-answer12',
+      buttonIdD: 'title-31-d-answer12',
+      correctAnswer: 'title-31-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
@@ -790,116 +779,294 @@ export const answer12 = [
 
   
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 32,
+      title: `33. Policjant będący w trakcie rozwodu poprosił przełożonego o zachowanie dyskrecji w
+      przedmiotowej sprawie. Zgodnie z obowiązującymi przepisami przełożony`,
+      a: `</br>§ 16</br>
+      Przełożony powinien dawać podwładnym przykład nienagannego zachowania, w szczególności nie
+      powinien nadużywać stanowiska, funkcji, stopnia policyjnego w celu poniżenia podległego
+      policjanta.</br>
+      § 20</br>
+      Przełożony powinien wysłuchać podwładnego w sprawach zawodowych i osobistych oraz udzielić
+      mu wsparcia bądź pomocy, z zachowaniem dyskrecji.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-32-a-answer12',
+      buttonIdB: 'title-32-b-answer12',
+      buttonIdC: 'title-32-c-answer12',
+      buttonIdD: 'title-32-d-answer12',
+      correctAnswer: 'title-32-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 33,
+      title: `34. Do wystrzegania się jakiego przestępstwa literalnie, wprost zobowiązują policjantów
+      zasady etyki zawodowej?`,
+      a: `</br>§ 11.</br>
+      Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+      zwalczać wszelkie jej przejawy.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-33-a-answer12',
+      buttonIdB: 'title-33-b-answer12',
+      buttonIdC: 'title-33-c-answer12',
+      buttonIdD: 'title-33-d-answer12',
+      correctAnswer: 'title-33-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 34,
+      title: `35. Policjant, jako funkcjonariusz publiczny, powinien`,
+      a: `</br>§ 11.</br>
+      Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+      zwalczać wszelkie jej przejawy.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-34-a-answer12',
+      buttonIdB: 'title-34-b-answer12',
+      buttonIdC: 'title-34-c-answer12',
+      buttonIdD: 'title-34-d-answer12',
+      correctAnswer: 'title-34-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 35,
+      title: `36. Podstawową wartość chronioną zasadami etyki zawodowej Policji stanowi`,
+      a: `</br>§ 4</br>
+      Policjant we wszystkich swoich działaniach ma obowiązek poszanowania godności ludzkiej oraz
+      przestrzegania i ochrony praw człowieka, w szczególności wyrażający się w:
+      1) respektowaniu prawa każdego człowieka do życia;
+      2) zakazie inicjowania, stosowania i tolerowania tortur bądź nieludzkiego lub poniżającego
+      traktowania albo karania.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-35-a-answer12',
+      buttonIdB: 'title-35-b-answer12',
+      buttonIdC: 'title-35-c-answer12',
+      buttonIdD: 'title-35-d-answer12',
+      correctAnswer: 'title-35-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 36,
+      title: `37. Fundamentalną zasadą etyki zawodowej policjanta poświęconą problematyce korupcji
+      jest zasada`,
+      a: `</br>§ 11</br>
+      Policjant jako funkcjonariusz publiczny powinien wystrzegać się korupcji w każdej postaci oraz
+      zwalczać wszelkie jej przejawy.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-36-a-answer12',
+      buttonIdB: 'title-36-b-answer12',
+      buttonIdC: 'title-36-c-answer12',
+      buttonIdD: 'title-36-d-answer12',
+      correctAnswer: 'title-36-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 37,
+      title: `38. Etyka zawodowa to`,
+      a: `</br>§ 1</br>
+      Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+      służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+      obowiązków i praw policjanta wynikających z demokratycznie stanowionego prawa, wprowadza się
+      "Zasady etyki zawodowej policjanta" stanowiące załącznik do zarządzenia.
+      Załącznik:</br>
+      § 1. Zasady etyki zawodowej policjanta wynikają z ogólnych wartości i norm moralnych
+      uwzględniających specyfikę zawodu policjanta.</br>
+      2.Obowiązkiem policjanta jest przestrzeganie zasad etyki zawodowej.</br>
+      § 2. W sytuacjach nieuregulowanych przepisami prawa lub nieujętych w niniejszych zasadach etyki
+      zawodowej policjant powinien kierować się zasadami współżycia społecznego i postępować tak,
+      aby jego działania mogły być przykładem praworządności i prowadziły do pogłębiania społecznego
+      zaufania do Policji.`,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-37-a-answer12',
+      buttonIdB: 'title-37-b-answer12',
+      buttonIdC: 'title-37-c-answer12',
+      buttonIdD: 'title-37-d-answer12',
+      correctAnswer: 'title-37-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
 
   {
-      id: 1,
-      title: ``,
-      a: ``,
+      id: 38,
+      title: `39. Załącznik do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 r.
+      zawiera zasady `,
+      a: `§ 1. Mając na uwadze znaczenie problematyki moralnej w wykonywaniu zawodu policjanta i jego
+      służebną wobec społeczeństwa rolę, a także konieczność wzmocnienia oraz uzupełnienia
+      obowiązków i praw policjanta wynikających z demokratycznie stanowionego prawa, wprowadza się
+      "Zasady etyki zawodowej policjanta" stanowiące załącznik do zarządzenia.
+      `,
       b: ``,
       c: ``,
       d: ``,
-      buttonIdA: 'title-1-a-answer12',
-      buttonIdB: 'title-1-b-answer12',
-      buttonIdC: 'title-1-c-answer12',
-      buttonIdD: 'title-1-d-answer12',
-      correctAnswer: 'title-1-a-answer12',
+      buttonIdA: 'title-38-a-answer12',
+      buttonIdB: 'title-38-b-answer12',
+      buttonIdC: 'title-38-c-answer12',
+      buttonIdD: 'title-38-d-answer12',
+      correctAnswer: 'title-38-a-answer12',
       category:
           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
   },
+
+
+  
+  {
+      id: 39,
+      title: `40. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu
+      środków przymusu bezpośredniego, powinien zachować `,
+      a: `</br>§ 5</br>
+      Policjant, podejmując decyzję o użyciu broni palnej lub zastosowaniu środków przymusu
+      bezpośredniego, powinien zachować szczególną rozwagę i stale mieć na uwadze charakter tych
+      środków.`,
+      b: ``,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-39-a-answer12',
+      buttonIdB: 'title-39-b-answer12',
+      buttonIdC: 'title-39-c-answer12',
+      buttonIdD: 'title-39-d-answer12',
+      correctAnswer: 'title-39-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+  {
+      id: 40,
+      title: `41. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. policjant powinien przestrzegać zasad `,
+      a: `</br>§ 7.</br>
+      Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o schludny
+      wygląd.`,
+      b: `</br>§ 7.</br>
+      Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o schludny
+      wygląd(chuchro XD).`,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-40-a-answer12',
+      buttonIdB: 'title-40-b-answer12',
+      buttonIdC: 'title-40-c-answer12',
+      buttonIdD: 'title-40-d-answer12',
+      correctAnswer: 'title-40-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+  {
+      id: 41,
+      title: `42. Zgodnie z zarządzeniem nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 roku
+      w sprawie ,,Zasad etyki zawodowej policjanta” wykonując zadania służbowe, policjant
+      powinien dostosowywać swoje zachowanie do sytuacji i cech osób uczestniczących w
+      zdarzeniu, w szczególności`,
+      a: `</br>§ 8</br>
+      Wykonując zadania służbowe, policjant powinien dostosowywać swoje zachowanie do sytuacji i
+      cech osób uczestniczących w zdarzeniu, w szczególności wieku, płci, narodowości i wyznania, a
+      także uwzględniać uzasadnione potrzeby tych osób.`,
+      b: ``,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-41-a-answer12',
+      buttonIdB: 'title-41-b-answer12',
+      buttonIdC: 'title-41-c-answer12',
+      buttonIdD: 'title-41-d-answer12',
+      correctAnswer: 'title-41-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+  {
+      id: 42,
+      title: `43. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. przełożony powinien zapewnić podległym policjantom właściwe warunki
+      wykonywania zadań i rozwoju zawodowego oraz dbać o `,
+      a: `</br>§ 17.</br>
+      Przełożony powinien zapewnić podległym policjantom właściwe warunki wykonywania zadań i
+      rozwoju zawodowego oraz dbać o atmosferę pracy i dobre stosunki międzyludzkie.`,
+      b: ``,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-42-a-answer12',
+      buttonIdB: 'title-42-b-answer12',
+      buttonIdC: 'title-42-c-answer12',
+      buttonIdD: 'title-42-d-answer12',
+      correctAnswer: 'title-42-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+  {
+      id: 43,
+      title: `44. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. przełożony kierując działaniami podległych policjantów powinien`,
+      a: `</br>§ 18.</br>
+      Kierując działaniami podległych policjantów, przełożony powinien wydawać jasne i zrozumiałe
+      polecenia oraz inspirować i motywować ich do działania.`,
+      b: ``,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-43-a-answer12',
+      buttonIdB: 'title-43-b-answer12',
+      buttonIdC: 'title-43-c-answer12',
+      buttonIdD: 'title-43-d-answer12',
+      correctAnswer: 'title-43-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+  {
+      id: 44,
+      title: `45. Zgodnie z treścią załącznika do zarządzenia nr 805 Komendanta Głównego Policji z dnia 31
+      grudnia 2003 r. przełożony oceniając podległych policjantów, jest zobowiązany kierować
+      się `,
+      a: `</br>§ 19.</br>
+      Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się jasno określonymi i
+      znanymi im kryteriami oraz sprawiedliwością i obiektywizmem.`,
+      b: ``,
+      c: ``,
+      d: ``,
+      buttonIdA: 'title-44-a-answer12',
+      buttonIdB: 'title-44-b-answer12',
+      buttonIdC: 'title-44-c-answer12',
+      buttonIdD: 'title-44-d-answer12',
+      correctAnswer: 'title-44-a-answer12',
+      category:
+          'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+  },
+
+//   {
+//       id: ,
+//       title: ``,
+//       a: ``,
+//       b: ``,
+//       c: ``,
+//       d: ``,
+//       buttonIdA: 'title--a-answer12',
+//       buttonIdB: 'title--b-answer12',
+//       buttonIdC: 'title--c-answer12',
+//       buttonIdD: 'title--d-answer12',
+//       correctAnswer: 'title--a-answer12',
+//       category:
+//           'ZARZĄDZENIE NR 805 KOMENDANTA GŁÓWNEGO POLICJI W SPRAWIE ZASA ETYKI ZAWODOWEJ',
+//   },
 
 
 
