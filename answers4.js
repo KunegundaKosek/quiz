@@ -2775,7 +2775,7 @@ grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
 
     do pliku all-answer.js
 
-    
+
     
     
     
@@ -2785,8 +2785,23 @@ grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
 
     {
         id: 75,
-        title: ``,
-        a: ``,
+        title: `80. Policjanci wykonując czynności służbowe mają prawo pobierania`,
+        a: `</br>Art. 15</br>
+        1. Policjanci wykonując czynności, o których mowa w art. 14, mają prawo:</br>
+        1) legitymowania osób w celu ustalenia ich tożsamości;</br>
+        2) zatrzymywania osób w trybie i przypadkach określonych w przepisach Kodeksu postępowania
+        karnego i innych ustaw;</br>
+        2a) zatrzymywania osób pozbawionych wolności, które na podstawie zezwolenia właściwego
+        organu opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły do niego;</br>
+        3) zatrzymywania osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub
+        zdrowia ludzkiego, a także dla mienia;</br>
+        3a) pobierania od osób odcisków linii papilarnych lub wymazu ze śluzówki policzków:</br>
+        a) w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego oraz ustawy z
+        dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających
+        zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2019 r. poz. 2203),</br>
+        b) w celu identyfikacji osób o nieustalonej tożsamości oraz osób usiłujących ukryć swoją
+        tożsamość, jeżeli ustalenie tożsamości w inny sposób nie jest możliwe,c) za ich zgodą - w celu
+        identyfikacji osób zaginionych lub zwłok ludzkich o nieustalonej tożsamości,`,
         b: ``,
         c: ``,
         d: ``,
@@ -2800,8 +2815,11 @@ grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
 
     {
         id: 76,
-        title: ``,
-        a: ``,
+        title: `81. Na mocy ustawy o Policji policjantowi za nieprzestrzeganie zasad etyki zawodowej grozi
+        odpowiedzialność`,
+        a: `</br>Art. 132</br>
+        1. Policjant odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego polegającego
+        na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej. `,
         b: ``,
         c: ``,
         d: ``,
@@ -2815,8 +2833,24 @@ grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
 
     {
         id: 77,
-        title: ``,
-        a: ``,
+        title: `82. Policjantowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie i
+        doskonali kwalifikacje zawodowe, mogą być udzielane wyróżnienia m.in. w postaci `,
+        a: `</br>Art. 87</br>
+        1. Policjantowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie i doskonali
+        kwalifikacje zawodowe, mogą być udzielane wyróżnienia:</br>
+        1) pochwała;</br>
+        2) krótkoterminowy dodatkowy urlop wypoczynkowy w wymiarze do 10 dni roboczych;</br>
+        3) przyznanie odznaki resortowej;</br>
+        4) przedterminowe mianowanie na wyższy stopień policyjny.</br>
+        2. Wyróżnienia udziela policjantowi uprawniony przełożony, o którym mowa w art. 32 właściwość
+        organów w sprawach personalnych policjantów, ust. 1.</br>
+        3. Wyróżnienia nie udziela się policjantowi:</br>
+        1) ukaranemu karą dyscyplinarną, przed jej zatarciem;</br>
+        2) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo
+        umorzone, przez okres roku od dnia uprawomocnienia się orzeczenia.</br>
+        4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb
+        postępowania przy udzielaniu wyróżnień policjantom, uwzględniając zakres uprawnień
+        przełożonych do udzielania wyróżnień oraz formę udzielania wyróżnień.`,
         b: ``,
         c: ``,
         d: ``,
@@ -2829,16 +2863,637 @@ grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”
     },
     {
         id: 78,
-        title: ``,
-        a: ``,
-        b: ``,
-        c: ``,
-        d: ``,
+        title: `83. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w
+        wymiarze `,
+        a: `</br>Art. 87</br>
+        1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze
+        32 dni roboczych.`,
+        b: `</br>Art. 87</br>
+        1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze
+        22 dni roboczych.`,
+        c: `</br>Art. 87</br>
+        1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze
+        20 dni roboczych.`,
+        d: `</br>Art. 87</br>
+        1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze
+        26 dni roboczych.`,
         buttonIdA: 'title-78-a-answer4',
         buttonIdB: 'title-78-b-answer4',
         buttonIdC: 'title-78-c-answer4',
         buttonIdD: 'title-78-d-answer4',
-        correctAnswer: 'title-78-a-answer4',
+        correctAnswer: 'title-78-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 79,
+        title: `84. Czy policjanci mogą zrzeszać się w związkach zawodowych Policji? `,
+        a: `</br>Art. 67</br>
+        Policjanci nie mogą zrzeszać się w związkach zawodowych i nie przysługuje im prawo do
+        strajku.`,
+
+        b: `</br>Art. 67</br>
+        Policjanci mogą zrzeszać się w związkach zawodowych, z tym że nie przysługuje im prawo do
+        strajku.`,
+
+        c: `</br>Art. 67</br>
+        Policjanci mogą zrzeszać się w związkach zawodowych, a także przysługuje im prawo do
+        strajku.`,
+        d: `</br>Art. 67</br>
+        Policjanci nie mogą zrzeszać się w związkach zawodowych, z tym że przysługuje im prawo do
+        strajku.`,
+        buttonIdA: 'title-79-a-answer4',
+        buttonIdB: 'title-79-b-answer4',
+        buttonIdC: 'title-79-c-answer4',
+        buttonIdD: 'title-79-d-answer4',
+        correctAnswer: 'title-79-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 80,
+        title: `85. Policjant jest obowiązany powiadomić swojego bezpośredniego przełożonego o
+        planowanym wyjeździe zagranicznym, poza obszar Unii Europejskiej, na więcej niż `,
+        a: `</br>Art. 64</br>
+Policjant jest obowiązany powiadomić swojego bezpośredniego przełożonego o planowanym
+wyjeździe zagranicznym, poza obszar Unii Europejskiej, na więcej niż 3 dni. `,
+        b: `</br>Art. 64</br>
+Policjant jest obowiązany powiadomić swojego bezpośredniego przełożonego o planowanym
+wyjeździe zagranicznym, poza obszar Unii Europejskiej, na więcej niż 5 dni. `,
+        c: `</br>Art. 64</br>
+Policjant jest obowiązany powiadomić swojego bezpośredniego przełożonego o planowanym
+wyjeździe zagranicznym, poza obszar Unii Europejskiej, na więcej niż 14 dni. `,
+        d: `</br>Art. 64</br>
+Policjant jest obowiązany powiadomić swojego bezpośredniego przełożonego o planowanym
+wyjeździe zagranicznym, poza obszar Unii Europejskiej, na więcej niż 7 dni. `,
+        buttonIdA: 'title-80-a-answer4',
+        buttonIdB: 'title-80-b-answer4',
+        buttonIdC: 'title-80-c-answer4',
+        buttonIdD: 'title-80-d-answer4',
+        correctAnswer: 'title-80-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 81,
+        title: `86. Czy policjant może być członkiem partii politycznej? `,
+        a: `</br>Art. 63</br>
+        1. Policjant nie może być członkiem partii politycznej`,
+        b: `</br>Art. 63</br>
+        1. Policjant może być członkiem partii politycznej`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-81-a-answer4',
+        buttonIdB: 'title-81-b-answer4',
+        buttonIdC: 'title-81-c-answer4',
+        buttonIdD: 'title-81-d-answer4',
+        correctAnswer: 'title-81-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 82,
+        title: `87. Policjant nie może | 88. Policjant może podjąć zajęcie zarobkowe poza służbą `,
+        a: `</br>Art. 63</br>
+        1. Policjant nie może być członkiem partii politycznej.</br>
+        Art. 62</br>
+        1. Policjant nie może podejmować zajęcia zarobkowego poza służbą bez pisemnej zgody
+        przełożonego ani wykonywać czynności lub zajęć sprzecznych z obowiązkami wynikającymi z
+        ustawy lub podważających zaufanie do Policji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-82-a-answer4',
+        buttonIdB: 'title-82-b-answer4',
+        buttonIdC: 'title-82-c-answer4',
+        buttonIdD: 'title-82-d-answer4',
+        correctAnswer: 'title-82-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 83,
+        title: `89. Kto określa przypadki, w których policjant w czasie wykonywania obowiązków
+        służbowych nie ma obowiązku noszenia munduru? 
+        `,
+        a: `</br>Art. 60</br>
+        1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+        2. Komendant Powiatowy Policji określa przypadki, w których policjant w czasie wykonywania
+        obowiązków służbowych nie ma obowiązku noszenia munduru.`,
+        b: `</br>Art. 60</br>
+        1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+        2. Komendant Wojewódzki Policji określa przypadki, w których policjant w czasie wykonywania
+        obowiązków służbowych nie ma obowiązku noszenia munduru.`,
+        c: `</br>Art. 60</br>
+        1. Policjant w czasie służby jest obowiązany do noszenia przepisowego munduru i wyposażenia.</br>
+        2. Komendant Główny Policji określa przypadki, w których policjant w czasie wykonywania
+        obowiązków służbowych nie ma obowiązku noszenia munduru.`,
+        d: ``,
+        buttonIdA: 'title-83-a-answer4',
+        buttonIdB: 'title-83-b-answer4',
+        buttonIdC: 'title-83-c-answer4',
+        buttonIdD: 'title-83-d-answer4',
+        correctAnswer: 'title-83-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 84,
+        title: `90. Policjant jest zobowiązany dochować obowiązków wynikających z `,
+        a: `</br>Art. 58</br>
+        1. Policjant jest obowiązany dochować obowiązków wynikających z roty złożonego ślubowania.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-84-a-answer4',
+        buttonIdB: 'title-84-b-answer4',
+        buttonIdC: 'title-84-c-answer4',
+        buttonIdD: 'title-84-d-answer4',
+        correctAnswer: 'title-84-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 85,
+        title: `91. Komendanta Głównego Policji powołuje i odwołuje na wniosek ministra właściwego do
+        spraw wewnętrznych `,
+        a: `</br>Art. 5</br>
+        3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+        właściwego do spraw zewnętrznych.`,
+        b: `</br>Art. 5</br>
+        3. Komendanta Powiatowego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+        właściwego do spraw wewnętrznych.`,
+        c: `</br>Art. 5</br>
+        3. Komendanta Głównego Policji powołuje i odwołuje Prezydent na wniosek ministra
+        właściwego do spraw wewnętrznych.`,
+        d: `</br>Art. 5</br>
+        3. Komendanta Głównego Policji powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra
+        właściwego do spraw wewnętrznych.`,
+        buttonIdA: 'title-85-a-answer4',
+        buttonIdB: 'title-85-b-answer4',
+        buttonIdC: 'title-85-c-answer4',
+        buttonIdD: 'title-85-d-answer4',
+        correctAnswer: 'title-85-d-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 86,
+        title: `92. Do podstawowych zadań Policji należy ochrona `,
+        a: `</br>Art. 1</br>
+        1. Tworzy się Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu i
+        przeznaczoną do ochrony bezpieczeństwa ludzi oraz do utrzymywania bezpieczeństwa i porządku
+        publicznego.</br>
+        1a. Nazwa "Policja" przysługuje wyłącznie formacji, o której mowa w ust. 1.</br>
+        2. Do podstawowych zadań Policji należą:</br>
+        1) ochrona życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te
+        dobra;</br>
+        2) ochrona bezpieczeństwa i porządku publicznego, w tym zapewnienie spokoju w miejscach
+        publicznych oraz w środkach publicznego transportu i komunikacji publicznej, w ruchu drogowym i
+        na wodach przeznaczonych do powszechnego korzystania;`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-86-a-answer4',
+        buttonIdB: 'title-86-b-answer4',
+        buttonIdC: 'title-86-c-answer4',
+        buttonIdD: 'title-86-d-answer4',
+        correctAnswer: 'title-86-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 87,
+        title: `93. Przełożonym wszystkich funkcjonariuszy Policji jest 
+        `,
+        a: `</br>Art. 5</br>
+        2. Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+        "policjantami".`,
+        b: `</br>Art. 5</br>
+        2. Komendant Powiatowy Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+        "policjantami".`,
+        c: `</br>Art. 5</br>
+        2. Komendant Generalny Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+        "policjantami".`,
+        d: `</br>Art. 5</br>
+        2. Komendant Wojewódzki Policji jest przełożonym wszystkich funkcjonariuszy Policji, zwanych dalej
+        "policjantami".`,
+        buttonIdA: 'title-87-a-answer4',
+        buttonIdB: 'title-87-b-answer4',
+        buttonIdC: 'title-87-c-answer4',
+        buttonIdD: 'title-87-d-answer4',
+        correctAnswer: 'title-87-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 88,
+        title: `94. Komendanta biura spraw wewnętrznych Policji powołuje, spośród oficerów Policji i
+        odwołuje `,
+        a: `</br>Art. 5b.</br>
+        1. Biuro Spraw Wewnętrznych Policji, zwane dalej „BSWP”, jest jednostką organizacyjną Policji
+        służby spraw wewnętrznych realizującą na obszarze całego kraju zadania w zakresie
+        rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez policjantów i
+        pracowników Policji oraz przestępstw przeciwko obrotowi gospodarczemu popełnianych na szkodę
+        Policji, określonych w art 296-306 Kodeksu karnego, a także wykrywania i ścigania sprawców tych
+        przestępstw, a także – w zakresie zleconym przez Inspektora Nadzoru Wewnętrznego –
+        funkcjonariuszy i pracowników Policji, Straży Granicznej i Służby Ochrony Państwa lub strażaków i
+        pracowników Państwowej Straży Pożarnej.</br>
+        2. Komendant Biura Spraw Wewnętrznych Policji, zwany dalej „Komendantem BSWP”, jest
+        organem Policji podległym Komendantowi Głównemu Policji, kieruje BSWP i jest przełożonym
+        policjantów BSWP.</br>
+        3. Siedzibą Komendanta BSWP jest miasto stołeczne Warszawa.</br>
+        4. Komendanta BSWP powołuje, spośród oficerów Policji, i odwołuje minister właściwy do spraw
+        wewnętrznych.</br>
+        5. Zastępców Komendanta BSWP powołuje, spośród oficerów Policji, i odwołuje minister właściwy
+        do spraw wewnętrznych na wniosek Komendanta BSWP. […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-88-a-answer4',
+        buttonIdB: 'title-88-b-answer4',
+        buttonIdC: 'title-88-c-answer4',
+        buttonIdD: 'title-88-d-answer4',
+        correctAnswer: 'title-88-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 89,
+        title: `95. W szczególnie uzasadnionych przypadkach okres zawieszenia policjanta w czynnościach
+        służbowych można przedłużyć`,
+        a: `</br>Art. 39</br>
+        3. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynnościach służbowych
+        można przedłużyć do czasu ukończenia postępowania karnego.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-89-a-answer4',
+        buttonIdB: 'title-89-b-answer4',
+        buttonIdC: 'title-89-c-answer4',
+        buttonIdD: 'title-89-d-answer4',
+        correctAnswer: 'title-89-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 90,
+        title: `96. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+        postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne,
+        ścigane z oskarżenia publicznego na okres nie dłuższy niż 
+        `,
+        a: `</br>Art. 39</br>
+        1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+        postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+        oskarżenia publicznego - na czas nie dłuższy niż 2 miesiące.`,
+        b: `</br>Art. 39</br>
+        1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+        postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+        oskarżenia publicznego - na czas nie dłuższy niż 3 miesiące.`,
+        c: `</br>Art. 39</br>
+        1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+        postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+        oskarżenia publicznego - na czas nie dłuższy niż 1 miesiąc.`,
+        d: `</br>Art. 39</br>
+        1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu
+        postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z
+        oskarżenia publicznego - na czas nie dłuższy niż 4 miesiące.`,
+        buttonIdA: 'title-90-a-answer4',
+        buttonIdB: 'title-90-b-answer4',
+        buttonIdC: 'title-90-c-answer4',
+        buttonIdD: 'title-90-d-answer4',
+        correctAnswer: 'title-90-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 91,
+        title: `97. Policjanta można zwolnić ze służby m.in. w przypadku`,
+        a: `</br>Art. 41</br>
+        1.Policjanta zwalnia się ze służby w przypadkach:</br>
+        1)orzeczenia trwałej niezdolności do służby przez komisję lekarską;</br>
+        2)nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;</br>
+        3)wymierzenia kary dyscyplinarnej wydalenia ze służby;</br>
+        4)skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne,
+        ścigane z oskarżenia publicznego;</br>
+        4a)wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu
+        wykonywania zawodu policjanta;</br>
+        5)zrzeczenia się obywatelstwa polskiego lub nabycia obywatelstwa innego państwa;</br>
+        6)upływu okresu służby określonego w kontrakcie, jeżeli nie nastąpi zawarcie kolejnego kontraktu
+        lub mianowanie na stałe;</br>
+        7)upływu okresu próbnego służby kontraktowej, jeżeli policjant lub przełożony skorzystał z
+        uprawnienia określonego w art. 28a mianowanie na stanowisko podstawowe ust. 4.</br>
+        2.Policjanta można zwolnić ze służby w przypadkach:</br>
+        1)niewywiązywania się z obowiązków służbowych w okresie odbywania służby stałej lub służby
+        kontraktowej, stwierdzonego w 2 kolejnych opiniach, między którymi upłynęło co najmniej 6
+        miesięcy;</br>
+        2)skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe inne niż
+        określone w ust. 1 pkt 4;</br>
+        3)powołania do innej służby państwowej, a także objęcia funkcji z wyboru w organach samorządu
+        terytorialnego lub stowarzyszeniach;</br>
+        4)(uchylony)</br>
+        5)gdy wymaga tego ważny interes służby;</br>
+        6)likwidacji jednostki Policji lub jej reorganizacji połączonej ze zmniejszeniem obsady etatowej,
+        jeżeli przeniesienie policjanta do innej jednostki lub na niższe stanowisko służbowe nie jest
+        możliwe;</br>
+        7)upływu 12 miesięcy od dnia zaprzestania służby z powodu choroby;</br>
+        7a)dwukrotnego nieusprawiedliwionego niestawienia się na badania, o których mowa w art. 40a
+        obowiązek poddania się badaniom zleconym przez komisję lekarską ust. 1, lub niepoddania się im,
+        albo w przypadku dwukrotnego nieusprawiedliwionego niestawienia się na obserwację w
+        podmiocie leczniczym, w przypadku wyrażenia zgody przez funkcjonariusza, chyba że skierowanie
+        do komisji lekarskiej nastąpiło na wniosek funkcjonariusza;</br>
+        8)popełnienia czynu o znamionach przestępstwa albo przestępstwa skarbowego, jeżeli popełnienie
+        czynu jest oczywiste i uniemożliwia jego pozostanie w służbie;</br>
+        9)upływu 12 miesięcy zawieszenia w czynnościach służbowych, jeżeli nie ustały przyczyny będące
+        podstawą zawieszenia;</br>
+        10)usunięcia ze szkolenia zawodowego podstawowego, w przypadkach wskazanych w art. 34f
+        usunięcie policjanta ze szkolenia zawodowego ust. 1 pkt 1, 3 i 5–8.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-91-a-answer4',
+        buttonIdB: 'title-91-b-answer4',
+        buttonIdC: 'title-91-c-answer4',
+        buttonIdD: 'title-91-d-answer4',
+        correctAnswer: 'title-91-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 92,
+        title: `98. Przełożony może przedłużyć okres służby przygotowawczej policjanta w razie przerwy w
+        wykonywaniu przez policjanta obowiązków służbowych, trwającej dłużej niż`,
+        a: `</br>Art. 29</br>
+        4. W razie przerwy w wykonywaniu przez policjanta obowiązków służbowych, trwającej dłużej niż
+        2 miesiące, przełożony może przedłużyć okres jego służby przygotowawczej.`,
+        b: `</br>Art. 29</br>
+        4. W razie przerwy w wykonywaniu przez policjanta obowiązków służbowych, trwającej dłużej niż
+        4 miesiące, przełożony może przedłużyć okres jego służby przygotowawczej.`,
+        c: `</br>Art. 29</br>
+        4. W razie przerwy w wykonywaniu przez policjanta obowiązków służbowych, trwającej dłużej niż
+        3 miesiące, przełożony może przedłużyć okres jego służby przygotowawczej.`,
+        d: `</br>Art. 29</br>
+        4. W razie przerwy w wykonywaniu przez policjanta obowiązków służbowych, trwającej dłużej niż
+        6 miesięcy, przełożony może przedłużyć okres jego służby przygotowawczej.`,
+        buttonIdA: 'title-92-a-answer4',
+        buttonIdB: 'title-92-b-answer4',
+        buttonIdC: 'title-92-c-answer4',
+        buttonIdD: 'title-92-d-answer4',
+        correctAnswer: 'title-92-c-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 93,
+        title: `99. Policjant nie może podejmować zajęcia zarobkowego poza służbą bez`,
+        a: `</br>Art. 62</br>
+        1. Policjant nie może podejmować zajęcia zarobkowego poza służbą bez pisemnej zgody
+        przełożonego ani wykonywać czynności lub zajęć sprzecznych z obowiązkami wynikającymi z
+        ustawy lub podważających zaufanie do Policji.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-93-a-answer4',
+        buttonIdB: 'title-93-b-answer4',
+        buttonIdC: 'title-93-c-answer4',
+        buttonIdD: 'title-93-d-answer4',
+        correctAnswer: 'title-93-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 94,
+        title: `100.Oświadczenie o stanie majątkowym policjanta przechowuje się`,
+        a: `</br>Art. 62</br>
+        1. Policjant nie może podejmować zajęcia zarobkowego poza służbą bez pisemnej zgody
+        przełożonego ani wykonywać czynności lub zajęć sprzecznych z obowiązkami wynikającymi z
+        ustawy lub podważających zaufanie do Policji.</br>
+        2. Policjant jest obowiązany złożyć oświadczenie o swoim stanie majątkowym, w tym o majątku
+        objętym małżeńską wspólnością majątkową, przy nawiązywaniu lub rozwiązywaniu stosunku
+        służbowego lub stosunku pracy, corocznie oraz na żądanie przełożonego właściwego w sprawach
+        osobowych. Oświadczenie to powinno zawierać informacje o źródłach i wysokości uzyskanych
+        przychodów, posiadanych zasobach pieniężnych, nieruchomościach, udziałach i akcjach w spółkach
+        prawa handlowego, a ponadto o nabytym przez tę osobę albo jej małżonka od Skarbu Państwa,
+        innej państwowej osoby prawnej, gminy, związku międzygminnego, powiatu, związku powiatów,
+        związku powiatowo-gminnego lub związku metropolitalnego mieniu, które podlegało zbyciu w
+        drodze przetargu. Oświadczenie to powinno również zawierać dane dotyczące prowadzenia
+        działalności gospodarczej oraz pełnienia funkcji w spółkach prawa handlowego lub spółdzielniach, z
+        wyjątkiem funkcji w radzie nadzorczej spółdzielni mieszkaniowej.</br>
+        3. Oświadczenie o stanie majątkowym coroczne składa się do dnia 31 marca według stanu na
+        dzień 31 grudnia roku poprzedniego.</br>
+        4. Przełożeni właściwi w sprawach osobowych lub osoby przez nich upoważnione, w celu
+        przeprowadzenia analizy zgodności ze stanem faktycznym złożonych oświadczeń o stanie
+        majątkowym, mają prawo wglądu do ich treści i przetwarzania danych w nich zawartych.</br>
+        4a. Inspektor Nadzoru Wewnętrznego w celu przeprowadzenia analizy złożonych oświadczeń o
+        stanie majątkowym ma prawo wglądu do ich treści i przetwarzania danych w nich zawartych.</br>
+        5. Informacje zawarte w oświadczeniu o stanie majątkowym stanowią tajemnicę prawnie
+        chronioną i podlegają ochronie przewidzianej dla informacji niejawnych o klauzuli tajności
+        "zastrzeżone" określonej w przepisach o ochronie informacji niejawnych, chyba że policjant, który
+        złożył oświadczenie, wyraził pisemną zgodę na ich ujawnienie, z zastrzeżeniem ust. 7.
+        6. Oświadczenie o stanie majątkowym przechowuje się przez 10 lat.</br>
+        7. Informacje zawarte w oświadczeniach o stanie majątkowym osób pełniących funkcje organów
+        Policji są publikowane, bez ich zgody, na właściwych stronach Biuletynu Informacji Publicznej, z
+        wyłączeniem danych dotyczących daty i miejsca urodzenia, numeru PESEL, miejsca zamieszkania i
+        położenia nieruchomości.</br>
+        8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania
+        w sprawach oświadczeń o stanie majątkowym, sposób analizy ich zgodności ze stanem faktycznym,
+        a także wzór oświadczenia o stanie majątkowym oraz tryb publikowania oświadczeń, o których
+        mowa w ust. 7, uwzględniając zakres danych objętych oświadczeniem o stanie majątkowym.`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-94-a-answer4',
+        buttonIdB: 'title-94-b-answer4',
+        buttonIdC: 'title-94-c-answer4',
+        buttonIdD: 'title-94-d-answer4',
+        correctAnswer: 'title-94-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 95,
+        title: `101.Zgodnie z ustawą z dnia 6 kwietnia 1990 r. o Policji, roszczenia z tytułu prawa do
+        uposażenia i innych świadczeń oraz należności pieniężnych ulegają przedawnieniu z
+        upływem`,
+        a: `</br>Art. 107</br>
+        1. Roszczenia z tytułu prawa do uposażenia i innych świadczeń oraz należności pieniężnych ulegają
+        przedawnieniu z upływem 2 lat od dnia, w którym roszczenie stało się wymagalne.
+        `,
+        b: `</br>Art. 107</br>
+        1. Roszczenia z tytułu prawa do uposażenia i innych świadczeń oraz należności pieniężnych ulegają
+        przedawnieniu z upływem 3 lat od dnia, w którym roszczenie stało się wymagalne.`,
+        c: `</br>Art. 107</br>
+        1. Roszczenia z tytułu prawa do uposażenia i innych świadczeń oraz należności pieniężnych ulegają
+        przedawnieniu z upływem 4 lat od dnia, w którym roszczenie stało się wymagalne.`,
+        d: `</br>Art. 107</br>
+        1. Roszczenia z tytułu prawa do uposażenia i innych świadczeń oraz należności pieniężnych ulegają
+        przedawnieniu z upływem 1 roku od dnia, w którym roszczenie stało się wymagalne.`,
+        buttonIdA: 'title-95-a-answer4',
+        buttonIdB: 'title-95-b-answer4',
+        buttonIdC: 'title-95-c-answer4',
+        buttonIdD: 'title-95-d-answer4',
+        correctAnswer: 'title-95-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 96,
+        title: `102.W korpusie generałów Policji wyróżniamy stopień`,
+        a: `</br>Art. 47</br>
+        1)w korpusie generałów Policji:</br>
+        a) generalny inspektor Policji,</br>
+        b) nadinspektor Policji;`,
+        b: `</br>Art. 47</br>
+        1)w korpusie generałów Policji:</br>
+        a) generalny inspektor Policji,</br>
+        b) nadinspektor Policji, </br>
+        c) młodszy inspektor Policji; `,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-96-a-answer4',
+        buttonIdB: 'title-96-b-answer4',
+        buttonIdC: 'title-96-c-answer4',
+        buttonIdD: 'title-96-d-answer4',
+        correctAnswer: 'title-96-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 97,
+        title: `103.Przed podjęciem służby policjant składa`,
+        a: `</br>Art. 27</br>
+        1. Przed podjęciem służby policjant składa ślubowanie według następującej roty: "Ja, obywatel
+        Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków policjanta, ślubuję: służyć wiernie
+        Narodowi, chronić ustanowiony Konstytucją Rzeczypospolitej Polskiej porządek prawny, strzec
+        bezpieczeństwa Państwa i jego obywateli, nawet z narażeniem życia. Wykonując powierzone mi
+        zadania, ślubuję przestrzegać prawa, dochować wierności konstytucyjnym organom
+        Rzeczypospolitej Polskiej, przestrzegać dyscypliny służbowej oraz wykonywać rozkazy i polecenia
+        przełożonych. Ślubuję strzec tajemnic związanych ze służbą, honoru, godności i dobrego imienia
+        służby oraz przestrzegać zasad etyki zawodowej.`,
+        b: `</br>Art. 27</br>
+        1. Przed podjęciem służby policjant składa ślubowanie według następującej roty: "Ja, obywatel
+        Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków policjanta, ślubuję: służyć wiernie
+        Narodowi, chronić ustanowiony Konstytucją Rzeczypospolitej Polskiej porządek prawny, strzec
+        bezpieczeństwa Państwa i jego obywateli, nawet z narażeniem życia. Wykonując powierzone mi
+        zadania, ślubuję pilnie przestrzegać prawa, dochować wierności konstytucyjnym organom
+        Rzeczypospolitej Polskiej, przestrzegać dyscypliny służbowej oraz wykonywać rozkazy i polecenia
+        przełożonych. Ślubuję strzec tajemnic związanych ze służbą, honoru, godności i dobrego imienia
+        służby oraz przestrzegać zasad etyki zawodowej.`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-97-a-answer4',
+        buttonIdB: 'title-97-b-answer4',
+        buttonIdC: 'title-97-c-answer4',
+        buttonIdD: 'title-97-d-answer4',
+        correctAnswer: 'title-97-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 98,
+        title: `104.Kontroli osobistej policjant może dokonać`,
+        a: `</br>Art. 15</br>
+        1.Policjanci wykonując czynności, o których mowa w art. 14 czynności Policji, mają prawo:</br>
+        […]</br>
+        5)dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków
+        w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego:</br>
+        a) w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary
+        lub</br>
+        b) w celu znalezienia:</br>
+        – broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu
+        zabronionego pod groźbą kary lub</br>
+        – przedmiotów, których posiadanie jest zabronione, lub mogących stanowić dowód w
+        postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 1 zadania Policji
+        ust. 2 pkt 1, 2, 3a, 4, 4a, 6 i 7, oraz przepisów innych ustaw określających zadania Policji lub</br>
+        – przedmiotów podlegających przepadkowi w przypadku uzasadnionego przypuszczenia posiadania
+        przez osobę broni lub takich przedmiotów lub uzasadnionego przypuszczenia ich użycia do
+        popełnienia czynu zabronionego pod groźbą kary</br>
+        – na zasadach i w sposób określony w art. 15d kontrola osobista i art. 15e przeglądanie zawartości
+        bagaży lub sprawdzanie ładunków;</br>
+        […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-98-a-answer4',
+        buttonIdB: 'title-98-b-answer4',
+        buttonIdC: 'title-98-c-answer4',
+        buttonIdD: 'title-98-d-answer4',
+        correctAnswer: 'title-98-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 99,
+        title: `105.Bezpośrednim przełożonym policjanta dzielnicowego jest 
+        `,
+        a: `§ 7. Dzielnicowy podlega bezpośrednio kierownikowi rewiru dzielnicowych lub innemu
+        policjantowi, wyznaczonemu przez kierownika jednostki organizacyjnej Policji.</br>
+        OBWIESZCZENIE KOMENDANTA GŁÓWNEGO POLICJI z dnia 29 kwietnia 2013 r. w sprawie
+        ogłoszenia jednolitego tekstu zarządzenia Komendanta Głównego Policji w sprawie form i metod
+        wykonywania zadań przez dzielnicowego i kierownika rewiru dzielnicowych`,
+        b: `§ 7. Dzielnicowy podlega Komendantowi Powiatowemu Policji</br>
+        OBWIESZCZENIE KOMENDANTA GŁÓWNEGO POLICJI z dnia 29 kwietnia 2013 r. w sprawie
+        ogłoszenia jednolitego tekstu zarządzenia Komendanta Głównego Policji w sprawie form i metod
+        wykonywania zadań przez dzielnicowego i kierownika rewiru dzielnicowych`,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-99-a-answer4',
+        buttonIdB: 'title-99-b-answer4',
+        buttonIdC: 'title-99-c-answer4',
+        buttonIdD: 'title-99-d-answer4',
+        correctAnswer: 'title-99-b-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 100,
+        title: `106.Organami administracji rządowej na obszarze województwa w sprawach właściwych
+        ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego są`,
+        a: `</br>Art. 6.</br>
+        1. Organami administracji rządowej na obszarze województwa w sprawach, o których mowa w art.
+        5 ust. 1, są:</br>
+        1) wojewoda przy pomocy komendanta wojewódzkiego Policji działającego w jego imieniu albo
+        komendant wojewódzki Policji działający w imieniu własnym w sprawach:</br>
+        a) wykonywania czynności operacyjno-rozpoznawczych, dochodzeniowo-śledczych i czynności z
+        zakresu ścigania wykroczeń,</br>
+        b) wydawania indywidualnych aktów administracyjnych, jeżeli ustawy tak stanowią;</br>
+        2) komendant powiatowy (miejski) Policji;</br>
+        3) komendant komisariatu Policji.
+        […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-100-a-answer4',
+        buttonIdB: 'title-100-b-answer4',
+        buttonIdC: 'title-100-c-answer4',
+        buttonIdD: 'title-100-d-answer4',
+        correctAnswer: 'title-100-a-answer4',
+        category: 'USTAWA O POLICJI',
+    },
+
+    {
+        id: 101,
+        title: `107.Komendanci Policji składają roczne sprawozdania ze swojej działalności oraz informacje
+        o stanie porządku i bezpieczeństwa publicznego`,
+        a: `</br>Art. 10.</br>
+        1. Komendanci Policji, z zastrzeżeniem ust. 1a, składają roczne sprawozdania ze swojej działalności,
+        a także informacje o stanie porządku i bezpieczeństwa publicznego właściwym wojewodom,
+        starostom, wójtom (burmistrzom lub prezydentom miast), a także radom powiatu i radom gmin.</br>
+        W razie zagrożenia bezpieczeństwa publicznego lub zakłócenia porządku publicznego sprawozdania
+        i informacje składa się tym organom niezwłocznie na każde ich żądanie.
+        1a. Komendant Stołeczny Policji składa sprawozdanie, a także informacje, o których mowa w ust.
+        1, Wojewodzie Mazowieckiemu oraz, w zakresie dotyczącym działalności Policji na obszarze m.st.
+        Warszawy, Prezydentowi m.st. Warszawy i Radzie m.st. Warszawy. Komendanci rejonowi Policji nie
+        składają odrębnych sprawozdań.</br>
+        […]`,
+        b: ``,
+        c: ``,
+        d: ``,
+        buttonIdA: 'title-101-a-answer4',
+        buttonIdB: 'title-101-b-answer4',
+        buttonIdC: 'title-101-c-answer4',
+        buttonIdD: 'title-101-d-answer4',
+        correctAnswer: 'title-101-a-answer4',
         category: 'USTAWA O POLICJI',
     },
 ];
